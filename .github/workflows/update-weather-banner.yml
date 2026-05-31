@@ -1,0 +1,37 @@
+name: Update weather banner
+
+on:
+  schedule:
+    # Every 6 hours (UTC): 00:00, 06:00, 12:00, 18:00
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-banner:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate banner from Bokaro weather
+        run: python3 scripts/update_banner.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-banner.svg
+          if git diff --staged --quiet; then
+            echo "Banner unchanged; skipping commit."
+            exit 0
+          fi
+          git commit -m "$(cat <<'EOF'
+chore: refresh profile banner for Bokaro weather
+
+Auto-generated from Open-Meteo for Bokaro Steel City (Asia/Kolkata).
+EOF
+)"
+          git push

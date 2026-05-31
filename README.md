@@ -4,7 +4,7 @@
 
 <br>
 
-<sub>☂️ raining on my profile since forever 💧</sub>
+<sub>☂️ live weather in Bokaro · refreshes every 6h</sub>
 
 </div>
 
