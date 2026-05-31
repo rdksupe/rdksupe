@@ -1,16 +1,14 @@
-<div align="center">
-
-<img src="./assets/profile-banner.svg" width="560" alt="Pixel cat with umbrella in the rain" />
-
-</div>
-
----
-
 ## Hey there 👋
 
 I am Rishi, and I pretty much like working on anything under the sun — provided it's fun and difficult :)
 
 🌐 [rdksupe.bearblog.dev](https://rdksupe.bearblog.dev) — Rdk's Super Weird Musings
+
+<div align="center">
+
+<img src="./assets/profile-banner.svg" width="560" alt="Pixel cat with umbrella in the rain" />
+
+</div>
 
 Since you're here anyway, might as well enjoy an xkcd, eh?
 
