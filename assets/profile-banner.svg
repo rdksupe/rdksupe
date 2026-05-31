@@ -57,10 +57,9 @@
   </g>
 
   <g class="bubble">
-    <rect x="250" y="28" width="290" height="44" rx="11" fill="#12121f" stroke="#DE886D" stroke-width="1.5"/>
-    <polygon points="252,68 260,68 246,80" fill="#12121f" stroke="#DE886D" stroke-width="1"/>
-    <text x="395.0" y="48" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="12" font-weight="bold">26°C · Clear</text>
-    <text x="395.0" y="64" text-anchor="middle" fill="#bc8d6b" font-family="monospace" font-size="10">11:15 PM · Sun · Bokaro · 90% humidity</text>
+    <rect x="350" y="36" width="86" height="34" rx="11" fill="#12121f" stroke="#DE886D" stroke-width="1.5"/>
+    <polygon points="352,64 360,64 346,76" fill="#12121f" stroke="#DE886D" stroke-width="1"/>
+    <text x="393" y="59" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="14" font-weight="bold">meow~!</text>
   </g>
 </svg>
 

@@ -8,13 +8,9 @@ import sys
 import urllib.error
 import urllib.request
 from dataclasses import dataclass
-from datetime import datetime
-from zoneinfo import ZoneInfo
 
 LATITUDE = 23.6693
 LONGITUDE = 86.1511
-TIMEZONE = ZoneInfo("Asia/Kolkata")
-CITY_LABEL = "Bokaro"
 OUTPUT_PATH = "assets/profile-banner.svg"
 
 # clawd-pet (MIT) — https://github.com/abderrahimghazali/clawd-pet
@@ -86,8 +82,7 @@ class Scene:
     show_fog: bool
     cat_html: str
     cat_styles: str
-    line1: str
-    line2: str
+    summary: str  # logged only, not rendered in SVG
 
 
 def fetch_weather() -> dict:
@@ -151,14 +146,8 @@ def build_scene(data: dict) -> Scene:
     is_day = int(current["is_day"]) == 1
     temp = round(float(current["temperature_2m"]))
     humidity = int(current["relative_humidity_2m"])
-
-    now = datetime.fromisoformat(current["time"]).replace(tzinfo=TIMEZONE)
-    time_str = now.strftime("%-I:%M %p") if sys.platform != "win32" else now.strftime("%I:%M %p").lstrip("0")
-    day_str = now.strftime("%a")
-
     label = weather_label(code)
-    line1 = f"{temp}°C · {label}"
-    line2 = f"{time_str} · {day_str} · {CITY_LABEL}"
+    summary = f"{temp}°C · {label} · is_day={is_day} · humidity={humidity}%"
 
     if is_day and code == 0:
         bg = "#2a3548"
@@ -256,8 +245,7 @@ def build_scene(data: dict) -> Scene:
         show_fog=is_foggy(code),
         cat_html=cat_html,
         cat_styles=cat_styles,
-        line1=line1,
-        line2=f"{line2} · {humidity}% humidity",
+        summary=summary,
     )
 
 
@@ -334,7 +322,6 @@ def render(scene: Scene) -> str:
 
     stars = stars_markup() if scene.show_stars else ""
     rain = rain_markup(scene.rain_count, scene.rain_color, scene.rain_opacity)
-    bubble_width = max(200, len(scene.line2) * 7 + 24)
 
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 160" width="560" height="160">
   <!-- Auto-generated for Bokaro Steel City · scripts/update_banner.py -->
@@ -361,10 +348,9 @@ def render(scene: Scene) -> str:
   </g>
 
   <g class="bubble">
-    <rect x="{560 - bubble_width - 20}" y="28" width="{bubble_width}" height="44" rx="11" fill="{scene.bg}" stroke="#DE886D" stroke-width="1.5"/>
-    <polygon points="{560 - bubble_width - 18},68 {560 - bubble_width - 10},68 {560 - bubble_width - 24},80" fill="{scene.bg}" stroke="#DE886D" stroke-width="1"/>
-    <text x="{560 - bubble_width / 2 - 20}" y="48" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="12" font-weight="bold">{scene.line1}</text>
-    <text x="{560 - bubble_width / 2 - 20}" y="64" text-anchor="middle" fill="#bc8d6b" font-family="monospace" font-size="10">{scene.line2}</text>
+    <rect x="350" y="36" width="86" height="34" rx="11" fill="{scene.bg}" stroke="#DE886D" stroke-width="1.5"/>
+    <polygon points="352,64 360,64 346,76" fill="{scene.bg}" stroke="#DE886D" stroke-width="1"/>
+    <text x="393" y="59" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="14" font-weight="bold">meow~!</text>
   </g>
 </svg>
 """
@@ -384,8 +370,7 @@ def main() -> int:
         handle.write("\n")
 
     print(f"Wrote {OUTPUT_PATH}")
-    print(f"  {scene.line1}")
-    print(f"  {scene.line2}")
+    print(f"  Scene: {scene.summary}")
     return 0
 
 
