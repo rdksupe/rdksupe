@@ -28,10 +28,5 @@ jobs:
             echo "Banner unchanged; skipping commit."
             exit 0
           fi
-          git commit -m "$(cat <<'EOF'
-chore: refresh profile banner for Bokaro weather
-
-Auto-generated from Open-Meteo for Bokaro Steel City (Asia/Kolkata).
-EOF
-)"
+          git commit -m "chore: refresh profile banner for Bokaro weather" -m "Auto-generated from Open-Meteo for Bokaro Steel City (Asia/Kolkata)."
           git push
