@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/cat-rain.svg" width="560" alt="Orange cat meowing in the rain" />
+<img src="./assets/profile-banner.svg" width="560" alt="Pixel cat with umbrella in the rain" />
 
 <br>
 
