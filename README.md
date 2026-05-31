@@ -1,8 +1,8 @@
 ## Hey there 👋
 
-I am Rishi, and I pretty much like working on anything under the sun — provided it's fun and difficult :)
+I am Rishi, and I pretty much like working on anything under the sun, provided it's fun and difficult. I have worked across the machine learning stack and on several applied AI projects as well. I love exploring how far modern day LLMs can be pushed, and still believe we are only starting to scratch the surface on what these things are capable of.
 
-🌐 [rdksupe.bearblog.dev](https://rdksupe.bearblog.dev) — Rdk's Super Weird Musings
+In my free time I like reading sci-fi. Currently going through the Dungeon Crawler Carl series. Would love to have a chat if you are building anything cool around applied AI, LLM inference, and that sort of thing.
 
 <div align="center">
 
