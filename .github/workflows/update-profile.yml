@@ -1,4 +1,4 @@
-name: Update weather banner
+name: Update profile README
 
 on:
   schedule:
@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  update-banner:
+  update-profile:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,14 +19,17 @@ jobs:
       - name: Generate banner from Bokaro weather
         run: python3 scripts/update_banner.py
 
+      - name: Pick a random xkcd comic
+        run: python3 scripts/update_xkcd.py
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/profile-banner.svg
+          git add assets/profile-banner.svg README.md
           if git diff --staged --quiet; then
-            echo "Banner unchanged; skipping commit."
+            echo "Nothing changed; skipping commit."
             exit 0
           fi
-          git commit -m "chore: refresh profile banner for Bokaro weather" -m "Auto-generated from Open-Meteo for Bokaro Steel City (Asia/Kolkata)."
+          git commit -m "chore: refresh profile banner and random xkcd" -m "Auto-generated banner from Open-Meteo (Bokaro) and comic from xkcd.com."
           git push

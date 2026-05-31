@@ -12,6 +12,16 @@ I like building cool stuff :)
 
 🌐 [rdksupe.bearblog.dev](https://rdksupe.bearblog.dev) — Rdk's Super Weird Musings
 
+<!-- xkcd:start -->
+
+### Random xkcd · [M87 Black Hole Size Comparison](https://xkcd.com/2135/)
+
+[![M87 Black Hole Size Comparison](https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png)](https://xkcd.com/2135/)
+
+*I think Voyager 1 would be just past the event horizon, but slightly less than halfway to the bright ring.*
+
+<!-- xkcd:end -->
+
 <!--
 **rdksupe/rdksupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
