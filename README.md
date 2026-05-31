@@ -6,15 +6,15 @@
 
 ---
 
-## Hi there 👋
+## Hey there 👋
 
-I like building cool stuff :)
+I am Rishi, and I pretty much like working on anything under the sun — provided it's fun and difficult :)
 
 🌐 [rdksupe.bearblog.dev](https://rdksupe.bearblog.dev) — Rdk's Super Weird Musings
 
-<!-- xkcd:start -->
+Since you're here anyway, might as well enjoy an xkcd, eh?
 
-### Random xkcd · [M87 Black Hole Size Comparison](https://xkcd.com/2135/)
+<!-- xkcd:start -->
 
 [![M87 Black Hole Size Comparison](https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png)](https://xkcd.com/2135/)
 

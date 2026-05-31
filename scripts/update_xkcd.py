@@ -42,9 +42,7 @@ def render_block(comic: dict) -> str:
     image = comic["img"]
     link = comic.get("url") or f"https://xkcd.com/{number}/"
 
-    return f"""### Random xkcd · [{title}]({link})
-
-[![{title}]({image})]({link})
+    return f"""[![{title}]({image})]({link})
 
 *{alt}*"""
 
