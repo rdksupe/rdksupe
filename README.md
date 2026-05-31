@@ -8,6 +8,8 @@
 
 ## Hi there 👋
 
+I like building cool stuff :)
+
 🌐 [rdksupe.bearblog.dev](https://rdksupe.bearblog.dev) — Rdk's Super Weird Musings
 
 <!--
