@@ -13,6 +13,7 @@ import urllib.request
 README_PATH = "README.md"
 START_MARKER = "<!-- xkcd:start -->"
 END_MARKER = "<!-- xkcd:end -->"
+COMIC_WIDTH = 400
 
 
 def fetch_random_comic() -> dict:
