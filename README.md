@@ -2,10 +2,6 @@
 
 <img src="./assets/profile-banner.svg" width="560" alt="Pixel cat with umbrella in the rain" />
 
-<br>
-
-<sub>☂️ live weather in Bokaro · refreshes every 6h</sub>
-
 </div>
 
 ---
