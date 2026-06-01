@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rickrolling Anniversary](https://imgs.xkcd.com/comics/rickrolling_anniversary.png)](https://xkcd.com/1981/)
+[![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)](https://xkcd.com/3139/)
 
-*Want to feel old? The 'want to feel old?' factoid meme dates back to around 2011, closer to the Bush/Kerry election than to today.*
+*The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.*
 
 <!-- xkcd:end -->
 
