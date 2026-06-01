@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reverse Euphemisms](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/)
+[![Email](https://imgs.xkcd.com/comics/email.png)](https://xkcd.com/1467/)
 
-*I'm still waiting for a chance to use 'I have to see a man about a horse'.*
+*My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.*
 
 <!-- xkcd:end -->
 
