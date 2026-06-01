@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Plutonium](https://imgs.xkcd.com/comics/plutonium.png)](https://xkcd.com/2115/)
+[![Reverse Euphemisms](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/)
 
-*It's like someone briefly joined the team running the universe, introduced their idea for a cool mechanic, then left, and now everyone is stuck pretending that this wildly unbalanced dynamic makes sense.*
+*I'm still waiting for a chance to use 'I have to see a man about a horse'.*
 
 <!-- xkcd:end -->
 
