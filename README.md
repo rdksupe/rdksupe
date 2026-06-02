@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Nerd Girls](https://imgs.xkcd.com/comics/nerd_girls.jpg)](https://xkcd.com/67/)
+[![Windows 7](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/)
 
-*Nothing personal, high schoolers.*
+*Disclaimer: I have not actually tried the beta yet. I hear it's quite pleasant and hardly Hitler-y at all.*
 
 <!-- xkcd:end -->
 
