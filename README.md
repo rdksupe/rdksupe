@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cron Mail](https://imgs.xkcd.com/comics/cron_mail.png)](https://xkcd.com/1728/)
+[![Superlative](https://imgs.xkcd.com/comics/superlative.png)](https://xkcd.com/621/)
 
-*Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.*
+*Stay while I recount the crazy TF2 kill I managed yesterday, my friends.*
 
 <!-- xkcd:end -->
 
