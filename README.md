@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Email](https://imgs.xkcd.com/comics/email.png)](https://xkcd.com/1467/)
+[![Cron Mail](https://imgs.xkcd.com/comics/cron_mail.png)](https://xkcd.com/1728/)
 
-*My New Year's resolution for 2014-54-12/30/14 Dec:12:1420001642 is to learn these stupid time formatting strings.*
+*Take THAT, piece of 1980s-era infrastructure I've inexplicably maintained on my systems for 15 years despite never really learning how it works.*
 
 <!-- xkcd:end -->
 
