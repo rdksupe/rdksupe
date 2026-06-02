@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Superlative](https://imgs.xkcd.com/comics/superlative.png)](https://xkcd.com/621/)
+[![Nerd Girls](https://imgs.xkcd.com/comics/nerd_girls.jpg)](https://xkcd.com/67/)
 
-*Stay while I recount the crazy TF2 kill I managed yesterday, my friends.*
+*Nothing personal, high schoolers.*
 
 <!-- xkcd:end -->
 
