@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Console Lines](https://imgs.xkcd.com/comics/console_lines.png)](https://xkcd.com/186/)
+[![Car Problems](https://imgs.xkcd.com/comics/car_problems.png)](https://xkcd.com/1014/)
 
-*If I get a Wii, it will be the first game console I've owned.*
+*Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.*
 
 <!-- xkcd:end -->
 
