@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Windows 7](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/)
+[![The Glass Necklace](https://imgs.xkcd.com/comics/the_glass_necklace.png)](https://xkcd.com/260/)
 
-*Disclaimer: I have not actually tried the beta yet. I hear it's quite pleasant and hardly Hitler-y at all.*
+*Well, for some value of 'actually work'.*
 
 <!-- xkcd:end -->
 
