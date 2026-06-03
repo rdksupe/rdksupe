@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tech Loops](https://imgs.xkcd.com/comics/tech_loops.png)](https://xkcd.com/1579/)
+[![Console Lines](https://imgs.xkcd.com/comics/console_lines.png)](https://xkcd.com/186/)
 
-*And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.*
+*If I get a Wii, it will be the first game console I've owned.*
 
 <!-- xkcd:end -->
 
