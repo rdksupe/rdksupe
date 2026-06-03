@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Glass Necklace](https://imgs.xkcd.com/comics/the_glass_necklace.png)](https://xkcd.com/260/)
+[![Tech Loops](https://imgs.xkcd.com/comics/tech_loops.png)](https://xkcd.com/1579/)
 
-*Well, for some value of 'actually work'.*
+*And when I think about it, a lot of "things I want to do" are just learning about and discussing new tools for tinkering with the chain.*
 
 <!-- xkcd:end -->
 
