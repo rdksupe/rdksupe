@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
+[![Celestial Event](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971/)
 
-*Okay, everyone, cross yourselves, then cross the streams.*
+*If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.*
 
 <!-- xkcd:end -->
 
