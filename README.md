@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dimensional Analysis](https://imgs.xkcd.com/comics/dimensional_analysis.png)](https://xkcd.com/687/)
+[![Exposure Models](https://imgs.xkcd.com/comics/exposure_models.png)](https://xkcd.com/2429/)
 
-*Or the pressure at the Earth's core will rise slightly.*
+*"Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.*
 
 <!-- xkcd:end -->
 
