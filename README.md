@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Celestial Event](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971/)
+[![Dimensional Analysis](https://imgs.xkcd.com/comics/dimensional_analysis.png)](https://xkcd.com/687/)
 
-*If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.*
+*Or the pressure at the Earth's core will rise slightly.*
 
 <!-- xkcd:end -->
 
