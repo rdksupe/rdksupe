@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Car Problems](https://imgs.xkcd.com/comics/car_problems.png)](https://xkcd.com/1014/)
+[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
 
-*Or if you replace your car, we'll be happy to set it on fire again so you can take another crack at getting that shot.*
+*Okay, everyone, cross yourselves, then cross the streams.*
 
 <!-- xkcd:end -->
 
