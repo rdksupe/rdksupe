@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Exposure Models](https://imgs.xkcd.com/comics/exposure_models.png)](https://xkcd.com/2429/)
+[![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)](https://xkcd.com/3169/)
 
-*"Cumulative number of coronavirus spreadsheets created over time" is a spreadsheet I am coming dangerously close to creating.*
+*'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'*
 
 <!-- xkcd:end -->
 
