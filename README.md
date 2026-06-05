@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![EPIRBs](https://imgs.xkcd.com/comics/epirbs.png)](https://xkcd.com/3169/)
+[![Woosh](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/)
 
-*'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'*
+*It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.*
 
 <!-- xkcd:end -->
 
