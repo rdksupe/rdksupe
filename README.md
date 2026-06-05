@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Stove Ownership](https://imgs.xkcd.com/comics/stove_ownership.png)](https://xkcd.com/418/)
+[![Jack and Jill](https://imgs.xkcd.com/comics/jack_and_jill.png)](https://xkcd.com/1662/)
 
-*Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.*
+*Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.*
 
 <!-- xkcd:end -->
 
