@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Woosh](https://imgs.xkcd.com/comics/woosh.png)](https://xkcd.com/1627/)
+[![Stove Ownership](https://imgs.xkcd.com/comics/stove_ownership.png)](https://xkcd.com/418/)
 
-*It also occasionally replies with 'Comment of the year', 'Are you for real', and 'I'm taking a screenshot so I can remember this moment forever'.*
+*Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.*
 
 <!-- xkcd:end -->
 
