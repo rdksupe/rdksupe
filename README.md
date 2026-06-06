@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![TTSLTSWBD](https://imgs.xkcd.com/comics/ttsltswbd.png)](https://xkcd.com/2540/)
+[![Science](https://imgs.xkcd.com/comics/science.jpg)](https://xkcd.com/54/)
 
-*Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.*
+*Bonus points if you can identify the science in question*
 
 <!-- xkcd:end -->
 
