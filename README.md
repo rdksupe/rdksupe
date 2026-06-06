@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Science](https://imgs.xkcd.com/comics/science.jpg)](https://xkcd.com/54/)
+[![Glacier](https://imgs.xkcd.com/comics/glacier.png)](https://xkcd.com/2164/)
 
-*Bonus points if you can identify the science in question*
+*The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.*
 
 <!-- xkcd:end -->
 
