@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Jack and Jill](https://imgs.xkcd.com/comics/jack_and_jill.png)](https://xkcd.com/1662/)
+[![TTSLTSWBD](https://imgs.xkcd.com/comics/ttsltswbd.png)](https://xkcd.com/2540/)
 
-*Jill and Jack / began to frack. / The oil boosts their town. / But fractures make / the bedrock shake / and Jack came tumbling down.*
+*Tomorrow's sessions will be entirely devoted to sewing machine rotary hooks.*
 
 <!-- xkcd:end -->
 
