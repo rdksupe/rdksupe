@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Glacier](https://imgs.xkcd.com/comics/glacier.png)](https://xkcd.com/2164/)
+[![Annoying Ringtone Champion](https://imgs.xkcd.com/comics/annoying_ringtone_champion.png)](https://xkcd.com/1241/)
 
-*The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.*
+*It beat out 'Clock radio alarm', 'B-flat at 194 decibels', 'That noise from Dumb & Dumber', and 'Recording of a sobbing voice begging you to answer'.*
 
 <!-- xkcd:end -->
 
