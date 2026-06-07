@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
+[![Universe Price Tiers](https://imgs.xkcd.com/comics/universe_price_tiers.png)](https://xkcd.com/2666/)
 
-*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
+*In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.*
 
 <!-- xkcd:end -->
 
