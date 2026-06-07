@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Annoying Ringtone Champion](https://imgs.xkcd.com/comics/annoying_ringtone_champion.png)](https://xkcd.com/1241/)
+[![Next Slide Please](https://imgs.xkcd.com/comics/next_slide_please.png)](https://xkcd.com/2470/)
 
-*It beat out 'Clock radio alarm', 'B-flat at 194 decibels', 'That noise from Dumb & Dumber', and 'Recording of a sobbing voice begging you to answer'.*
+*"I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."*
 
 <!-- xkcd:end -->
 
