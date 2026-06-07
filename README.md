@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Next Slide Please](https://imgs.xkcd.com/comics/next_slide_please.png)](https://xkcd.com/2470/)
+[![Fall Back](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/)
 
-*"I have nothing to offer but blood--next slide, please--toil--next slide, please--tears, and--next slide, please--sweat."*
+*Doing great here in the sixth and hopefully final year of the 2016 election.*
 
 <!-- xkcd:end -->
 
