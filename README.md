@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fall Back](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/)
+[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
 
-*Doing great here in the sixth and hopefully final year of the 2016 election.*
+*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
 
 <!-- xkcd:end -->
 
