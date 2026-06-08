@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Past](https://imgs.xkcd.com/comics/the_past.png)](https://xkcd.com/1191/)
+[![Circles](https://imgs.xkcd.com/comics/circles.png)](https://xkcd.com/2436/)
 
-*If history has taught us anything, we can use that information to destroy it.*
+*( MSTE ( AR ) CD )*
 
 <!-- xkcd:end -->
 
