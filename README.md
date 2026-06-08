@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Universe Price Tiers](https://imgs.xkcd.com/comics/universe_price_tiers.png)](https://xkcd.com/2666/)
+[![Lightning](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231/)
 
-*In Universe Pro®™ the laws of physics remain unchanged under time reversal, to maintain backward compatibility.*
+*Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
 
 <!-- xkcd:end -->
 
