@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lightning](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231/)
+[![The Past](https://imgs.xkcd.com/comics/the_past.png)](https://xkcd.com/1191/)
 
-*Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
+*If history has taught us anything, we can use that information to destroy it.*
 
 <!-- xkcd:end -->
 
