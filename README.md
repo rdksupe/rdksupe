@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Circles](https://imgs.xkcd.com/comics/circles.png)](https://xkcd.com/2436/)
+[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
 
-*( MSTE ( AR ) CD )*
+*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
 
 <!-- xkcd:end -->
 
