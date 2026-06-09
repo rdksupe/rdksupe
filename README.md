@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Universal Install Script](https://imgs.xkcd.com/comics/universal_install_script.png)](https://xkcd.com/1654/)
+[![Flowcharts](https://imgs.xkcd.com/comics/flowcharts.png)](https://xkcd.com/1488/)
 
-*The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)*
+*Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!*
 
 <!-- xkcd:end -->
 
