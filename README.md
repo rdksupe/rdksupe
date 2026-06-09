@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![2018 CVE List](https://imgs.xkcd.com/comics/2018_cve_list.png)](https://xkcd.com/1957/)
+[![Election Impact Score Sheet](https://imgs.xkcd.com/comics/election_impact_score_sheet.png)](https://xkcd.com/2380/)
 
-*CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.*
+*You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.*
 
 <!-- xkcd:end -->
 
