@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Election Impact Score Sheet](https://imgs.xkcd.com/comics/election_impact_score_sheet.png)](https://xkcd.com/2380/)
+[![Universal Install Script](https://imgs.xkcd.com/comics/universal_install_script.png)](https://xkcd.com/1654/)
 
-*You might think most people you know are reliable voters, or that your nudge won't convince them, and you will usually be right. But some small but significant percentage of the time, you'll be wrong, and that's why this works.*
+*The failures usually don't hurt anything, and if it installs several versions, it increases the chance that one of them is right. (Note: The 'yes' command and '2>/dev/null' are recommended additions.)*
 
 <!-- xkcd:end -->
 
