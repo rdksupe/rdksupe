@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
+[![2018 CVE List](https://imgs.xkcd.com/comics/2018_cve_list.png)](https://xkcd.com/1957/)
 
-*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
+*CVE-2018-?????: It turns out Bruce Schneier is just two mischevious kids in a trenchcoat.*
 
 <!-- xkcd:end -->
 
