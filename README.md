@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![2010 and 2020](https://imgs.xkcd.com/comics/2010_and_2020.png)](https://xkcd.com/2280/)
+[![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226/)
 
-*2030: "I just bought a house for one bitcoin. No, it's the equivalent of a dollar. Houses are often transferred for a nominal fee because the buyer is taking responsibility for containing the holo-banshees in the attic."*
+*"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."*
 
 <!-- xkcd:end -->
 
