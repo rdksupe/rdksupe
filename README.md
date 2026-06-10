@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Flowcharts](https://imgs.xkcd.com/comics/flowcharts.png)](https://xkcd.com/1488/)
+[![Rocket Packs](https://imgs.xkcd.com/comics/rocket_packs.png)](https://xkcd.com/1382/)
 
-*Whoa, and if you overlay a Fibonacci spiral on a golden spiral it matches up almost perfectly!*
+*Every year: 'It's <year>--I want my jetpack [and also my free medical care covering all my jetpack-related injuries]!'*
 
 <!-- xkcd:end -->
 
