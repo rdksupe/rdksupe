@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Not Enough Work](https://imgs.xkcd.com/comics/not_enough_work.png)](https://xkcd.com/554/)
+[![Dynamic Entropy](https://imgs.xkcd.com/comics/dynamic_entropy.png)](https://xkcd.com/2318/)
 
-*It's even harder if you're an asshole who pronounces <> brackets.*
+*Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.*
 
 <!-- xkcd:end -->
 
