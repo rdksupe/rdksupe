@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dynamic Entropy](https://imgs.xkcd.com/comics/dynamic_entropy.png)](https://xkcd.com/2318/)
+[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
 
-*Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.*
+*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
 
 <!-- xkcd:end -->
 
