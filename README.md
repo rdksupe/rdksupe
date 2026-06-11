@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
+[![10-Day Forecast](https://imgs.xkcd.com/comics/10_day_forecast.png)](https://xkcd.com/1245/)
 
-*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
+*Oh, definitely not; they don't have Amazon Prime.*
 
 <!-- xkcd:end -->
 
