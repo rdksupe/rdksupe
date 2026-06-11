@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Password Reuse](https://imgs.xkcd.com/comics/password_reuse.png)](https://xkcd.com/792/)
+[![Not Enough Work](https://imgs.xkcd.com/comics/not_enough_work.png)](https://xkcd.com/554/)
 
-*It'll be hilarious the first few times this happens.*
+*It's even harder if you're an asshole who pronounces <> brackets.*
 
 <!-- xkcd:end -->
 
