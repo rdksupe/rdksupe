@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Voting Referendum](https://imgs.xkcd.com/comics/voting_referendum.png)](https://xkcd.com/2225/)
+[![Development](https://imgs.xkcd.com/comics/development.png)](https://xkcd.com/957/)
 
-*The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.*
+*Funding was quickly restored to the NHC and the APA was taken back off hurricane forecast duty.*
 
 <!-- xkcd:end -->
 
