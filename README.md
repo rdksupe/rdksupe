@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Development](https://imgs.xkcd.com/comics/development.png)](https://xkcd.com/957/)
+[![Wanna See the Code?](https://imgs.xkcd.com/comics/wanna_see_the_code.png)](https://xkcd.com/2138/)
 
-*Funding was quickly restored to the NHC and the APA was taken back off hurricane forecast duty.*
+*And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.*
 
 <!-- xkcd:end -->
 
