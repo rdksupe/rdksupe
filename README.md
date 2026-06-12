@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![10-Day Forecast](https://imgs.xkcd.com/comics/10_day_forecast.png)](https://xkcd.com/1245/)
+[![Voting Referendum](https://imgs.xkcd.com/comics/voting_referendum.png)](https://xkcd.com/2225/)
 
-*Oh, definitely not; they don't have Amazon Prime.*
+*The weirdest quirk of the Borda count is that Jean-Charles de Borda automatically gets one point; luckily this has no consequences except in cases of extremely low turnout.*
 
 <!-- xkcd:end -->
 
