@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Wanna See the Code?](https://imgs.xkcd.com/comics/wanna_see_the_code.png)](https://xkcd.com/2138/)
+[![Phone Checking](https://imgs.xkcd.com/comics/phone_checking.png)](https://xkcd.com/1466/)
 
-*And because if you just leave it there, it's going to start contaminating things downstream even if no one touches it directly.*
+*'Where were you when you learned you'd won?' 'I was actually asleep; I woke up when I refreshed the webite and saw the news.'*
 
 <!-- xkcd:end -->
 
