@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Campaign Fundraising Emails](https://imgs.xkcd.com/comics/campaign_fundraising_emails.png)](https://xkcd.com/1948/)
+[![DFS](https://imgs.xkcd.com/comics/dfs.png)](https://xkcd.com/761/)
 
-*The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...*
+*A breadth-first search makes a lot of sense for dating in general, actually; it suggests dating a bunch of people casually before getting serious, rather than having a series of five-year relationships one after the other.*
 
 <!-- xkcd:end -->
 
