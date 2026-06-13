@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Phone Checking](https://imgs.xkcd.com/comics/phone_checking.png)](https://xkcd.com/1466/)
+[![Sad](https://imgs.xkcd.com/comics/sad.png)](https://xkcd.com/1790/)
 
-*'Where were you when you learned you'd won?' 'I was actually asleep; I woke up when I refreshed the webite and saw the news.'*
+*With the right 90-degree rotation, any effect is a side effect.*
 
 <!-- xkcd:end -->
 
