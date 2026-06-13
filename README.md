@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sad](https://imgs.xkcd.com/comics/sad.png)](https://xkcd.com/1790/)
+[![Campaign Fundraising Emails](https://imgs.xkcd.com/comics/campaign_fundraising_emails.png)](https://xkcd.com/1948/)
 
-*With the right 90-degree rotation, any effect is a side effect.*
+*The establishment doesn't take us seriously. You know who else they didn't take seriously? Hitler. I'll be like him, but a GOOD guy instead of...*
 
 <!-- xkcd:end -->
 
