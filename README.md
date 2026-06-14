@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Meteor Shower PSA](https://imgs.xkcd.com/comics/meteor_shower_psa.png)](https://xkcd.com/2970/)
+[![Redwall](https://imgs.xkcd.com/comics/redwall.png)](https://xkcd.com/370/)
 
-*If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.*
+*My Redwall/Jurassic Park crossover fanfic is almost complete!*
 
 <!-- xkcd:end -->
 
