@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cyber Cafe](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392/)
+[![Siphon](https://imgs.xkcd.com/comics/siphon.png)](https://xkcd.com/2775/)
 
-*Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'*
+*ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there.*
 
 <!-- xkcd:end -->
 
