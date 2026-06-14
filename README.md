@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Redwall](https://imgs.xkcd.com/comics/redwall.png)](https://xkcd.com/370/)
+[![Listen to Yourself](https://imgs.xkcd.com/comics/listen_to_yourself.png)](https://xkcd.com/481/)
 
-*My Redwall/Jurassic Park crossover fanfic is almost complete!*
+*Man, I just wanted to know how babby was formed.*
 
 <!-- xkcd:end -->
 
