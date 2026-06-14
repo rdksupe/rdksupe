@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Siphon](https://imgs.xkcd.com/comics/siphon.png)](https://xkcd.com/2775/)
+[![Meteor Shower PSA](https://imgs.xkcd.com/comics/meteor_shower_psa.png)](https://xkcd.com/2970/)
 
-*ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there.*
+*If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult.*
 
 <!-- xkcd:end -->
 
