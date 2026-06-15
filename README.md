@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Monster](https://imgs.xkcd.com/comics/monster.png)](https://xkcd.com/1257/)
+[![Awful People](https://imgs.xkcd.com/comics/awful_people.png)](https://xkcd.com/2548/)
 
-*It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb.*
+*Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.*
 
 <!-- xkcd:end -->
 
