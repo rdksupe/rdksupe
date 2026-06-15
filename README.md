@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Decline](https://imgs.xkcd.com/comics/decline.png)](https://xkcd.com/523/)
+[![Monster](https://imgs.xkcd.com/comics/monster.png)](https://xkcd.com/1257/)
 
-*'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'*
+*It was finally destroyed with a nuclear weapon carrying the destructive energy of the Hiroshima bomb.*
 
 <!-- xkcd:end -->
 
