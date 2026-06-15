@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Listen to Yourself](https://imgs.xkcd.com/comics/listen_to_yourself.png)](https://xkcd.com/481/)
+[![Sickness](https://imgs.xkcd.com/comics/sickness.png)](https://xkcd.com/836/)
 
-*Man, I just wanted to know how babby was formed.*
+*At least, with p<0.05 confidence.*
 
 <!-- xkcd:end -->
 
