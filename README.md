@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sickness](https://imgs.xkcd.com/comics/sickness.png)](https://xkcd.com/836/)
+[![Decline](https://imgs.xkcd.com/comics/decline.png)](https://xkcd.com/523/)
 
-*At least, with p<0.05 confidence.*
+*'There's also a spike on the Fourier transform at the one-month mark where --' 'You want to stop talking right now.'*
 
 <!-- xkcd:end -->
 
