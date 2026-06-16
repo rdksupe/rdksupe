@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![CIA](https://imgs.xkcd.com/comics/cia.png)](https://xkcd.com/932/)
+[![Light Pollution](https://imgs.xkcd.com/comics/light_pollution.png)](https://xkcd.com/2121/)
 
-*It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...*
+*It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.*
 
 <!-- xkcd:end -->
 
