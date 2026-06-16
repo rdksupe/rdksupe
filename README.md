@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Universal Rating Scale](https://imgs.xkcd.com/comics/universal_rating_scale.png)](https://xkcd.com/2329/)
+[![Alternative Energy Revolution](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)](https://xkcd.com/556/)
 
-*There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'*
+*The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.*
 
 <!-- xkcd:end -->
 
