@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Awful People](https://imgs.xkcd.com/comics/awful_people.png)](https://xkcd.com/2548/)
+[![Universal Rating Scale](https://imgs.xkcd.com/comics/universal_rating_scale.png)](https://xkcd.com/2329/)
 
-*Hm, this burger place has a couple of good reviews, but LakeSlayer7 says he got food poisoning there and everyone should try this other place down by the lake instead.*
+*There are plenty of finer gradations. I got 'critically endangered/extinct in the wild' on my exam, although the curve bumped it all the way up to 'venti.'*
 
 <!-- xkcd:end -->
 
