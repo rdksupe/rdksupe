@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Alternative Energy Revolution](https://imgs.xkcd.com/comics/alternative_energy_revolution.jpg)](https://xkcd.com/556/)
+[![CIA](https://imgs.xkcd.com/comics/cia.png)](https://xkcd.com/932/)
 
-*The moment their arms spun freely in our air, they were doomed -- for Man has earned his right to hold this planet against all comers, by virtue of occasionally producing someone totally batshit insane.*
+*It was their main recruiting poster, hung nearly ten feet up a wall! This means the hackers have LADDER technology! Are we headed for a future where everyone has to pay $50 for one of those locked plexiglass poster covers? More after the break ...*
 
 <!-- xkcd:end -->
 
