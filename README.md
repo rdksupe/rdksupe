@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![First Date](https://imgs.xkcd.com/comics/first_date.png)](https://xkcd.com/1333/)
+[![Astronomy Status Board](https://imgs.xkcd.com/comics/astronomy_status_board.png)](https://xkcd.com/2469/)
 
-*I sympathize with the TPP protagonist because I, too, have progressed through a surprising number of stages of life despite spending entire days stuck against simple obstacles.*
+*Junior astronomers hate getting put on board update duty, but someone's gotta make sure that stuff is still up there.*
 
 <!-- xkcd:end -->
 
