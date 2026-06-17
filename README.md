@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Astronomy Status Board](https://imgs.xkcd.com/comics/astronomy_status_board.png)](https://xkcd.com/2469/)
+[![KM3NeT](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053/)
 
-*Junior astronomers hate getting put on board update duty, but someone's gotta make sure that stuff is still up there.*
+*Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.*
 
 <!-- xkcd:end -->
 
