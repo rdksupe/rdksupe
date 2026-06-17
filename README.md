@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Still Raw](https://imgs.xkcd.com/comics/still_raw.png)](https://xkcd.com/473/)
+[![First Date](https://imgs.xkcd.com/comics/first_date.png)](https://xkcd.com/1333/)
 
-*We actually divorced once over the airplane/treadmill argument. (Preemptive response to the inevitable threads arguing about it: you're all wrong on the internet.)*
+*I sympathize with the TPP protagonist because I, too, have progressed through a surprising number of stages of life despite spending entire days stuck against simple obstacles.*
 
 <!-- xkcd:end -->
 
