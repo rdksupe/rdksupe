@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![KM3NeT](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053/)
+[![Tuesdays](https://imgs.xkcd.com/comics/tuesdays.png)](https://xkcd.com/1099/)
 
-*Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.*
+*Try our bottomless drinks and fall forever!*
 
 <!-- xkcd:end -->
 
