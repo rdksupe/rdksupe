@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Light Pollution](https://imgs.xkcd.com/comics/light_pollution.png)](https://xkcd.com/2121/)
+[![Still Raw](https://imgs.xkcd.com/comics/still_raw.png)](https://xkcd.com/473/)
 
-*It's so sad how almost no one alive today can remember seeing the galactic rainbow, the insanity nebula, or the skull and glowing eyes of the Destroyer of Sagittarius.*
+*We actually divorced once over the airplane/treadmill argument. (Preemptive response to the inevitable threads arguing about it: you're all wrong on the internet.)*
 
 <!-- xkcd:end -->
 
