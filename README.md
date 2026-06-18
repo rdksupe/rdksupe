@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Actors](https://imgs.xkcd.com/comics/actors.png)](https://xkcd.com/1396/)
+[![Humming](https://imgs.xkcd.com/comics/humming.png)](https://xkcd.com/1192/)
 
-*Once again topping the list of tonight's hottest rising stars in Hollywood is ξ Persei!*
+*I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.*
 
 <!-- xkcd:end -->
 
