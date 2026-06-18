@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fiction vs Nonfiction](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546/)
+[![Visual Field](https://imgs.xkcd.com/comics/visual_field.png)](https://xkcd.com/1080/)
 
-*The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.*
+*I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".*
 
 <!-- xkcd:end -->
 
