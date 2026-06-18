@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tuesdays](https://imgs.xkcd.com/comics/tuesdays.png)](https://xkcd.com/1099/)
+[![Actors](https://imgs.xkcd.com/comics/actors.png)](https://xkcd.com/1396/)
 
-*Try our bottomless drinks and fall forever!*
+*Once again topping the list of tonight's hottest rising stars in Hollywood is ξ Persei!*
 
 <!-- xkcd:end -->
 
