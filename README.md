@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Humming](https://imgs.xkcd.com/comics/humming.png)](https://xkcd.com/1192/)
+[![Fiction vs Nonfiction](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546/)
 
-*I'm so bad at carrying a tune, those 'find a song by humming its melody' websites throw an HTTP 406 error as soon as I start to hum.*
+*The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.*
 
 <!-- xkcd:end -->
 
