@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sky](https://imgs.xkcd.com/comics/sky.png)](https://xkcd.com/1115/)
+[![Seven Years](https://imgs.xkcd.com/comics/seven_years.png)](https://xkcd.com/1928/)
 
-*I dropped a bird and I didn't hear it hit bottom.*
+*[hair in face] "SEVVVENNN YEEEARRRSSS"*
 
 <!-- xkcd:end -->
 
