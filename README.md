@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sigil Cycle](https://imgs.xkcd.com/comics/sigil_cycle.png)](https://xkcd.com/1306/)
+[![Theft](https://imgs.xkcd.com/comics/theft.png)](https://xkcd.com/1317/)
 
-*The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'*
+*Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?*
 
 <!-- xkcd:end -->
 
