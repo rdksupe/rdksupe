@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Theft](https://imgs.xkcd.com/comics/theft.png)](https://xkcd.com/1317/)
+[![Sky](https://imgs.xkcd.com/comics/sky.png)](https://xkcd.com/1115/)
 
-*Is he ALSO wondering at what point our thoughts diverged, if they even have yet? 'dude, I think he just took your credit card' AM I THE ORIGINAL? HOW DO I TELL?*
+*I dropped a bird and I didn't hear it hit bottom.*
 
 <!-- xkcd:end -->
 
