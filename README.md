@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Visual Field](https://imgs.xkcd.com/comics/visual_field.png)](https://xkcd.com/1080/)
+[![Sigil Cycle](https://imgs.xkcd.com/comics/sigil_cycle.png)](https://xkcd.com/1306/)
 
-*I recently learned something that solved a mystery that had bugged me since childhood--why, when I looked at an analog clock, the hand would sometimes seem to take a couple seconds to start ticking. Google "stopped clock illusion".*
+*The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'*
 
 <!-- xkcd:end -->
 
