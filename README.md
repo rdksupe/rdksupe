@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Seven Years](https://imgs.xkcd.com/comics/seven_years.png)](https://xkcd.com/1928/)
+[![Earth-Like Exoplanet](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)](https://xkcd.com/2202/)
 
-*[hair in face] "SEVVVENNN YEEEARRRSSS"*
+*Fire is actually a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life. Or used to, anyway, before the fire.*
 
 <!-- xkcd:end -->
 
