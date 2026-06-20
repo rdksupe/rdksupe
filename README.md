@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Earth-Like Exoplanet](https://imgs.xkcd.com/comics/earth_like_exoplanet.png)](https://xkcd.com/2202/)
+[![President](https://imgs.xkcd.com/comics/president.png)](https://xkcd.com/1370/)
 
-*Fire is actually a potential biosignature, since it means something is filling the atmosphere with an unstable gas like oxygen. If we find a planet covered in flames, it might be an indicator that it supports life. Or used to, anyway, before the fire.*
+*Anyone who thinks we're all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.*
 
 <!-- xkcd:end -->
 
