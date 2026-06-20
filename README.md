@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![President](https://imgs.xkcd.com/comics/president.png)](https://xkcd.com/1370/)
+[![Scrabble](https://imgs.xkcd.com/comics/scrabble.png)](https://xkcd.com/492/)
 
-*Anyone who thinks we're all going to spend the 2032 elections poring over rambling blog posts by teenagers has never tried to read a rambling blog post by a teenager.*
+*A veteran Scrabble player will spot the 'OSTRICH' option.*
 
 <!-- xkcd:end -->
 
