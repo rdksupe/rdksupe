@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Scrabble](https://imgs.xkcd.com/comics/scrabble.png)](https://xkcd.com/492/)
+[![Unscientific](https://imgs.xkcd.com/comics/unscientific.png)](https://xkcd.com/397/)
 
-*A veteran Scrabble player will spot the 'OSTRICH' option.*
+*Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism. We'll also examine the existence of God and whether true love exists.*
 
 <!-- xkcd:end -->
 
