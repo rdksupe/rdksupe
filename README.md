@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Wrong Times Table](https://imgs.xkcd.com/comics/wrong_times_table.png)](https://xkcd.com/2313/)
+[![Plastic Bags](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/)
 
-*Deep in some corner of my heart, I suspect that real times tables are wrong about 6x7=42 and 8x7=56.*
+*The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.*
 
 <!-- xkcd:end -->
 
