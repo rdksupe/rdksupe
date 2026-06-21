@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Unscientific](https://imgs.xkcd.com/comics/unscientific.png)](https://xkcd.com/397/)
+[![Tic-Tac-Toe](https://imgs.xkcd.com/comics/tic_tac_toe.png)](https://xkcd.com/832/)
 
-*Last week, we busted the myth that electroweak gauge symmetry is broken by the Higgs mechanism. We'll also examine the existence of God and whether true love exists.*
+*The only winning move is to play, perfectly, waiting for your opponent to make a mistake.*
 
 <!-- xkcd:end -->
 
