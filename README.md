@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tic-Tac-Toe](https://imgs.xkcd.com/comics/tic_tac_toe.png)](https://xkcd.com/832/)
+[![Wrong Times Table](https://imgs.xkcd.com/comics/wrong_times_table.png)](https://xkcd.com/2313/)
 
-*The only winning move is to play, perfectly, waiting for your opponent to make a mistake.*
+*Deep in some corner of my heart, I suspect that real times tables are wrong about 6x7=42 and 8x7=56.*
 
 <!-- xkcd:end -->
 
