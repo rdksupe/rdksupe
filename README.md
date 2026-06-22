@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Plastic Bags](https://imgs.xkcd.com/comics/plastic_bags.png)](https://xkcd.com/990/)
+[![Defensive Profile](https://imgs.xkcd.com/comics/defensive_profile.png)](https://xkcd.com/1911/)
 
-*The high I feel when I actually remember to bring my reusable bags to the store--and take them inside rather than leaving them in the parked car--can last for days.*
+*NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.*
 
 <!-- xkcd:end -->
 
