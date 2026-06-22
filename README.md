@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)](https://xkcd.com/3224/)
+[![Old Files](https://imgs.xkcd.com/comics/old_files.png)](https://xkcd.com/1360/)
 
-*Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?*
+*Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.*
 
 <!-- xkcd:end -->
 
