@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Defensive Profile](https://imgs.xkcd.com/comics/defensive_profile.png)](https://xkcd.com/1911/)
+[![Math Paper](https://imgs.xkcd.com/comics/math_paper.png)](https://xkcd.com/410/)
 
-*NO DRAMA ZONE -> If I've made you sad, you'd better not tell me, because I am TERRIFIED of that situation and have NO IDEA how to handle it.*
+*That's nothing. I once lost my genetics, rocketry, and stripping licenses in a single incident.*
 
 <!-- xkcd:end -->
 
