@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Math Paper](https://imgs.xkcd.com/comics/math_paper.png)](https://xkcd.com/410/)
+[![Centimeter Wavelengths](https://imgs.xkcd.com/comics/centimeter_wavelengths.png)](https://xkcd.com/3224/)
 
-*That's nothing. I once lost my genetics, rocketry, and stripping licenses in a single incident.*
+*Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?*
 
 <!-- xkcd:end -->
 
