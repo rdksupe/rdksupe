@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Meta-Analysis](https://imgs.xkcd.com/comics/meta-analysis.png)](https://xkcd.com/1447/)
+[![Pie Charts](https://imgs.xkcd.com/comics/pie_charts.png)](https://xkcd.com/2031/)
 
-*Life goal #29 is to get enough of them rejected that I can publish a comparative analysis of the rejection letters.*
+*If you can't get your graphing tool to do the shading, just add some clip art of cosmologists discussing the unusual curvature of space in the area.*
 
 <!-- xkcd:end -->
 
