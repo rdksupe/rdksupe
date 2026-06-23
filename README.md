@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Working](https://imgs.xkcd.com/comics/working.png)](https://xkcd.com/951/)
+[![University Age](https://imgs.xkcd.com/comics/university_age.png)](https://xkcd.com/2968/)
 
-*And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.*
+*This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.*
 
 <!-- xkcd:end -->
 
