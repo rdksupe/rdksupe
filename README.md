@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![University Age](https://imgs.xkcd.com/comics/university_age.png)](https://xkcd.com/2968/)
+[![Meta-Analysis](https://imgs.xkcd.com/comics/meta-analysis.png)](https://xkcd.com/1447/)
 
-*This only makes it more urgent that we adopt my roadmap for the next 10 years, which should put us solidly in the lead.*
+*Life goal #29 is to get enough of them rejected that I can publish a comparative analysis of the rejection letters.*
 
 <!-- xkcd:end -->
 
