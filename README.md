@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Old Files](https://imgs.xkcd.com/comics/old_files.png)](https://xkcd.com/1360/)
+[![Working](https://imgs.xkcd.com/comics/working.png)](https://xkcd.com/951/)
 
-*Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.*
+*And if you drive a typical car more than a mile out of your way for each penny you save on the per-gallon price, it doesn't matter how worthless your time is to you--the gas to get you there and back costs more than you save.*
 
 <!-- xkcd:end -->
 
