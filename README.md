@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Engineering Hubris](https://imgs.xkcd.com/comics/engineering_hubris.png)](https://xkcd.com/319/)
+[![Poisson](https://imgs.xkcd.com/comics/poisson.jpg)](https://xkcd.com/12/)
 
-*Chuck Jones is a vengeful god.*
+*Poisson distributions have no value over negative numbers*
 
 <!-- xkcd:end -->
 
