@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Anti-Mindvirus](https://imgs.xkcd.com/comics/anti_mind_virus.png)](https://xkcd.com/391/)
+[![Baby Post](https://imgs.xkcd.com/comics/baby_post.png)](https://xkcd.com/1765/)
 
-*I'm as surprised as you! I didn't think it was possible.*
+*[bzzzt] "REMEMBER TO CHECK IN FOR YOUR FLIGHT TO LONDON." "My wha-" [bzzzt] "YOUR UBER WILL ARRIVE IN FOUR MINUTES."*
 
 <!-- xkcd:end -->
 
