@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Baby Post](https://imgs.xkcd.com/comics/baby_post.png)](https://xkcd.com/1765/)
+[![Engineering Hubris](https://imgs.xkcd.com/comics/engineering_hubris.png)](https://xkcd.com/319/)
 
-*[bzzzt] "REMEMBER TO CHECK IN FOR YOUR FLIGHT TO LONDON." "My wha-" [bzzzt] "YOUR UBER WILL ARRIVE IN FOUR MINUTES."*
+*Chuck Jones is a vengeful god.*
 
 <!-- xkcd:end -->
 
