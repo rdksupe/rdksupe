@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pie Charts](https://imgs.xkcd.com/comics/pie_charts.png)](https://xkcd.com/2031/)
+[![Anti-Mindvirus](https://imgs.xkcd.com/comics/anti_mind_virus.png)](https://xkcd.com/391/)
 
-*If you can't get your graphing tool to do the shading, just add some clip art of cosmologists discussing the unusual curvature of space in the area.*
+*I'm as surprised as you! I didn't think it was possible.*
 
 <!-- xkcd:end -->
 
