@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Startling](https://imgs.xkcd.com/comics/startling.png)](https://xkcd.com/354/)
+[![Workaround](https://imgs.xkcd.com/comics/workaround.png)](https://xkcd.com/763/)
 
-*We actually reached the future about three years ago.*
+*I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask.*
 
 <!-- xkcd:end -->
 
