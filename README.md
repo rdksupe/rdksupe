@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Scary](https://imgs.xkcd.com/comics/scary.png)](https://xkcd.com/647/)
+[![Startling](https://imgs.xkcd.com/comics/startling.png)](https://xkcd.com/354/)
 
-*I'm teaching every 8-year-old relative to say this, and every 14-year-old to do the same thing with Toy Story. Also, Pokemon hit the US over a decade ago and kids born after Aladdin came out will turn 18 next year.*
+*We actually reached the future about three years ago.*
 
 <!-- xkcd:end -->
 
