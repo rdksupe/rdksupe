@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Workaround](https://imgs.xkcd.com/comics/workaround.png)](https://xkcd.com/763/)
+[![Anti-Vaxxers](https://imgs.xkcd.com/comics/anti_vaxxers.png)](https://xkcd.com/2806/)
 
-*I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask.*
+*The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.*
 
 <!-- xkcd:end -->
 
