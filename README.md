@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Orphaned Projects](https://imgs.xkcd.com/comics/orphaned_projects.png)](https://xkcd.com/306/)
+[![Kolmogorov Directions](https://imgs.xkcd.com/comics/kolmogorov_directions.png)](https://xkcd.com/1155/)
 
-*His date works for Red Hat, who hired a coach for her, too. He advised her to 'rent lots of movies like Hitch. Guys love those.'*
+*People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.*
 
 <!-- xkcd:end -->
 
