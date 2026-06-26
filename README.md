@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Kolmogorov Directions](https://imgs.xkcd.com/comics/kolmogorov_directions.png)](https://xkcd.com/1155/)
+[![Before Sunrise](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/)
 
-*People get really grumpy when they realize you're giving them directions for how to go to the store and buy a GPS.*
+*It's an amazing time of day; the light is great for photography.*
 
 <!-- xkcd:end -->
 
