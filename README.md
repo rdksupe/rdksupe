@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Anti-Vaxxers](https://imgs.xkcd.com/comics/anti_vaxxers.png)](https://xkcd.com/2806/)
+[![Encoding](https://imgs.xkcd.com/comics/encoding.png)](https://xkcd.com/1209/)
 
-*The vaccine stuff seems pretty simple. But if you take a closer look at the data, it's still simple, but bigger. And slightly blurry. Might need reading glasses.*
+*I don't see how; the C0 block is right there at the beginning.*
 
 <!-- xkcd:end -->
 
