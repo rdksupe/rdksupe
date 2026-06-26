@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Encoding](https://imgs.xkcd.com/comics/encoding.png)](https://xkcd.com/1209/)
+[![Orphaned Projects](https://imgs.xkcd.com/comics/orphaned_projects.png)](https://xkcd.com/306/)
 
-*I don't see how; the C0 block is right there at the beginning.*
+*His date works for Red Hat, who hired a coach for her, too. He advised her to 'rent lots of movies like Hitch. Guys love those.'*
 
 <!-- xkcd:end -->
 
