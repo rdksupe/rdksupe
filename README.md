@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Self-Description](https://imgs.xkcd.com/comics/self_description.png)](https://xkcd.com/688/)
+[![Meltdown and Spectre](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)](https://xkcd.com/1938/)
 
-*The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.*
+*New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.*
 
 <!-- xkcd:end -->
 
