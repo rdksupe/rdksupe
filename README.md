@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Before Sunrise](https://imgs.xkcd.com/comics/before_sunrise.png)](https://xkcd.com/176/)
+[![Superm*n](https://imgs.xkcd.com/comics/superm_n.png)](https://xkcd.com/1394/)
 
-*It's an amazing time of day; the light is great for photography.*
+*See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.*
 
 <!-- xkcd:end -->
 
