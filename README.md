@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Superm*n](https://imgs.xkcd.com/comics/superm_n.png)](https://xkcd.com/1394/)
+[![Self-Description](https://imgs.xkcd.com/comics/self_description.png)](https://xkcd.com/688/)
 
-*See also: Spider-Man reboot in which he can produce several inches of web, doesn't need as much chalk powder on his hands when he goes rock climbing, and occasionally feels vaguely uneasy about situations.*
+*The contents of any one panel are dependent on the contents of every panel including itself. The graph of panel dependencies is complete and bidirectional, and each node has a loop. The mouseover text has two hundred and forty-two characters.*
 
 <!-- xkcd:end -->
 
