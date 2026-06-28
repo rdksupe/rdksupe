@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![METAR](https://imgs.xkcd.com/comics/metar.png)](https://xkcd.com/3024/)
+[![Hurricane Hunters](https://imgs.xkcd.com/comics/hurricane_hunters.png)](https://xkcd.com/2353/)
 
-*In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.*
+*Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.*
 
 <!-- xkcd:end -->
 
