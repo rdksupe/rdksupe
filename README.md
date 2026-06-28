@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
+[![METAR](https://imgs.xkcd.com/comics/metar.png)](https://xkcd.com/3024/)
 
-*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
+*In the aviation world, they don't use AM/PM times. Instead, all times are assumed to be AM unless they're labeled NOTAM.*
 
 <!-- xkcd:end -->
 
