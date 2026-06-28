@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Meltdown and Spectre](https://imgs.xkcd.com/comics/meltdown_and_spectre.png)](https://xkcd.com/1938/)
+[![Eggs](https://imgs.xkcd.com/comics/eggs.png)](https://xkcd.com/328/)
 
-*New zero-day vulnerability: In addition to rowhammer, it turns out lots of servers are vulnerable to regular hammers, too.*
+*Oh, yeah, we get tons of them at these casual sex bars.*
 
 <!-- xkcd:end -->
 
