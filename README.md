@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eggs](https://imgs.xkcd.com/comics/eggs.png)](https://xkcd.com/328/)
+[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
 
-*Oh, yeah, we get tons of them at these casual sex bars.*
+*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
 
 <!-- xkcd:end -->
 
