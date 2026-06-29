@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![November 2016](https://imgs.xkcd.com/comics/november_2016.png)](https://xkcd.com/1757/)
+[![Server Attention Span](https://imgs.xkcd.com/comics/server_attention_span.png)](https://xkcd.com/869/)
 
-*Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.*
+*They have to keep the adjacent rack units empty. Otherwise, half the entries in their /var/log/syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'*
 
 <!-- xkcd:end -->
 
