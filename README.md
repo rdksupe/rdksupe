@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sympathy](https://imgs.xkcd.com/comics/sympathy.png)](https://xkcd.com/660/)
+[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
 
-*Excellent recovery: ... which we could try to use to somehow save your original brother!*
+*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
 
 <!-- xkcd:end -->
 
