@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Hurricane Hunters](https://imgs.xkcd.com/comics/hurricane_hunters.png)](https://xkcd.com/2353/)
+[![November 2016](https://imgs.xkcd.com/comics/november_2016.png)](https://xkcd.com/1757/)
 
-*Our flight gathered valuable data on whether a commercial airliner in the eye of a hurricane can do a loop.*
+*Once you've done this, make a note of how old they were. Then, when their age reaches double that, show them this chart again.*
 
 <!-- xkcd:end -->
 
