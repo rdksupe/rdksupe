@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Server Attention Span](https://imgs.xkcd.com/comics/server_attention_span.png)](https://xkcd.com/869/)
+[![Sympathy](https://imgs.xkcd.com/comics/sympathy.png)](https://xkcd.com/660/)
 
-*They have to keep the adjacent rack units empty. Otherwise, half the entries in their /var/log/syslog are just 'SERVER BELOW TRYING TO START CONVERSATION *AGAIN*.' and 'WISH THEY'D STOP GIVING HIM SO MUCH COFFEE IT SPLATTERS EVERYWHERE.'*
+*Excellent recovery: ... which we could try to use to somehow save your original brother!*
 
 <!-- xkcd:end -->
 
