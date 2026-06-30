@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ice Core](https://imgs.xkcd.com/comics/ice_core.png)](https://xkcd.com/2902/)
+[![University Website](https://imgs.xkcd.com/comics/university_website.png)](https://xkcd.com/773/)
 
-*If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.*
+*People go to the website because they can't wait for the next alumni magazine, right? What do you mean, you want a campus map? One of our students made one as a CS class project back in '01! You can click to zoom and everything!*
 
 <!-- xkcd:end -->
 
