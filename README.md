@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
+[![Engineering Hubris](https://imgs.xkcd.com/comics/engineering_hubris.png)](https://xkcd.com/319/)
 
-*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
+*Chuck Jones is a vengeful god.*
 
 <!-- xkcd:end -->
 
