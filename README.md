@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Engineering Hubris](https://imgs.xkcd.com/comics/engineering_hubris.png)](https://xkcd.com/319/)
+[![Ice Core](https://imgs.xkcd.com/comics/ice_core.png)](https://xkcd.com/2902/)
 
-*Chuck Jones is a vengeful god.*
+*If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.*
 
 <!-- xkcd:end -->
 
