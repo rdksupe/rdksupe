@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![University Website](https://imgs.xkcd.com/comics/university_website.png)](https://xkcd.com/773/)
+[![Board Game](https://imgs.xkcd.com/comics/board_game.png)](https://xkcd.com/1566/)
 
-*People go to the website because they can't wait for the next alumni magazine, right? What do you mean, you want a campus map? One of our students made one as a CS class project back in '01! You can click to zoom and everything!*
+*Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.*
 
 <!-- xkcd:end -->
 
