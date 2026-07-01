@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Keeping Time](https://imgs.xkcd.com/comics/keeping_time.png)](https://xkcd.com/389/)
+[![Clichd Exchanges](https://imgs.xkcd.com/comics/cliched_exchanges.png)](https://xkcd.com/259/)
 
-*You can identify them ahead-of-time -- they lead with their left foot when the music starts.*
+*It's like they say, you gotta fight fire with clich&eacute;s.*
 
 <!-- xkcd:end -->
 
