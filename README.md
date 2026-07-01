@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Board Game](https://imgs.xkcd.com/comics/board_game.png)](https://xkcd.com/1566/)
+[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
 
-*Yes, it took a lot of work to make the cards and pieces, but it's worth it--the players are way more thorough than the tax prep people ever were.*
+*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
 
 <!-- xkcd:end -->
 
