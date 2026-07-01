@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Wing Lift](https://imgs.xkcd.com/comics/wing_lift.png)](https://xkcd.com/2678/)
+[![Keeping Time](https://imgs.xkcd.com/comics/keeping_time.png)](https://xkcd.com/389/)
 
-*Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.*
+*You can identify them ahead-of-time -- they lead with their left foot when the music starts.*
 
 <!-- xkcd:end -->
 
