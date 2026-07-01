@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
+[![Wing Lift](https://imgs.xkcd.com/comics/wing_lift.png)](https://xkcd.com/2678/)
 
-*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
+*Once the air from the top passes below the plane of the wing and catches sight of the spooky skulls, it panics, which is the cause of turbulent vortices.*
 
 <!-- xkcd:end -->
 
