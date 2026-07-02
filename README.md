@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Katamari](https://imgs.xkcd.com/comics/katamari.jpg)](https://xkcd.com/83/)
+[![Fight Club](https://imgs.xkcd.com/comics/fight_club.png)](https://xkcd.com/922/)
 
-*As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'*
+*I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.*
 
 <!-- xkcd:end -->
 
