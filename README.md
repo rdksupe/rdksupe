@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Siri](https://imgs.xkcd.com/comics/siri.png)](https://xkcd.com/2438/)
+[![Katamari](https://imgs.xkcd.com/comics/katamari.jpg)](https://xkcd.com/83/)
 
-*Alexa defeated her in a battle hinging on the ability to set multiple timers.*
+*As the King of All Cosmos remarked, 'Is it that it's fun, or that it lets you forget yourself?'*
 
 <!-- xkcd:end -->
 
