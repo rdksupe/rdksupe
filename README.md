@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Clichd Exchanges](https://imgs.xkcd.com/comics/cliched_exchanges.png)](https://xkcd.com/259/)
+[![Siri](https://imgs.xkcd.com/comics/siri.png)](https://xkcd.com/2438/)
 
-*It's like they say, you gotta fight fire with clich&eacute;s.*
+*Alexa defeated her in a battle hinging on the ability to set multiple timers.*
 
 <!-- xkcd:end -->
 
