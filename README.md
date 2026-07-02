@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fight Club](https://imgs.xkcd.com/comics/fight_club.png)](https://xkcd.com/922/)
+[![Beam of Light](https://imgs.xkcd.com/comics/beam_of_light.png)](https://xkcd.com/2959/)
 
-*I'm not saying it's all bad, but that movie has not aged as well as my teenage self in 2000 was confident it would.*
+*Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."*
 
 <!-- xkcd:end -->
 
