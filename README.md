@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Freemanic Paracusia](https://imgs.xkcd.com/comics/freemanic_paracusia.png)](https://xkcd.com/462/)
+[![Brontosaurus](https://imgs.xkcd.com/comics/brontosaurus.png)](https://xkcd.com/636/)
 
-*It's amazing what it does for YouTube comments.*
+*Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.*
 
 <!-- xkcd:end -->
 
