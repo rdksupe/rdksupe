@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fall Back](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/)
+[![Freemanic Paracusia](https://imgs.xkcd.com/comics/freemanic_paracusia.png)](https://xkcd.com/462/)
 
-*Doing great here in the sixth and hopefully final year of the 2016 election.*
+*It's amazing what it does for YouTube comments.*
 
 <!-- xkcd:end -->
 
