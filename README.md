@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Beam of Light](https://imgs.xkcd.com/comics/beam_of_light.png)](https://xkcd.com/2959/)
+[![Fall Back](https://imgs.xkcd.com/comics/fall_back.png)](https://xkcd.com/2378/)
 
-*Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."*
+*Doing great here in the sixth and hopefully final year of the 2016 election.*
 
 <!-- xkcd:end -->
 
