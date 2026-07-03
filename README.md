@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brontosaurus](https://imgs.xkcd.com/comics/brontosaurus.png)](https://xkcd.com/636/)
+[![Regular Expressions](https://imgs.xkcd.com/comics/regular_expressions.png)](https://xkcd.com/208/)
 
-*Well, sex is like a velociraptor: despite your movie-fueled lifelong neurotic obsession, unlikely to be found in your house.*
+*Wait, forgot to escape a space. Wheeeeee[taptaptap]eeeeee.*
 
 <!-- xkcd:end -->
 
