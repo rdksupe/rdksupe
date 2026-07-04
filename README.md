@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Glacier](https://imgs.xkcd.com/comics/glacier.png)](https://xkcd.com/2164/)
+[![Equations](https://imgs.xkcd.com/comics/equations.png)](https://xkcd.com/2034/)
 
-*The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.*
+*All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.*
 
 <!-- xkcd:end -->
 
