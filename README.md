@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Regular Expressions](https://imgs.xkcd.com/comics/regular_expressions.png)](https://xkcd.com/208/)
+[![Temperature](https://imgs.xkcd.com/comics/temperature.png)](https://xkcd.com/901/)
 
-*Wait, forgot to escape a space. Wheeeeee[taptaptap]eeeeee.*
+*And the baby has a fever.*
 
 <!-- xkcd:end -->
 
