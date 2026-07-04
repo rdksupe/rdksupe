@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Temperature](https://imgs.xkcd.com/comics/temperature.png)](https://xkcd.com/901/)
+[![Glacier](https://imgs.xkcd.com/comics/glacier.png)](https://xkcd.com/2164/)
 
-*And the baby has a fever.*
+*The Norwegian adaptation of The Sword in the Stone takes things in a weird direction.*
 
 <!-- xkcd:end -->
 
