@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226/)
+[![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)](https://xkcd.com/3170/)
 
-*"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."*
+*Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.*
 
 <!-- xkcd:end -->
 
