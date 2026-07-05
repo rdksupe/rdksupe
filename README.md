@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Equations](https://imgs.xkcd.com/comics/equations.png)](https://xkcd.com/2034/)
+[![Solar System Questions](https://imgs.xkcd.com/comics/solar_system_questions.png)](https://xkcd.com/1547/)
 
-*All electromagnetic equations: The same as all fluid dynamics equations, but with the 8 and 23 replaced with the permittivity and permeability of free space, respectively.*
+*My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?*
 
 <!-- xkcd:end -->
 
