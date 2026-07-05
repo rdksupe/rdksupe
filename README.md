@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Memo Spike Connector](https://imgs.xkcd.com/comics/memo_spike_connector.png)](https://xkcd.com/2503/)
+[![Home Solar](https://imgs.xkcd.com/comics/home_solar.png)](https://xkcd.com/3226/)
 
-*Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.*
+*"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own."*
 
 <!-- xkcd:end -->
 
