@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Solar System Questions](https://imgs.xkcd.com/comics/solar_system_questions.png)](https://xkcd.com/1547/)
+[![Memo Spike Connector](https://imgs.xkcd.com/comics/memo_spike_connector.png)](https://xkcd.com/2503/)
 
-*My country's World Cup win was exciting and all, but c'mon, what if the players wore nylon wings and COULD LITERALLY FLY?*
+*Backward-compatible with many existing cables, and can connect directly to phones or tablets if you press them down hard enough.*
 
 <!-- xkcd:end -->
 
