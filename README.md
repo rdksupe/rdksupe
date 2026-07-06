@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Bad Map Projection: Madagascator](https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png)](https://xkcd.com/2613/)
+[![Frontiers](https://imgs.xkcd.com/comics/frontiers.png)](https://xkcd.com/2041/)
 
-*The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.*
+*Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.*
 
 <!-- xkcd:end -->
 
