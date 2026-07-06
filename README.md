@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Service Outage](https://imgs.xkcd.com/comics/service_outage.png)](https://xkcd.com/3170/)
+[![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)](https://xkcd.com/3237/)
 
-*Now, if it were the *Canon* wiki, it's possible to imagine someone with a productivity-related reason for consulting it, but no one's job requires them to read that much about Admiral Daala.*
+*Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.*
 
 <!-- xkcd:end -->
 
