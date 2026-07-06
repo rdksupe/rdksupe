@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Klout](https://imgs.xkcd.com/comics/klout.png)](https://xkcd.com/1057/)
+[![Bad Map Projection: Madagascator](https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png)](https://xkcd.com/2613/)
 
-*Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.*
+*The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.*
 
 <!-- xkcd:end -->
 
