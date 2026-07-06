@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Husband and Wife](https://imgs.xkcd.com/comics/husband_and_wife.png)](https://xkcd.com/3237/)
+[![Klout](https://imgs.xkcd.com/comics/klout.png)](https://xkcd.com/1057/)
 
-*Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow.*
+*Though please do confirm that it's actually *me* on Klout first, and not one of my friends trying to get me punched. The great thing about this douchebag deadman switch is that I will never dare trigger it.*
 
 <!-- xkcd:end -->
 
