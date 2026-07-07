@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lightning](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231/)
+[![Shopping Teams](https://imgs.xkcd.com/comics/shopping_teams.png)](https://xkcd.com/309/)
 
-*Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
+*I am never going out to buy an air conditioner with my sysadmin again.*
 
 <!-- xkcd:end -->
 
