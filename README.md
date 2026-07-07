@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eternal Flame](https://imgs.xkcd.com/comics/eternal_flame.gif)](https://xkcd.com/961/)
+[![Lightning](https://imgs.xkcd.com/comics/lightning.png)](https://xkcd.com/3231/)
 
-*There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.*
+*Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.*
 
 <!-- xkcd:end -->
 
