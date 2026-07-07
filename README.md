@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Frontiers](https://imgs.xkcd.com/comics/frontiers.png)](https://xkcd.com/2041/)
+[![Eternal Flame](https://imgs.xkcd.com/comics/eternal_flame.gif)](https://xkcd.com/961/)
 
-*Star Trek V is a small part of the space frontier, but it's been a while since that movie came out so I assume we've finished exploring it by now.*
+*There's always the hope that if you sit and watch for long enough, the beachball will vanish and the thing it interrupted will return.*
 
 <!-- xkcd:end -->
 
