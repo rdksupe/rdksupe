@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Shopping Teams](https://imgs.xkcd.com/comics/shopping_teams.png)](https://xkcd.com/309/)
+[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
 
-*I am never going out to buy an air conditioner with my sysadmin again.*
+*If nothing else, that reasoning definitely overturns syllogisms.*
 
 <!-- xkcd:end -->
 
