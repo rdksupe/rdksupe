@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
+[![Model Rail](https://imgs.xkcd.com/comics/model_rail.png)](https://xkcd.com/878/)
 
-*If nothing else, that reasoning definitely overturns syllogisms.*
+*I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.*
 
 <!-- xkcd:end -->
 
