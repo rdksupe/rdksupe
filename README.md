@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Journal 4](https://imgs.xkcd.com/comics/journal_4.png)](https://xkcd.com/432/)
+[![PermaCal](https://imgs.xkcd.com/comics/permacal.png)](https://xkcd.com/1514/)
 
-*Man, this emo shit was supposed to be for people who didn't have hats.*
+*The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.*
 
 <!-- xkcd:end -->
 
