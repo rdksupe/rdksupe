@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![PermaCal](https://imgs.xkcd.com/comics/permacal.png)](https://xkcd.com/1514/)
+[![M87 Black Hole Size Comparison](https://imgs.xkcd.com/comics/m87_black_hole_size_comparison.png)](https://xkcd.com/2135/)
 
-*The flood of PermaCalNTP leap-second notifications was bad enough, but when people started asking for millisecond resolution, the resulting DDOS brought down the internet.*
+*I think Voyager 1 would be just past the event horizon, but slightly less than halfway to the bright ring.*
 
 <!-- xkcd:end -->
 
