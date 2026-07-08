@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Model Rail](https://imgs.xkcd.com/comics/model_rail.png)](https://xkcd.com/878/)
+[![Journal 4](https://imgs.xkcd.com/comics/journal_4.png)](https://xkcd.com/432/)
 
-*I don't know what's more telling--the number of pages in the Wikipedia talk page argument over whether the 1/87.0857143 scale is called "HO" or "H0", or the fact that within minutes of first hearing of it I had developed an extremely strong opinion on the issue.*
+*Man, this emo shit was supposed to be for people who didn't have hats.*
 
 <!-- xkcd:end -->
 
