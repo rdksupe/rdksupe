@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Normal Conversation](https://imgs.xkcd.com/comics/normal_conversation.png)](https://xkcd.com/2424/)
+[![Swimsuit Issue](https://imgs.xkcd.com/comics/swimsuit_issue.png)](https://xkcd.com/751/)
 
-*"I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason*
+*Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!*
 
 <!-- xkcd:end -->
 
