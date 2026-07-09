@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Swimsuit Issue](https://imgs.xkcd.com/comics/swimsuit_issue.png)](https://xkcd.com/751/)
+[![Conversational Dynamics](https://imgs.xkcd.com/comics/conversational_dynamics.png)](https://xkcd.com/1974/)
 
-*Parents: talk to your kids about popup blockers. Also, at some point, sex. But crucial fundamentals first!*
+*"You should make it so people can search for and jump into hundreds of conversations at once if they want." "Ooh, good idea! I imagine only the most well-informed people with the most critical information to share will use that feature."*
 
 <!-- xkcd:end -->
 
