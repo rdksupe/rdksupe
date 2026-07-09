@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Radon](https://imgs.xkcd.com/comics/radon.png)](https://xkcd.com/3037/)
+[![Normal Conversation](https://imgs.xkcd.com/comics/normal_conversation.png)](https://xkcd.com/2424/)
 
-*A good ²³⁸Umbrella policy should cover it.*
+*"I think I'll pass. These days I have a hard time feeling comfortable in crowded bars with loud music and lots of shouting." --me, after the pandemic, but now for a second reason*
 
 <!-- xkcd:end -->
 
