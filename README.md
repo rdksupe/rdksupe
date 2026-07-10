@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Laser Danger](https://imgs.xkcd.com/comics/laser_danger.png)](https://xkcd.com/3108/)
+[![Chemicals](https://imgs.xkcd.com/comics/chemicals.png)](https://xkcd.com/2648/)
 
-*To combat the threat, many airlines are installing wing-mounted spray bottles.*
+*It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.*
 
 <!-- xkcd:end -->
 
