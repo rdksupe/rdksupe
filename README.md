@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Conversational Dynamics](https://imgs.xkcd.com/comics/conversational_dynamics.png)](https://xkcd.com/1974/)
+[![Tuesdays](https://imgs.xkcd.com/comics/tuesdays.png)](https://xkcd.com/1099/)
 
-*"You should make it so people can search for and jump into hundreds of conversations at once if they want." "Ooh, good idea! I imagine only the most well-informed people with the most critical information to share will use that feature."*
+*Try our bottomless drinks and fall forever!*
 
 <!-- xkcd:end -->
 
