@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Organ Meanings](https://imgs.xkcd.com/comics/organ_meanings.png)](https://xkcd.com/2960/)
+[![Laser Danger](https://imgs.xkcd.com/comics/laser_danger.png)](https://xkcd.com/3108/)
 
-*IMO the thymus is one of the coolest organs and we should really use it in metaphors more.*
+*To combat the threat, many airlines are installing wing-mounted spray bottles.*
 
 <!-- xkcd:end -->
 
