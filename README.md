@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Chemicals](https://imgs.xkcd.com/comics/chemicals.png)](https://xkcd.com/2648/)
+[![Dynamic Entropy](https://imgs.xkcd.com/comics/dynamic_entropy.png)](https://xkcd.com/2318/)
 
-*It's hard to believe, but lots of kids these days ONLY know how to buy prepackaged molecules.*
+*Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.*
 
 <!-- xkcd:end -->
 
