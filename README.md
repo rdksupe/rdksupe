@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cyber Cafe](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392/)
+[![Unreliable Connection](https://imgs.xkcd.com/comics/unreliable_connection.png)](https://xkcd.com/2659/)
 
-*Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'*
+*NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.*
 
 <!-- xkcd:end -->
 
