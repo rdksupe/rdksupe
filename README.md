@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dynamic Entropy](https://imgs.xkcd.com/comics/dynamic_entropy.png)](https://xkcd.com/2318/)
+[![Cyber Cafe](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392/)
 
-*Despite years of effort by my physics professors to normalize it, deep down I remain convinced that 'dynamical' is not really a word.*
+*Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'*
 
 <!-- xkcd:end -->
 
