@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Unreliable Connection](https://imgs.xkcd.com/comics/unreliable_connection.png)](https://xkcd.com/2659/)
+[![Map of the Internet](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)](https://xkcd.com/195/)
 
-*NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.*
+*For the IPv6 map just imagine the XP default desktop picture.*
 
 <!-- xkcd:end -->
 
