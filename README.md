@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Making Tea](https://imgs.xkcd.com/comics/making_tea.png)](https://xkcd.com/3022/)
+[![Subways](https://imgs.xkcd.com/comics/subways.png)](https://xkcd.com/1196/)
 
-*No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately.*
+*About one in three North American subway stops are in NYC.*
 
 <!-- xkcd:end -->
 
