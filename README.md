@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Map of the Internet](https://imgs.xkcd.com/comics/map_of_the_internet.jpg)](https://xkcd.com/195/)
+[![Electromagnetic Spectrum](https://imgs.xkcd.com/comics/electromagnetic_spectrum_small.png)](https://xkcd.com/273/)
 
-*For the IPv6 map just imagine the XP default desktop picture.*
+*Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum. Also sometimes I try to picture your sister naked.*
 
 <!-- xkcd:end -->
 
