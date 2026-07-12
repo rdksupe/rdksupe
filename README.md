@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Electromagnetic Spectrum](https://imgs.xkcd.com/comics/electromagnetic_spectrum_small.png)](https://xkcd.com/273/)
+[![Making Tea](https://imgs.xkcd.com/comics/making_tea.png)](https://xkcd.com/3022/)
 
-*Sometimes I try to picture what everything would look like if the whole spectrum were compressed into the visible spectrum. Also sometimes I try to picture your sister naked.*
+*No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately.*
 
 <!-- xkcd:end -->
 
