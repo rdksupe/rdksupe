@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Subways](https://imgs.xkcd.com/comics/subways.png)](https://xkcd.com/1196/)
+[![1/10,000th Scale World](https://imgs.xkcd.com/comics/1_10000th_scale_world.png)](https://xkcd.com/2411/)
 
-*About one in three North American subway stops are in NYC.*
+*OCEAN PLAY AREA RULES: No running, no horseplay, no megatsunamis, and no trying to pry the wreck of the Titanic off the bottom.*
 
 <!-- xkcd:end -->
 
