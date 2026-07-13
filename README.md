@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Extended Mind](https://imgs.xkcd.com/comics/extended_mind.png)](https://xkcd.com/903/)
+[![Turbine](https://imgs.xkcd.com/comics/turbine.png)](https://xkcd.com/1378/)
 
-*Wikipedia trivia: if you take any article, click on the first link in the article text not in parentheses or italics, and then repeat, you will eventually end up at "Philosophy".*
+*Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.*
 
 <!-- xkcd:end -->
 
