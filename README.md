@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![1/10,000th Scale World](https://imgs.xkcd.com/comics/1_10000th_scale_world.png)](https://xkcd.com/2411/)
+[![Magnus](https://imgs.xkcd.com/comics/magnus.png)](https://xkcd.com/1628/)
 
-*OCEAN PLAY AREA RULES: No running, no horseplay, no megatsunamis, and no trying to pry the wreck of the Titanic off the bottom.*
+*In the latest round, 9-year-old Muhammad Ali beat 10-year-old JFK at air hockey, while Secretariat lost the hot-dog-eating crown to 12-year-old Ken Jennings. Meanwhile, in a huge upset, 11-year-old Martha Stewart knocked out the adult Ronda Rousey.*
 
 <!-- xkcd:end -->
 
