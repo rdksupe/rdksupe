@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Magnus](https://imgs.xkcd.com/comics/magnus.png)](https://xkcd.com/1628/)
+[![Extended Mind](https://imgs.xkcd.com/comics/extended_mind.png)](https://xkcd.com/903/)
 
-*In the latest round, 9-year-old Muhammad Ali beat 10-year-old JFK at air hockey, while Secretariat lost the hot-dog-eating crown to 12-year-old Ken Jennings. Meanwhile, in a huge upset, 11-year-old Martha Stewart knocked out the adult Ronda Rousey.*
+*Wikipedia trivia: if you take any article, click on the first link in the article text not in parentheses or italics, and then repeat, you will eventually end up at "Philosophy".*
 
 <!-- xkcd:end -->
 
