@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Turbine](https://imgs.xkcd.com/comics/turbine.png)](https://xkcd.com/1378/)
+[![Sierpinski Valentine](https://imgs.xkcd.com/comics/sierpinski_valentine.png)](https://xkcd.com/543/)
 
-*Ok, plan B: Fly a kite into the blades, with a rock in a sling dangling below it, and create the world's largest trebuchet.*
+*Especially you mouseover-text readers. You're the best. <3*
 
 <!-- xkcd:end -->
 
