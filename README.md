@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Second](https://imgs.xkcd.com/comics/second.png)](https://xkcd.com/1334/)
+[![Road Rage](https://imgs.xkcd.com/comics/road_rage.png)](https://xkcd.com/440/)
 
-*Let me just scroll down and check behind that rock. Annnnd ... nope, page copyright year starts with '19'. Oh God, is this a WEBRING?*
+*Okay, now just as the loss hits him, slam on the brakes.*
 
 <!-- xkcd:end -->
 
