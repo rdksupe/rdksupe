@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Road Rage](https://imgs.xkcd.com/comics/road_rage.png)](https://xkcd.com/440/)
+[![Security Question](https://imgs.xkcd.com/comics/security_question.png)](https://xkcd.com/565/)
 
-*Okay, now just as the loss hits him, slam on the brakes.*
+*Let's invite him to a party and play 'I never'. Okay, I never hid any bodies SOUTH of Main Street. ... he's taking a drink!*
 
 <!-- xkcd:end -->
 
