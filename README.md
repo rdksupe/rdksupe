@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cohort and Age Effects](https://imgs.xkcd.com/comics/cohort_and_age_effects.png)](https://xkcd.com/2080/)
+[![Second](https://imgs.xkcd.com/comics/second.png)](https://xkcd.com/1334/)
 
-*Younger people get very few joint replacements, yet they're also getting more than older people did at the same age. This means you can choose between 'Why are millennials getting so (many/few) joint replacements?' depending on which trend fits your current argument better.*
+*Let me just scroll down and check behind that rock. Annnnd ... nope, page copyright year starts with '19'. Oh God, is this a WEBRING?*
 
 <!-- xkcd:end -->
 
