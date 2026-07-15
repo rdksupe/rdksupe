@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Graffiti](https://imgs.xkcd.com/comics/graffiti.png)](https://xkcd.com/229/)
+[![Reduce Your Payments](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/)
 
-*FOR AN INTRIGUING TIME CALL*
+*I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.*
 
 <!-- xkcd:end -->
 
