@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Security Question](https://imgs.xkcd.com/comics/security_question.png)](https://xkcd.com/565/)
+[![Marriage](https://imgs.xkcd.com/comics/marriage.png)](https://xkcd.com/1431/)
 
-*Let's invite him to a party and play 'I never'. Okay, I never hid any bodies SOUTH of Main Street. ... he's taking a drink!*
+*People often say that same-sex marriage now is like interracial marriage in the 60s. But in terms of public opinion, same-sex marriage now is like interracial marriage in the 90s, when it had already been legal nationwide for 30 years.*
 
 <!-- xkcd:end -->
 
