@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Marriage](https://imgs.xkcd.com/comics/marriage.png)](https://xkcd.com/1431/)
+[![Graffiti](https://imgs.xkcd.com/comics/graffiti.png)](https://xkcd.com/229/)
 
-*People often say that same-sex marriage now is like interracial marriage in the 60s. But in terms of public opinion, same-sex marriage now is like interracial marriage in the 90s, when it had already been legal nationwide for 30 years.*
+*FOR AN INTRIGUING TIME CALL*
 
 <!-- xkcd:end -->
 
