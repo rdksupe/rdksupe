@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Feature Comparison](https://imgs.xkcd.com/comics/feature_comparison.png)](https://xkcd.com/2699/)
+[![Workaround](https://imgs.xkcd.com/comics/workaround.png)](https://xkcd.com/763/)
 
-*Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.*
+*I once worked on a friend's dad's computer. He had the hard drive divided into six partitions, C: through J:, with a 'Documents' directory tree on each one. Each new file appeared to be saved to a partition at random. I knew enough not to ask.*
 
 <!-- xkcd:end -->
 
