@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Long Light](https://imgs.xkcd.com/comics/long_light.png)](https://xkcd.com/277/)
+[![Feature Comparison](https://imgs.xkcd.com/comics/feature_comparison.png)](https://xkcd.com/2699/)
 
-*You can look at practically any part of anything manmade around you and think 'some engineer was frustrated while designing this.' It's a little human connection.*
+*Below the Web, and the Dark Web, a shadowy parallel world of Cybiko users trade messages on the Translucent Neon Plastic Web.*
 
 <!-- xkcd:end -->
 
