@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Detail](https://imgs.xkcd.com/comics/detail.png)](https://xkcd.com/1204/)
+[![Gyroscopes](https://imgs.xkcd.com/comics/gyroscopes.png)](https://xkcd.com/332/)
 
-*2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'*
+*We didn't actually land on the moon -- it just looked like we did because of precession. Also, gyroscopes caused 9/11.*
 
 <!-- xkcd:end -->
 
