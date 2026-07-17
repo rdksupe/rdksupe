@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Gyroscopes](https://imgs.xkcd.com/comics/gyroscopes.png)](https://xkcd.com/332/)
+[![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)](https://xkcd.com/3219/)
 
-*We didn't actually land on the moon -- it just looked like we did because of precession. Also, gyroscopes caused 9/11.*
+*An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.*
 
 <!-- xkcd:end -->
 
