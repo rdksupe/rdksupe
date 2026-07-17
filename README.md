@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Planets and Bright Stars](https://imgs.xkcd.com/comics/planets_and_bright_stars.png)](https://xkcd.com/3219/)
+[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
 
-*An old astronomer trick for distinguishing the Sun from other stars is to take multiple photos a few minutes apart and overlay them, making the Sun stand out due to its high proper motion.*
+*Okay, everyone, cross yourselves, then cross the streams.*
 
 <!-- xkcd:end -->
 
