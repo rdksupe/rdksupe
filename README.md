@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Unpickable](https://imgs.xkcd.com/comics/unpickable.png)](https://xkcd.com/916/)
+[![Detail](https://imgs.xkcd.com/comics/detail.png)](https://xkcd.com/1204/)
 
-*The safe is empty except for an unsolved 5x5 Rubik's cube.*
+*2031: Google defends the swiveling roof-mounted scanning electron microscopes on its Street View cars, saying they 'don't reveal anything that couldn't be seen by any pedestrian scanning your house with an electron microscope.'*
 
 <!-- xkcd:end -->
 
