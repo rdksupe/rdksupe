@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Heaven](https://imgs.xkcd.com/comics/heaven.png)](https://xkcd.com/888/)
+[![File Transfer](https://imgs.xkcd.com/comics/file_transfer.png)](https://xkcd.com/949/)
 
-*If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.*
+*Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.*
 
 <!-- xkcd:end -->
 
