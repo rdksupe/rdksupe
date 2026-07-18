@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)](https://xkcd.com/3222/)
+[![Heaven](https://imgs.xkcd.com/comics/heaven.png)](https://xkcd.com/888/)
 
-*It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!*
+*If you've never had sex, this is what it feels like. Complete with the brief feeling of satisfaction, followed by ennui, followed by getting bored and trying to make it happen again.*
 
 <!-- xkcd:end -->
 
