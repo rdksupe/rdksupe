@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![File Transfer](https://imgs.xkcd.com/comics/file_transfer.png)](https://xkcd.com/949/)
+[![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)](https://xkcd.com/3217/)
 
-*Every time you email a file to yourself so you can pull it up on your friend's laptop, Tim Berners-Lee sheds a single tear.*
+*As always, you are permitted to call one person for guidance, but that person must be a grandparent.*
 
 <!-- xkcd:end -->
 
