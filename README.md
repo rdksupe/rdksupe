@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
+[![Star Formation](https://imgs.xkcd.com/comics/star_formation.png)](https://xkcd.com/3222/)
 
-*Okay, everyone, cross yourselves, then cross the streams.*
+*It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!*
 
 <!-- xkcd:end -->
 
