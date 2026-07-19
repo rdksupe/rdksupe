@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Home Remedies](https://imgs.xkcd.com/comics/home_remedies.png)](https://xkcd.com/3217/)
+[![Ufo](https://imgs.xkcd.com/comics/ufo.png)](https://xkcd.com/2156/)
 
-*As always, you are permitted to call one person for guidance, but that person must be a grandparent.*
+*"It's a little low for a weather balloon; it might be some other kind." "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea that the government would care about hiding something so mundane as atmospheric temperature measurement is too ridiculous even for me."*
 
 <!-- xkcd:end -->
 
