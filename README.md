@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ufo](https://imgs.xkcd.com/comics/ufo.png)](https://xkcd.com/2156/)
+[![Pastime](https://imgs.xkcd.com/comics/pastime.png)](https://xkcd.com/1222/)
 
-*"It's a little low for a weather balloon; it might be some other kind." "Yeah. Besides, I know I'm the alien conspiracy guy, but come on--the idea that the government would care about hiding something so mundane as atmospheric temperature measurement is too ridiculous even for me."*
+*Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?*
 
 <!-- xkcd:end -->
 
