@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cryptography](https://imgs.xkcd.com/comics/cryptography.png)](https://xkcd.com/153/)
+[![Empiricism](https://imgs.xkcd.com/comics/empiricism.png)](https://xkcd.com/2855/)
 
-*If you got a big keyspace, let me search it.*
+*The problems started with my resolution next year to reject temporal causality.*
 
 <!-- xkcd:end -->
 
