@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pastime](https://imgs.xkcd.com/comics/pastime.png)](https://xkcd.com/1222/)
+[![Cryptography](https://imgs.xkcd.com/comics/cryptography.png)](https://xkcd.com/153/)
 
-*Good thing we're too smart to spend all day being uselessly frustrated with ourselves. I mean, that'd be a hell of a waste, right?*
+*If you got a big keyspace, let me search it.*
 
 <!-- xkcd:end -->
 
