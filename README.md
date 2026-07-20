@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![ISO 8601](https://imgs.xkcd.com/comics/iso_8601.png)](https://xkcd.com/1179/)
+[![Bad Map Projection: Madagascator](https://imgs.xkcd.com/comics/bad_map_projection_madagascator.png)](https://xkcd.com/2613/)
 
-*ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.*
+*The projection's north pole is in a small lake on the island of Mahé in the Seychelles, which is off the top of the map and larger than the rest of the Earth's land area combined.*
 
 <!-- xkcd:end -->
 
