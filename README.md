@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Empiricism](https://imgs.xkcd.com/comics/empiricism.png)](https://xkcd.com/2855/)
+[![Modern Tools](https://imgs.xkcd.com/comics/modern_tools.png)](https://xkcd.com/2510/)
 
-*The problems started with my resolution next year to reject temporal causality.*
+*I tried to train an AI to repair my Python environment but it kept giving up and deleting itself.*
 
 <!-- xkcd:end -->
 
