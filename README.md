@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sheeple](https://imgs.xkcd.com/comics/sheeple.png)](https://xkcd.com/610/)
+[![Kite](https://imgs.xkcd.com/comics/kite.jpg)](https://xkcd.com/235/)
 
-*Hey, what are the odds -- five Ayn Rand fans on the same train! Must be going to a convention.*
+*It's easy to regret your awkward conversations but hard to regret the ones you didn't have.*
 
 <!-- xkcd:end -->
 
