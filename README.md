@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Kite](https://imgs.xkcd.com/comics/kite.jpg)](https://xkcd.com/235/)
+[![Recipes](https://imgs.xkcd.com/comics/recipes.png)](https://xkcd.com/720/)
 
-*It's easy to regret your awkward conversations but hard to regret the ones you didn't have.*
+*To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.*
 
 <!-- xkcd:end -->
 
