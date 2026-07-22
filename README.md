@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Nomenclature](https://imgs.xkcd.com/comics/nomenclature.png)](https://xkcd.com/1221/)
+[![Square Packing](https://imgs.xkcd.com/comics/square_packing.png)](https://xkcd.com/2740/)
 
-*[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'*
+*I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.*
 
 <!-- xkcd:end -->
 
