@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Angular Momentum](https://imgs.xkcd.com/comics/angular_momentum.jpg)](https://xkcd.com/162/)
+[![Nomenclature](https://imgs.xkcd.com/comics/nomenclature.png)](https://xkcd.com/1221/)
 
-*With reasonable assumptions about latitude and body shape, how much time might she gain them? Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)*
+*[shouted, from the field] 'Aunt Beast hit a pop fly to second! Dive for it, Mrs Whatsit!'*
 
 <!-- xkcd:end -->
 
