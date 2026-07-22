@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Recipes](https://imgs.xkcd.com/comics/recipes.png)](https://xkcd.com/720/)
+[![Angular Momentum](https://imgs.xkcd.com/comics/angular_momentum.jpg)](https://xkcd.com/162/)
 
-*To be fair, the braised and confused newt on a bed of crushed Doritos turned out to be delicious.*
+*With reasonable assumptions about latitude and body shape, how much time might she gain them? Note: whatever the answer, sunrise always comes too soon. (Also, is it worth it if she throws up?)*
 
 <!-- xkcd:end -->
 
