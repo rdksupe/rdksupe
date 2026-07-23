@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sticks and Stones](https://imgs.xkcd.com/comics/sticks_and_stones.png)](https://xkcd.com/1216/)
+[![Schrodinger](https://imgs.xkcd.com/comics/schrodinger.jpg)](https://xkcd.com/45/)
 
-*Sticks and stones may break my bones, but words can make me think I deserved it.*
+*There was no alt-text until you moused over*
 
 <!-- xkcd:end -->
 
