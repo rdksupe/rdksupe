@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Square Packing](https://imgs.xkcd.com/comics/square_packing.png)](https://xkcd.com/2740/)
+[![Sticks and Stones](https://imgs.xkcd.com/comics/sticks_and_stones.png)](https://xkcd.com/1216/)
 
-*I also managed to improve the solution for n=1 to s<0.97, and with some upgrades I think I can hit 0.96.*
+*Sticks and stones may break my bones, but words can make me think I deserved it.*
 
 <!-- xkcd:end -->
 
