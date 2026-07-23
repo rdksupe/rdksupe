@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Schrodinger](https://imgs.xkcd.com/comics/schrodinger.jpg)](https://xkcd.com/45/)
+[![Abusive Astronomy](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)](https://xkcd.com/66/)
 
-*There was no alt-text until you moused over*
+*Medium: Pencil on paper*
 
 <!-- xkcd:end -->
 
