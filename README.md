@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Abusive Astronomy](https://imgs.xkcd.com/comics/abusive_astronomy.jpg)](https://xkcd.com/66/)
+[![Science Valentine](https://imgs.xkcd.com/comics/science_valentine.png)](https://xkcd.com/701/)
 
-*Medium: Pencil on paper*
+*You don't use science to show that you're right, you use science to become right.*
 
 <!-- xkcd:end -->
 
