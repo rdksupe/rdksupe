@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Science Valentine](https://imgs.xkcd.com/comics/science_valentine.png)](https://xkcd.com/701/)
+[![Tab Explosion](https://imgs.xkcd.com/comics/tab_explosion.png)](https://xkcd.com/609/)
 
-*You don't use science to show that you're right, you use science to become right.*
+*Cracked.com is another inexplicable browser narcotic. They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.*
 
 <!-- xkcd:end -->
 
