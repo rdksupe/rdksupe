@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Background Apps](https://imgs.xkcd.com/comics/background_apps.png)](https://xkcd.com/1965/)
+[![Dangerous Fields](https://imgs.xkcd.com/comics/dangerous_fields.png)](https://xkcd.com/2142/)
 
-*My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.*
+*Eventually, every epidemiologist becomes another statistic, a dedication to record-keeping which their colleagues sincerely appreciate.*
 
 <!-- xkcd:end -->
 
