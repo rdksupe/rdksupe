@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tab Explosion](https://imgs.xkcd.com/comics/tab_explosion.png)](https://xkcd.com/609/)
+[![Background Apps](https://imgs.xkcd.com/comics/background_apps.png)](https://xkcd.com/1965/)
 
-*Cracked.com is another inexplicable browser narcotic. They could write a list of '17 worst haircuts in the Ottoman Empire' and I'd read through to the end, then click on all the links at the end.*
+*My plane banner company gets business by flying around with a banner showing a <div> tag, waiting for a web developer to get frustrated enough to order a matching </div>.*
 
 <!-- xkcd:end -->
 
