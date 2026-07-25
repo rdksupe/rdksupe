@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dangerous Fields](https://imgs.xkcd.com/comics/dangerous_fields.png)](https://xkcd.com/2142/)
+[![2016 Conversation Guide](https://imgs.xkcd.com/comics/2016_conversation_guide.png)](https://xkcd.com/1623/)
 
-*Eventually, every epidemiologist becomes another statistic, a dedication to record-keeping which their colleagues sincerely appreciate.*
+*The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.*
 
 <!-- xkcd:end -->
 
