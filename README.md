@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Free](https://imgs.xkcd.com/comics/free.png)](https://xkcd.com/641/)
+[![7 Eleven](https://imgs.xkcd.com/comics/7_eleven.png)](https://xkcd.com/1825/)
 
-*Asbestos is bad; definitely get the one on the right. Wait -- this one over here has no swine flu! Now I can't decide.*
+*Really, the only honest 24-hour stores are the ones in places like Arizona and Hawaii, and many of them are still wrong in certain years.*
 
 <!-- xkcd:end -->
 
