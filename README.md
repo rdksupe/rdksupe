@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![2016 Conversation Guide](https://imgs.xkcd.com/comics/2016_conversation_guide.png)](https://xkcd.com/1623/)
+[![Free](https://imgs.xkcd.com/comics/free.png)](https://xkcd.com/641/)
 
-*The real loser in an argument about the meaning of the word 'hoverboard' is anyone who leaves that argument on foot.*
+*Asbestos is bad; definitely get the one on the right. Wait -- this one over here has no swine flu! Now I can't decide.*
 
 <!-- xkcd:end -->
 
