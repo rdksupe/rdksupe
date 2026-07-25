@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![7 Eleven](https://imgs.xkcd.com/comics/7_eleven.png)](https://xkcd.com/1825/)
+[![Three Kinds of Research](https://imgs.xkcd.com/comics/three_kinds_of_research.png)](https://xkcd.com/2977/)
 
-*Really, the only honest 24-hour stores are the ones in places like Arizona and Hawaii, and many of them are still wrong in certain years.*
+*The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'*
 
 <!-- xkcd:end -->
 
