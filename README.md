@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Three Kinds of Research](https://imgs.xkcd.com/comics/three_kinds_of_research.png)](https://xkcd.com/2977/)
+[![Haunted House](https://imgs.xkcd.com/comics/haunted_house.png)](https://xkcd.com/2830/)
 
-*The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'*
+*You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.*
 
 <!-- xkcd:end -->
 
