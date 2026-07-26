@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ice Core](https://imgs.xkcd.com/comics/ice_core.png)](https://xkcd.com/2902/)
+[![Sigil Cycle](https://imgs.xkcd.com/comics/sigil_cycle.png)](https://xkcd.com/1306/)
 
-*If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.*
+*The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'*
 
 <!-- xkcd:end -->
 
