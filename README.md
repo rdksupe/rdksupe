@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Haunted House](https://imgs.xkcd.com/comics/haunted_house.png)](https://xkcd.com/2830/)
+[![Ice Core](https://imgs.xkcd.com/comics/ice_core.png)](https://xkcd.com/2902/)
 
-*You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit.*
+*If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ.*
 
 <!-- xkcd:end -->
 
