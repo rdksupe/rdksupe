@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sigil Cycle](https://imgs.xkcd.com/comics/sigil_cycle.png)](https://xkcd.com/1306/)
+[![KM3NeT](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053/)
 
-*The cycle seems to be 'we need these symbols to clarify what types of things we're referring to!' followed by 'wait, it turns out words already do that.'*
+*Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.*
 
 <!-- xkcd:end -->
 
