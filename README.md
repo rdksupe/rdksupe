@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![KM3NeT](https://imgs.xkcd.com/comics/km3net.png)](https://xkcd.com/3053/)
+[![Vice President First Names](https://imgs.xkcd.com/comics/vice_president_first_names.png)](https://xkcd.com/2969/)
 
-*Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers.*
+*[Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."*
 
 <!-- xkcd:end -->
 
