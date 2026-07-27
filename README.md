@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Vice President First Names](https://imgs.xkcd.com/comics/vice_president_first_names.png)](https://xkcd.com/2969/)
+[![Loop](https://imgs.xkcd.com/comics/loop.png)](https://xkcd.com/1411/)
 
-*[Political pundit on the ScrabbleTV News channel] "After four years of defying orthographic pressure, Joe ceded the top of the ticket to Kamala, who--after considering Josh, Mark, Andy, Roy, and Pete--picked Tim."*
+*Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.*
 
 <!-- xkcd:end -->
 
