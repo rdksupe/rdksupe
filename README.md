@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Loop](https://imgs.xkcd.com/comics/loop.png)](https://xkcd.com/1411/)
+[![Snake Facts](https://imgs.xkcd.com/comics/snake_facts.png)](https://xkcd.com/1398/)
 
-*Ugh, today's kids are forgetting the old-fashioned art of absentmindedly reading the same half-page of a book over and over and then letting your attention wander and picking up another book.*
+*Biologically speaking, what we call a 'snake' is actually a human digestive tract which has escaped from its host.*
 
 <!-- xkcd:end -->
 
