@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Graphic Designers](https://imgs.xkcd.com/comics/graphic_designers.png)](https://xkcd.com/2598/)
+[![Impostor Syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)](https://xkcd.com/1954/)
 
-*They might make it past that first line of defense. For the second, you'll need some picture frames, a level, and a protractor that can do increments of less than a degree.*
+*It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.*
 
 <!-- xkcd:end -->
 
