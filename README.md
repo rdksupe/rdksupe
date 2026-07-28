@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Impostor Syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)](https://xkcd.com/1954/)
+[![Children's Fantasy](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/)
 
-*It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.*
+*I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.*
 
 <!-- xkcd:end -->
 
