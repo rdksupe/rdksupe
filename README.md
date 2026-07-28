@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Na](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/)
+[![Delivery](https://imgs.xkcd.com/comics/delivery.png)](https://xkcd.com/431/)
 
-*I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.*
+*Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery! Ha ha, get it? Oh God, don't throw those syringes! Your baby's fine!*
 
 <!-- xkcd:end -->
 
