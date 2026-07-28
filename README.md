@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Children's Fantasy](https://imgs.xkcd.com/comics/childrens_fantasy.png)](https://xkcd.com/693/)
+[![Na](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/)
 
-*I was going to be a scientist, but that seems silly now. Magical worlds exist. I've learned a huge truth about our place in the universe. I'm supposed to care about college? I mean, FUCK.*
+*I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.*
 
 <!-- xkcd:end -->
 
