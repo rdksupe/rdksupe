@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Opportunity](https://imgs.xkcd.com/comics/opportunity.png)](https://xkcd.com/1504/)
+[![Ancient Stars](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/)
 
-*We all remember those famous first words spoken by an astronaut on the surface of Mars: "That's one small step fo- HOLY SHIT LOOK OUT IT'S GOT SOME KIND OF DRILL! Get back to the ... [unintelligible] ... [signal lost]"*
+*'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.*
 
 <!-- xkcd:end -->
 
