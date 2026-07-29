@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Game Show](https://imgs.xkcd.com/comics/game_show.png)](https://xkcd.com/2197/)
+[![Opportunity](https://imgs.xkcd.com/comics/opportunity.png)](https://xkcd.com/1504/)
 
-*Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."*
+*We all remember those famous first words spoken by an astronaut on the surface of Mars: "That's one small step fo- HOLY SHIT LOOK OUT IT'S GOT SOME KIND OF DRILL! Get back to the ... [unintelligible] ... [signal lost]"*
 
 <!-- xkcd:end -->
 
