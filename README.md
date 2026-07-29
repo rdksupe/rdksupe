@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ancient Stars](https://imgs.xkcd.com/comics/ancient_stars.png)](https://xkcd.com/1342/)
+[![Buzzfeed Christmas](https://imgs.xkcd.com/comics/buzzfeed_christmas.png)](https://xkcd.com/1307/)
 
-*'The light from those millions of stars you see is probably many thousands of years old' is a rare example of laypeople substantially OVERestimating astronomical numbers.*
+*The 6 Weirdest Objects The Buzzfeed Writers Are Throwing Out Their Windows At Us*
 
 <!-- xkcd:end -->
 
