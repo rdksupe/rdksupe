@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Delivery](https://imgs.xkcd.com/comics/delivery.png)](https://xkcd.com/431/)
+[![Game Show](https://imgs.xkcd.com/comics/game_show.png)](https://xkcd.com/2197/)
 
-*Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery! Ha ha, get it? Oh God, don't throw those syringes! Your baby's fine!*
+*Eventually they agreed to "an auto-retracting dog leash with one end clipped to your house, so you can press the button on the handle and water-ski home."*
 
 <!-- xkcd:end -->
 
