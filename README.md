@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Frogger](https://imgs.xkcd.com/comics/frogger.png)](https://xkcd.com/772/)
+[![Eclipse Flights](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/)
 
-*I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.*
+*The captain has turned on the 'fasten seat belt' sign.*
 
 <!-- xkcd:end -->
 
