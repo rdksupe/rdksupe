@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Change in Slope](https://imgs.xkcd.com/comics/change_in_slope.png)](https://xkcd.com/2701/)
+[![Questions](https://imgs.xkcd.com/comics/questions.png)](https://xkcd.com/1256/)
 
-*Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.*
+*To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.*
 
 <!-- xkcd:end -->
 
