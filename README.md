@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Buzzfeed Christmas](https://imgs.xkcd.com/comics/buzzfeed_christmas.png)](https://xkcd.com/1307/)
+[![Frogger](https://imgs.xkcd.com/comics/frogger.png)](https://xkcd.com/772/)
 
-*The 6 Weirdest Objects The Buzzfeed Writers Are Throwing Out Their Windows At Us*
+*I understand you and your team worked hard on this, but when we said to make it more realistic, we meant the graphics.*
 
 <!-- xkcd:end -->
 
