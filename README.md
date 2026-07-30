@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eclipse Flights](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/)
+[![Change in Slope](https://imgs.xkcd.com/comics/change_in_slope.png)](https://xkcd.com/2701/)
 
-*The captain has turned on the 'fasten seat belt' sign.*
+*Squinting at a graph is fine for getting a rough idea of the answer, but if you want to pretend to know it exactly, you need statistics.*
 
 <!-- xkcd:end -->
 
