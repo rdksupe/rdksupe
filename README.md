@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Public Key](https://imgs.xkcd.com/comics/public_key.png)](https://xkcd.com/1553/)
+[![Worst Hurricane](https://imgs.xkcd.com/comics/worst_hurricane.png)](https://xkcd.com/1407/)
 
-*I guess I should be signing stuff, but I've never been sure what to sign. Maybe if I post my private key, I can crowdsource my decisions about what to sign.*
+*'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.*
 
 <!-- xkcd:end -->
 
