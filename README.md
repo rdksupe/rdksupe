@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Questions](https://imgs.xkcd.com/comics/questions.png)](https://xkcd.com/1256/)
+[![Worst Hurricane](https://imgs.xkcd.com/comics/worst_hurricane.png)](https://xkcd.com/1407/)
 
-*To whoever typed 'why is arwen dying': GOOD. FUCKING. QUESTION.*
+*'Finding a 105-year-old who's lived in each location and asking them which hurricane they think was the worst' is left as an exercise for the reader.*
 
 <!-- xkcd:end -->
 
