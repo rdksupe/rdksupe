@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Greenland Size](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/)
+[![Painbow Award](https://imgs.xkcd.com/comics/painbow_award.png)](https://xkcd.com/2537/)
 
-*The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.*
+*This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.*
 
 <!-- xkcd:end -->
 
