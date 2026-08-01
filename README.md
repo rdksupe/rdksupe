@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brain Hemispheres](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/)
+[![Getting Out of Hand](https://imgs.xkcd.com/comics/getting_out_of_hand.png)](https://xkcd.com/333/)
 
-*Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.*
+*Wikipedia's role as brain-extension, while a little troubling, is also really cool.*
 
 <!-- xkcd:end -->
 
