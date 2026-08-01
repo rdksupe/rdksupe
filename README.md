@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Getting Out of Hand](https://imgs.xkcd.com/comics/getting_out_of_hand.png)](https://xkcd.com/333/)
+[![Greenland Size](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/)
 
-*Wikipedia's role as brain-extension, while a little troubling, is also really cool.*
+*The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.*
 
 <!-- xkcd:end -->
 
