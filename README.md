@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Chemist Eggs](https://imgs.xkcd.com/comics/chemist_eggs.png)](https://xkcd.com/2373/)
+[![Brain Hemispheres](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/)
 
-*Chemists actually find it simpler to define a general odor of rotten eggs as a baseline, and the LACK of rotten eggs as a distinct smell.*
+*Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.*
 
 <!-- xkcd:end -->
 
