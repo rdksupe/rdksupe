@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lying](https://imgs.xkcd.com/comics/lying.png)](https://xkcd.com/2833/)
+[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
 
-*I was, at least at the start of this disastrous game night, your friend.*
+*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
 
 <!-- xkcd:end -->
 
