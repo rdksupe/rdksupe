@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Painbow Award](https://imgs.xkcd.com/comics/painbow_award.png)](https://xkcd.com/2537/)
+[![ISO 8601](https://imgs.xkcd.com/comics/iso_8601.png)](https://xkcd.com/1179/)
 
-*This year, our team took home the dark blue ribbon, better than the midnight blue we got last year but still short of the winning navy blue.*
+*ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.*
 
 <!-- xkcd:end -->
 
