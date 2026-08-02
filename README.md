@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Maps](https://imgs.xkcd.com/comics/maps.png)](https://xkcd.com/2617/)
+[![Lying](https://imgs.xkcd.com/comics/lying.png)](https://xkcd.com/2833/)
 
-*OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!*
+*I was, at least at the start of this disastrous game night, your friend.*
 
 <!-- xkcd:end -->
 
