@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![ISO 8601](https://imgs.xkcd.com/comics/iso_8601.png)](https://xkcd.com/1179/)
+[![Maps](https://imgs.xkcd.com/comics/maps.png)](https://xkcd.com/2617/)
 
-*ISO 8601 was published on 06/05/88 and most recently amended on 12/01/04.*
+*OpenStreetMap was always pretty good but is also now *really* good? And Apple Maps's new zoomed-in design in certain cities like NYC and London is just gorgeous. It's cool how there are all these good maps now!*
 
 <!-- xkcd:end -->
 
