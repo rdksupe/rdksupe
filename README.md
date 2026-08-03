@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
+[![Brain Hemispheres](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/)
 
-*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
+*Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.*
 
 <!-- xkcd:end -->
 
