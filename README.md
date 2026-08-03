@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fourier](https://imgs.xkcd.com/comics/fourier.jpg)](https://xkcd.com/26/)
+[![Tractor Beam](https://imgs.xkcd.com/comics/tractor_beam.png)](https://xkcd.com/2579/)
 
-*That cat has some serious periodic components*
+*Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?*
 
 <!-- xkcd:end -->
 
