@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tractor Beam](https://imgs.xkcd.com/comics/tractor_beam.png)](https://xkcd.com/2579/)
+[![Reverse Euphemisms](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/)
 
-*Did you base the saucer shape on pop culture depictions of aliens, or was that stuff based on your ships? Does the rotational symmetry help with ... hey, where are you going?*
+*I'm still waiting for a chance to use 'I have to see a man about a horse'.*
 
 <!-- xkcd:end -->
 
