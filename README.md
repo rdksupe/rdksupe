@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brain Hemispheres](https://imgs.xkcd.com/comics/brain_hemispheres.png)](https://xkcd.com/2120/)
+[![Fourier](https://imgs.xkcd.com/comics/fourier.jpg)](https://xkcd.com/26/)
 
-*Neurologically speaking, the LEFT hand is actually the one at the end of the RIGHT arm.*
+*That cat has some serious periodic components*
 
 <!-- xkcd:end -->
 
