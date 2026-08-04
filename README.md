@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reverse Euphemisms](https://imgs.xkcd.com/comics/reverse_euphemisms.png)](https://xkcd.com/168/)
+[![Tony Hawk](https://imgs.xkcd.com/comics/tony_hawk.png)](https://xkcd.com/296/)
 
-*I'm still waiting for a chance to use 'I have to see a man about a horse'.*
+*Bad idea #271: Dropping into the half-pipe on a Segway.*
 
 <!-- xkcd:end -->
 
