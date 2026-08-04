@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Good and Bad Ideas](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)](https://xkcd.com/2929/)
+[![Fiction vs Nonfiction](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546/)
 
-*While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.*
+*The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.*
 
 <!-- xkcd:end -->
 
