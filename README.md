@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Down](https://imgs.xkcd.com/comics/down.png)](https://xkcd.com/2800/)
+[![Good and Bad Ideas](https://imgs.xkcd.com/comics/good_and_bad_ideas.png)](https://xkcd.com/2929/)
 
-*It's just that I get nervous about heights.*
+*While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake.*
 
 <!-- xkcd:end -->
 
