@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tony Hawk](https://imgs.xkcd.com/comics/tony_hawk.png)](https://xkcd.com/296/)
+[![Down](https://imgs.xkcd.com/comics/down.png)](https://xkcd.com/2800/)
 
-*Bad idea #271: Dropping into the half-pipe on a Segway.*
+*It's just that I get nervous about heights.*
 
 <!-- xkcd:end -->
 
