@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Clark Gable](https://imgs.xkcd.com/comics/clark_gable.jpg)](https://xkcd.com/110/)
+[![Map Projections](https://imgs.xkcd.com/comics/map_projections.png)](https://xkcd.com/977/)
 
-*Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN*
+*What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged? Are you sure you're not ... ::puts on sunglasses:: ... projecting?*
 
 <!-- xkcd:end -->
 
