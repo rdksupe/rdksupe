@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Map Projections](https://imgs.xkcd.com/comics/map_projections.png)](https://xkcd.com/977/)
+[![Synonym Movies](https://imgs.xkcd.com/comics/synonym_movies.png)](https://xkcd.com/1563/)
 
-*What's that? You think I don't like the Peters map because I'm uncomfortable with having my cultural assumptions challenged? Are you sure you're not ... ::puts on sunglasses:: ... projecting?*
+*Fans eagerly await 2015's 'Space Fights: Power Gets Up', although most think 1999's 'Space Fights: The Scary Ghost' didn't live up to the hype.*
 
 <!-- xkcd:end -->
 
