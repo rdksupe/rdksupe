@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fiction vs Nonfiction](https://imgs.xkcd.com/comics/fiction_vs_nonfiction.png)](https://xkcd.com/2546/)
+[![Experimentation](https://imgs.xkcd.com/comics/experimentation.png)](https://xkcd.com/507/)
 
-*The real challenge is how to file Boba Fett's biography of Doris Kearns Goodwin.*
+*I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?*
 
 <!-- xkcd:end -->
 
