@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Experimentation](https://imgs.xkcd.com/comics/experimentation.png)](https://xkcd.com/507/)
+[![Clark Gable](https://imgs.xkcd.com/comics/clark_gable.jpg)](https://xkcd.com/110/)
 
-*I understand large sample sizes are key to a low standard error of the mean, but the entire sophomore class?*
+*Frankly, my dear, I don't give a BITCH ASS SHIT FUCK DAMN*
 
 <!-- xkcd:end -->
 
