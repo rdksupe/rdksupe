@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Twitter Bot](https://imgs.xkcd.com/comics/twitter_bot.png)](https://xkcd.com/1646/)
+[![Gravity](https://imgs.xkcd.com/comics/gravity.png)](https://xkcd.com/2712/)
 
-*PYTHON FLAG ENABLE THREE LAWS*
+*It's a long way down.*
 
 <!-- xkcd:end -->
 
