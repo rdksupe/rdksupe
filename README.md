@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Metallurgy](https://imgs.xkcd.com/comics/metallurgy.png)](https://xkcd.com/1114/)
+[![Disclaimer](https://imgs.xkcd.com/comics/disclaimer.png)](https://xkcd.com/3126/)
 
-*This exotic blade was wrought from a different fallen star. The meteorite was a carbonaceous chondrite, so it's basically a lump of gravel glued into the shape of a sword. A SPACE sword!*
+*You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.*
 
 <!-- xkcd:end -->
 
