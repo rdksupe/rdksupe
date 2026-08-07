@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Planet Definitions](https://imgs.xkcd.com/comics/planet_definitions.png)](https://xkcd.com/3063/)
+[![How to Make Friends](https://imgs.xkcd.com/comics/how_to_make_friends.png)](https://xkcd.com/1917/)
 
-*Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.*
+*No, wait, come back! I want to be friends at you!*
 
 <!-- xkcd:end -->
 
