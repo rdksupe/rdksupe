@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![How to Make Friends](https://imgs.xkcd.com/comics/how_to_make_friends.png)](https://xkcd.com/1917/)
+[![Temper](https://imgs.xkcd.com/comics/temper.png)](https://xkcd.com/767/)
 
-*No, wait, come back! I want to be friends at you!*
+*Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.*
 
 <!-- xkcd:end -->
 
