@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Disclaimer](https://imgs.xkcd.com/comics/disclaimer.png)](https://xkcd.com/3126/)
+[![Planet Definitions](https://imgs.xkcd.com/comics/planet_definitions.png)](https://xkcd.com/3063/)
 
-*You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.*
+*Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star.*
 
 <!-- xkcd:end -->
 
