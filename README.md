@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Temper](https://imgs.xkcd.com/comics/temper.png)](https://xkcd.com/767/)
+[![Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
 
-*Mr. Rogers projected an air of genuine, unwavering, almost saintly pure-hearted decency. But when you look deeper, at the person behind the image ... that's exactly what you find there, too. He's exactly what he appears to be.*
+*The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent.*
 
 <!-- xkcd:end -->
 
