@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Machine Learning](https://imgs.xkcd.com/comics/machine_learning.png)](https://xkcd.com/1838/)
+[![Blade Runner](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/)
 
-*The pile gets soaked with data and starts to get mushy over time, so it's technically recurrent.*
+*Blade Runner: Classic, but incredibly slow.*
 
 <!-- xkcd:end -->
 
