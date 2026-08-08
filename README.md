@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Home Alone](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/)
+[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
 
-*Starring Macaulay Culkin.*
+*If nothing else, that reasoning definitely overturns syllogisms.*
 
 <!-- xkcd:end -->
 
