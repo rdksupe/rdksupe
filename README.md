@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Blade Runner](https://imgs.xkcd.com/comics/blade_runner.png)](https://xkcd.com/362/)
+[![Home Alone](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/)
 
-*Blade Runner: Classic, but incredibly slow.*
+*Starring Macaulay Culkin.*
 
 <!-- xkcd:end -->
 
