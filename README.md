@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
+[![Obituary Editor](https://imgs.xkcd.com/comics/obituary_editor.png)](https://xkcd.com/2745/)
 
-*If nothing else, that reasoning definitely overturns syllogisms.*
+*As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.*
 
 <!-- xkcd:end -->
 
