@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pluto](https://imgs.xkcd.com/comics/pluto.png)](https://xkcd.com/1551/)
+[![Baby Names](https://imgs.xkcd.com/comics/baby_names.png)](https://xkcd.com/1011/)
 
-*After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."*
+*I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.*
 
 <!-- xkcd:end -->
 
