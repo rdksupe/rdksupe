@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eclipse Clouds](https://imgs.xkcd.com/comics/eclipse_clouds.png)](https://xkcd.com/2915/)
+[![Pluto](https://imgs.xkcd.com/comics/pluto.png)](https://xkcd.com/1551/)
 
-*The rare compound solar-lunar-nephelogical eclipse*
+*After decades of increasingly confused arguing, Pluto is reclassified as a "dwarf Pluto."*
 
 <!-- xkcd:end -->
 
