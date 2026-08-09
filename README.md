@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![11th Grade](https://imgs.xkcd.com/comics/11th_grade.png)](https://xkcd.com/519/)
+[![Eclipse Clouds](https://imgs.xkcd.com/comics/eclipse_clouds.png)](https://xkcd.com/2915/)
 
-*And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.*
+*The rare compound solar-lunar-nephelogical eclipse*
 
 <!-- xkcd:end -->
 
