@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Obituary Editor](https://imgs.xkcd.com/comics/obituary_editor.png)](https://xkcd.com/2745/)
+[![11th Grade](https://imgs.xkcd.com/comics/11th_grade.png)](https://xkcd.com/519/)
 
-*As the editor has reportedly defeated Death in a series of games of skill, no further obituaries are expected.*
+*And the ten minutes striking up a conversation with that strange kid in homeroom sometimes matters more than every other part of high school combined.*
 
 <!-- xkcd:end -->
 
