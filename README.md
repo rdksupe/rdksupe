@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dying Gift](https://imgs.xkcd.com/comics/dying_gift.png)](https://xkcd.com/1941/)
+[![Contiguous 41 States](https://imgs.xkcd.com/comics/contiguous_41_states.png)](https://xkcd.com/2394/)
 
-*And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.*
+*Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'*
 
 <!-- xkcd:end -->
 
