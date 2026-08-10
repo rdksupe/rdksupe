@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![UK Coal](https://imgs.xkcd.com/comics/uk_coal.png)](https://xkcd.com/2992/)
+[![Google Trends](https://imgs.xkcd.com/comics/google_trends.png)](https://xkcd.com/522/)
 
-*The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.*
+*Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal. Excerpt: Lincoln lay back on the bed, nude save for his trademark stovepipe hat. 'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'*
 
 <!-- xkcd:end -->
 
