@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Contiguous 41 States](https://imgs.xkcd.com/comics/contiguous_41_states.png)](https://xkcd.com/2394/)
+[![UK Coal](https://imgs.xkcd.com/comics/uk_coal.png)](https://xkcd.com/2992/)
 
-*Linguists, settling some inscrutable grudge, have been steadily sneaking more backdated synonyms for 'sharing borders' into the dictionary. They've added 'contiguous,' 'coterminous,' 'conterminous,' and next year they're adding 'conterguous.'*
+*The Watership Down rabbits removed an additional 0.1 nanometers constructing their warren, although that was mostly soil. British rabbits have historically mined very little coal; the sole rabbit-run coal plant was shut down in the 1990s.*
 
 <!-- xkcd:end -->
 
