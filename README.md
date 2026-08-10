@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Baby Names](https://imgs.xkcd.com/comics/baby_names.png)](https://xkcd.com/1011/)
+[![Dying Gift](https://imgs.xkcd.com/comics/dying_gift.png)](https://xkcd.com/1941/)
 
-*I've been trying for a couple years now but I haven't been able to come up with a name dumber than 'Renesmee'.*
+*And to you, I leave my life-sized ice sculpture replica of the Pietà which was blessed by the Pope. You must never let it melt! Now, remember, all gifts must be removed from my estate within 24 hours.*
 
 <!-- xkcd:end -->
 
