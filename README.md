@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ballot Selfies](https://imgs.xkcd.com/comics/ballot_selfies.png)](https://xkcd.com/2066/)
+[![Crazy Straws](https://imgs.xkcd.com/comics/crazy_straws.png)](https://xkcd.com/1095/)
 
-*There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?*
+*The new crowd is heavily shaped by this guy named Eric, who's basically the Paris Hilton of the amateur plastic crazy straw design world.*
 
 <!-- xkcd:end -->
 
