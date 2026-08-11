@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Google Trends](https://imgs.xkcd.com/comics/google_trends.png)](https://xkcd.com/522/)
+[![Ballot Selfies](https://imgs.xkcd.com/comics/ballot_selfies.png)](https://xkcd.com/2066/)
 
-*Obama has been writing Lincoln/Obama erotic fan fiction on his secret livejournal. Excerpt: Lincoln lay back on the bed, nude save for his trademark stovepipe hat. 'Tell me,' he purred seductively, as he and Obama formed a more perfect union. 'When you come, is it 10% ethanol?'*
+*There were actually some good reasons for those laws, but IMO they now do more harm than good. Which raises a question: If there's a ballot measure to strike them down, how can I resist the urge to take a picture of my "yes" vote?*
 
 <!-- xkcd:end -->
 
