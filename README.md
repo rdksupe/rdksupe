@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Crazy Straws](https://imgs.xkcd.com/comics/crazy_straws.png)](https://xkcd.com/1095/)
+[![Welcome Back](https://imgs.xkcd.com/comics/welcome_back.png)](https://xkcd.com/2615/)
 
-*The new crowd is heavily shaped by this guy named Eric, who's basically the Paris Hilton of the amateur plastic crazy straw design world.*
+*'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]*
 
 <!-- xkcd:end -->
 
