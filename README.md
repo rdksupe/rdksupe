@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mispronunciation](https://imgs.xkcd.com/comics/mispronunciation.png)](https://xkcd.com/1816/)
+[![Possible Undiscovered Planets](https://imgs.xkcd.com/comics/possible_undiscovered_planets.png)](https://xkcd.com/1633/)
 
-*I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".*
+*Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.*
 
 <!-- xkcd:end -->
 
