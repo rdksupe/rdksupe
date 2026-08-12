@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Headache](https://imgs.xkcd.com/comics/headache.png)](https://xkcd.com/880/)
+[![Mispronunciation](https://imgs.xkcd.com/comics/mispronunciation.png)](https://xkcd.com/1816/)
 
-*I'm only willing to visit placid lakes, salt flats, and painting exhibits until the world's 3D technology improves.*
+*I pronounce epitome "EPPY-tome", but EpiPen "uh-PIE-pen".*
 
 <!-- xkcd:end -->
 
