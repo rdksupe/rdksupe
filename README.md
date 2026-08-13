@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Possible Undiscovered Planets](https://imgs.xkcd.com/comics/possible_undiscovered_planets.png)](https://xkcd.com/1633/)
+[![Mnemonics](https://imgs.xkcd.com/comics/mnemonics.png)](https://xkcd.com/992/)
 
-*Superman lies near the bird/plane boundary over a range of distances, which explains the confusion.*
+*'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).*
 
 <!-- xkcd:end -->
 
