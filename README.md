@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Bracket](https://imgs.xkcd.com/comics/bracket.png)](https://xkcd.com/1529/)
+[![Inspiraling Roundabout](https://imgs.xkcd.com/comics/inspiraling_roundabout.png)](https://xkcd.com/2842/)
 
-*I'm staring at the "doctor" section, and I can't help but feel like I've forgotten someone.*
+*Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.*
 
 <!-- xkcd:end -->
 
