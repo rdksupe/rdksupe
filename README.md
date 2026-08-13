@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mnemonics](https://imgs.xkcd.com/comics/mnemonics.png)](https://xkcd.com/992/)
+[![Runtime](https://imgs.xkcd.com/comics/runtime.png)](https://xkcd.com/2727/)
 
-*'Sailor Moon's head exploded once' and 'Some men have explosive orgasms' both work for the Great Lakes from west to east (Paddle-to-the-Sea order).*
+*At least there's a general understanding all around that Doctor Who is its own thing.*
 
 <!-- xkcd:end -->
 
