@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Runtime](https://imgs.xkcd.com/comics/runtime.png)](https://xkcd.com/2727/)
+[![Bracket](https://imgs.xkcd.com/comics/bracket.png)](https://xkcd.com/1529/)
 
-*At least there's a general understanding all around that Doctor Who is its own thing.*
+*I'm staring at the "doctor" section, and I can't help but feel like I've forgotten someone.*
 
 <!-- xkcd:end -->
 
