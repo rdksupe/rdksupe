@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Flawed Data](https://imgs.xkcd.com/comics/flawed_data.png)](https://xkcd.com/2494/)
+[![A Simple Plan](https://imgs.xkcd.com/comics/a_simple_plan.jpg)](https://xkcd.com/97/)
 
-*We trained it to produce data that looked convincing, and we have to admit the results look convincing!*
+*This is true. The lyrics are ridiculous.*
 
 <!-- xkcd:end -->
 
