@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pillar](https://imgs.xkcd.com/comics/pillar.jpg)](https://xkcd.com/32/)
+[![Flawed Data](https://imgs.xkcd.com/comics/flawed_data.png)](https://xkcd.com/2494/)
 
-*A comic by my brother Doug, redrawn and rewritten by me*
+*We trained it to produce data that looked convincing, and we have to admit the results look convincing!*
 
 <!-- xkcd:end -->
 
