@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Inspiraling Roundabout](https://imgs.xkcd.com/comics/inspiraling_roundabout.png)](https://xkcd.com/2842/)
+[![Pillar](https://imgs.xkcd.com/comics/pillar.jpg)](https://xkcd.com/32/)
 
-*Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity.*
+*A comic by my brother Doug, redrawn and rewritten by me*
 
 <!-- xkcd:end -->
 
