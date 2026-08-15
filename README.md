@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Escalators](https://imgs.xkcd.com/comics/escalators.png)](https://xkcd.com/252/)
+[![Crime Scene](https://imgs.xkcd.com/comics/crime_scene.png)](https://xkcd.com/587/)
 
-*The one time I tried, I got hit by a slinky going down at double speed.*
+*I think I see a Mandelbrot set! No, that's just blood splatters. Golly.*
 
 <!-- xkcd:end -->
 
