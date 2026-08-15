@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Airplane Message](https://imgs.xkcd.com/comics/airplane_message.png)](https://xkcd.com/1355/)
+[![Daylight Calendar](https://imgs.xkcd.com/comics/daylight_calendar.png)](https://xkcd.com/2542/)
 
-*PHARAOH IRY-HOR, FROM THE 3100s BC, IS THE FIRST HUMAN WHOSE NAME WE KNOW.*
+*Could be worse. In some towns north of here, it's already December, and the 21st will last for nearly a week.*
 
 <!-- xkcd:end -->
 
