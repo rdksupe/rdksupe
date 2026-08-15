@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Daylight Calendar](https://imgs.xkcd.com/comics/daylight_calendar.png)](https://xkcd.com/2542/)
+[![Escalators](https://imgs.xkcd.com/comics/escalators.png)](https://xkcd.com/252/)
 
-*Could be worse. In some towns north of here, it's already December, and the 21st will last for nearly a week.*
+*The one time I tried, I got hit by a slinky going down at double speed.*
 
 <!-- xkcd:end -->
 
