@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Crime Scene](https://imgs.xkcd.com/comics/crime_scene.png)](https://xkcd.com/587/)
+[![Win by Induction](https://imgs.xkcd.com/comics/win_by_induction.png)](https://xkcd.com/1516/)
 
-*I think I see a Mandelbrot set! No, that's just blood splatters. Golly.*
+*This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.*
 
 <!-- xkcd:end -->
 
