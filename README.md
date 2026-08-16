@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lungfish](https://imgs.xkcd.com/comics/lungfish.png)](https://xkcd.com/3064/)
+[![Digital Data](https://imgs.xkcd.com/comics/digital_data.png)](https://xkcd.com/1683/)
 
-*I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?*
+*â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!*
 
 <!-- xkcd:end -->
 
