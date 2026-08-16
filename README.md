@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![No Pun Intended](https://imgs.xkcd.com/comics/no_pun_intended.png)](https://xkcd.com/559/)
+[![Lungfish](https://imgs.xkcd.com/comics/lungfish.png)](https://xkcd.com/3064/)
 
-*Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.*
+*I know having so many base pairs makes rebasing complicated, but you're in Bilateria, so shouldn't you at LEAST be better at using git head?*
 
 <!-- xkcd:end -->
 
