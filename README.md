@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Solar Spectrum](https://imgs.xkcd.com/comics/solar_spectrum.png)](https://xkcd.com/1733/)
+[![No Pun Intended](https://imgs.xkcd.com/comics/no_pun_intended.png)](https://xkcd.com/559/)
 
-*I still don't understand why the Sun paid the extra money for Transitions lenses.*
+*Like spelling 'dammit' correctly -- with two m's -- it's a troll that works best on the most literate.*
 
 <!-- xkcd:end -->
 
