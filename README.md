@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Win by Induction](https://imgs.xkcd.com/comics/win_by_induction.png)](https://xkcd.com/1516/)
+[![Solar Spectrum](https://imgs.xkcd.com/comics/solar_spectrum.png)](https://xkcd.com/1733/)
 
-*This would be bad enough, but every 30th or 40th pokéball has TWO of them inside.*
+*I still don't understand why the Sun paid the extra money for Transitions lenses.*
 
 <!-- xkcd:end -->
 
