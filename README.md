@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Guitar Hero](https://imgs.xkcd.com/comics/guitar_hero.jpg)](https://xkcd.com/70/)
+[![Now](https://imgs.xkcd.com/comics/now.png)](https://xkcd.com/1335/)
 
-*And then do it again in a moment now that they're out of Star Power*
+*This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now*
 
 <!-- xkcd:end -->
 
