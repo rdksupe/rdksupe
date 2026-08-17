@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)](https://xkcd.com/3284/)
+[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
 
-*The administration thinks it's weird, but the geologists say it looks normal.*
+*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
 
 <!-- xkcd:end -->
 
