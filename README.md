@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
+[![Guitar Hero](https://imgs.xkcd.com/comics/guitar_hero.jpg)](https://xkcd.com/70/)
 
-*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
+*And then do it again in a moment now that they're out of Star Power*
 
 <!-- xkcd:end -->
 
