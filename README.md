@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mount St. Helens](https://imgs.xkcd.com/comics/mount_st_helens.png)](https://xkcd.com/2308/)
+[![Game Theory](https://imgs.xkcd.com/comics/game_theory.png)](https://xkcd.com/601/)
 
-*It's a good mountain but it really peaked in the 80s.*
+*Wait, no, that one also loses. How about a nice game of chess?*
 
 <!-- xkcd:end -->
 
