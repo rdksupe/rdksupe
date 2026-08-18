@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Now](https://imgs.xkcd.com/comics/now.png)](https://xkcd.com/1335/)
+[![Mount St. Helens](https://imgs.xkcd.com/comics/mount_st_helens.png)](https://xkcd.com/2308/)
 
-*This image stays roughly in sync with the day (assuming the Earth continues spinning). Shortcut: xkcd.com/now*
+*It's a good mountain but it really peaked in the 80s.*
 
 <!-- xkcd:end -->
 
