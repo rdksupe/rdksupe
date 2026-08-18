@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Christmas Eve Eve](https://imgs.xkcd.com/comics/christmas_eve_eve.png)](https://xkcd.com/2089/)
+[![Island Storage](https://imgs.xkcd.com/comics/island_storage.png)](https://xkcd.com/2742/)
 
-*It turns out that saying "Oh, so THAT'S why they call it Boxing Day" is a good way to get punched a second time.*
+*I always hate dragging around the larger archipelagos, but I appreciate how the Scandinavian peninsula flexes outward to create a snug pocket for Britain and Ireland.*
 
 <!-- xkcd:end -->
 
