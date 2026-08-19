@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Trash Compactor Party](https://imgs.xkcd.com/comics/trash_compactor_party.png)](https://xkcd.com/2416/)
+[![Alternate Universe](https://imgs.xkcd.com/comics/alternate_universe.png)](https://xkcd.com/1268/)
 
-*What an incredible smell you've discovered.*
+*As best as I can tell, I was transported here from Earth Prime sometime in the late 1990s. Your universe is identical in every way, except for the lobster thing and the thing where some of you occasionally change your clocks for some reason.*
 
 <!-- xkcd:end -->
 
