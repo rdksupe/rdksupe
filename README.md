@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
+[![Trash Compactor Party](https://imgs.xkcd.com/comics/trash_compactor_party.png)](https://xkcd.com/2416/)
 
-*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
+*What an incredible smell you've discovered.*
 
 <!-- xkcd:end -->
 
