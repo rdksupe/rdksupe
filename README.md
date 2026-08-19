@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Island Storage](https://imgs.xkcd.com/comics/island_storage.png)](https://xkcd.com/2742/)
+[![Eventual Consistency](https://imgs.xkcd.com/comics/eventual_consistency.png)](https://xkcd.com/2315/)
 
-*I always hate dragging around the larger archipelagos, but I appreciate how the Scandinavian peninsula flexes outward to create a snug pocket for Britain and Ireland.*
+*Later I'm going to get a head start on the heat bath.*
 
 <!-- xkcd:end -->
 
