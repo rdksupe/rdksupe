@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eventual Consistency](https://imgs.xkcd.com/comics/eventual_consistency.png)](https://xkcd.com/2315/)
+[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
 
-*Later I'm going to get a head start on the heat bath.*
+*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
 
 <!-- xkcd:end -->
 
