@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![UFO Evidence](https://imgs.xkcd.com/comics/ufo_evidence.png)](https://xkcd.com/2786/)
+[![Sibling-in-Law](https://imgs.xkcd.com/comics/sibling_in_law.png)](https://xkcd.com/2040/)
 
-*[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."*
+*FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."*
 
 <!-- xkcd:end -->
 
