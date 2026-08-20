@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Launch Status Check](https://imgs.xkcd.com/comics/launch_status_check.png)](https://xkcd.com/1596/)
+[![Simultaneous](https://imgs.xkcd.com/comics/simultaneous.png)](https://xkcd.com/514/)
 
-*Visual checks suggest the cool bird has exited the launch zone. Tip the rocket sideways and resume the countdown--we're gonna go find it!*
+*I'm leaving you for your twin. He's more mature than you by now.*
 
 <!-- xkcd:end -->
 
