@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Simultaneous](https://imgs.xkcd.com/comics/simultaneous.png)](https://xkcd.com/514/)
+[![UFO Evidence](https://imgs.xkcd.com/comics/ufo_evidence.png)](https://xkcd.com/2786/)
 
-*I'm leaving you for your twin. He's more mature than you by now.*
+*[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."*
 
 <!-- xkcd:end -->
 
