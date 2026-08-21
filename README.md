@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sibling-in-Law](https://imgs.xkcd.com/comics/sibling_in_law.png)](https://xkcd.com/2040/)
+[![Mask Opinions](https://imgs.xkcd.com/comics/mask_opinions.png)](https://xkcd.com/2442/)
 
-*FYI, it turns out "...because I haven't figured out whether he would be my brother-in-law or not" does NOT qualify as a "reason why these two should not be wed."*
+*Although regardless of how everything else shakes out, I definitely won't mind if the norm "wear a mask if you're feeling sick" sticks around after this.*
 
 <!-- xkcd:end -->
 
