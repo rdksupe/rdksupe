@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)](https://xkcd.com/3265/)
+[![Eclipse Flights](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/)
 
-*Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.*
+*The captain has turned on the 'fasten seat belt' sign.*
 
 <!-- xkcd:end -->
 
