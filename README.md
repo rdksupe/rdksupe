@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fight](https://imgs.xkcd.com/comics/fight.png)](https://xkcd.com/340/)
+[![Asteroid Threat](https://imgs.xkcd.com/comics/asteroid_threat.png)](https://xkcd.com/3265/)
 
-*And she put sweet nothings in all my .conf files. It'll take me forever to get X working again.*
+*Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down.*
 
 <!-- xkcd:end -->
 
