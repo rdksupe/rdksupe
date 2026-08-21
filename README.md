@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mask Opinions](https://imgs.xkcd.com/comics/mask_opinions.png)](https://xkcd.com/2442/)
+[![Fight](https://imgs.xkcd.com/comics/fight.png)](https://xkcd.com/340/)
 
-*Although regardless of how everything else shakes out, I definitely won't mind if the norm "wear a mask if you're feeling sick" sticks around after this.*
+*And she put sweet nothings in all my .conf files. It'll take me forever to get X working again.*
 
 <!-- xkcd:end -->
 
