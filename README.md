@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Eclipse Flights](https://imgs.xkcd.com/comics/eclipse_flights.png)](https://xkcd.com/1868/)
+[![Myspace](https://imgs.xkcd.com/comics/myspace.png)](https://xkcd.com/134/)
 
-*The captain has turned on the 'fasten seat belt' sign.*
+*It's like they got together and said 'what do we miss most from the internet in 1998? that's right, embedded MIDI!'*
 
 <!-- xkcd:end -->
 
