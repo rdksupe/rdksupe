@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Myspace](https://imgs.xkcd.com/comics/myspace.png)](https://xkcd.com/134/)
+[![Border Message](https://imgs.xkcd.com/comics/border_message.png)](https://xkcd.com/3236/)
 
-*It's like they got together and said 'what do we miss most from the internet in 1998? that's right, embedded MIDI!'*
+*Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.*
 
 <!-- xkcd:end -->
 
