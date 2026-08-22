@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
+[![Cryptic Wifi Networks](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)](https://xkcd.com/2199/)
 
-*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
+*They actually showed up on the first scan by the first WiFi-capable device.*
 
 <!-- xkcd:end -->
 
