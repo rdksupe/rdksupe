@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Border Message](https://imgs.xkcd.com/comics/border_message.png)](https://xkcd.com/3236/)
+[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
 
-*Thanks to differences in logging regulations, the messages actually turned out to be visible from the air.*
+*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
 
 <!-- xkcd:end -->
 
