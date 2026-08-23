@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cryptic Wifi Networks](https://imgs.xkcd.com/comics/cryptic_wifi_networks.png)](https://xkcd.com/2199/)
+[![Scientist Tech Help](https://imgs.xkcd.com/comics/scientist_tech_help.png)](https://xkcd.com/2341/)
 
-*They actually showed up on the first scan by the first WiFi-capable device.*
+*I vaguely and irrationally resent how useful WebPlotDigitizer is.*
 
 <!-- xkcd:end -->
 
