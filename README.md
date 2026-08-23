@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Scientist Tech Help](https://imgs.xkcd.com/comics/scientist_tech_help.png)](https://xkcd.com/2341/)
+[![Old Files](https://imgs.xkcd.com/comics/old_files.png)](https://xkcd.com/1360/)
 
-*I vaguely and irrationally resent how useful WebPlotDigitizer is.*
+*Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.*
 
 <!-- xkcd:end -->
 
