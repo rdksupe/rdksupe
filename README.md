@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Guest Week: Jeffrey Rowland (Overcompensating)](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)](https://xkcd.com/825/)
+[![2038](https://imgs.xkcd.com/comics/2038.png)](https://xkcd.com/607/)
 
-*Guest comic by Jeffrey Rowland of Overcompensating/Wigu. Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.*
+*If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.*
 
 <!-- xkcd:end -->
 
