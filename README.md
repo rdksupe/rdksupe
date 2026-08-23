@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Old Files](https://imgs.xkcd.com/comics/old_files.png)](https://xkcd.com/1360/)
+[![Guest Week: Jeffrey Rowland (Overcompensating)](https://imgs.xkcd.com/comics/guest_week_jeffrey_rowland_overcompensating.png)](https://xkcd.com/825/)
 
-*Wow, ANIMORPHS-NOVEL.RTF? Just gonna, uh, go through and delete that from all my archives real quick.*
+*Guest comic by Jeffrey Rowland of Overcompensating/Wigu. Jeffrey is famous as the picture on the Wikipedia article on 'Necrosis'.*
 
 <!-- xkcd:end -->
 
