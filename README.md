@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Useful Geometry Formulas](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509/)
+[![Thread Meeting](https://imgs.xkcd.com/comics/thread_meeting.png)](https://xkcd.com/3128/)
 
-*Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.*
+*Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.*
 
 <!-- xkcd:end -->
 
