@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![2038](https://imgs.xkcd.com/comics/2038.png)](https://xkcd.com/607/)
+[![Bun Trend](https://imgs.xkcd.com/comics/bun_trend.png)](https://xkcd.com/1903/)
 
-*If only we'd chosen 1944-12-02 08:45:52 as the Unix epoch, we could've combined two doomsday scenarios into one and added a really boring scene to that Roland Emmerich movie.*
+*Our experts have characterized the ecological impact of this trend as "adorable."*
 
 <!-- xkcd:end -->
 
