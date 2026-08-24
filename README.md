@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Bun Trend](https://imgs.xkcd.com/comics/bun_trend.png)](https://xkcd.com/1903/)
+[![Useful Geometry Formulas](https://imgs.xkcd.com/comics/useful_geometry_formulas.png)](https://xkcd.com/2509/)
 
-*Our experts have characterized the ecological impact of this trend as "adorable."*
+*Geometry textbooks always try to trick you by adding decorative stripes and dotted lines.*
 
 <!-- xkcd:end -->
 
