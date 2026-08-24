@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thread Meeting](https://imgs.xkcd.com/comics/thread_meeting.png)](https://xkcd.com/3128/)
+[![Mac/PC](https://imgs.xkcd.com/comics/mac_pc.png)](https://xkcd.com/934/)
 
-*Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.*
+*It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.*
 
 <!-- xkcd:end -->
 
