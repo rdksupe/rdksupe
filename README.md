@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)](https://xkcd.com/3163/)
+[![Outlet Denier](https://imgs.xkcd.com/comics/outlet_denier.png)](https://xkcd.com/2589/)
 
-*The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.*
+*There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.*
 
 <!-- xkcd:end -->
 
