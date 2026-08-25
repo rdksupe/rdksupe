@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mac/PC](https://imgs.xkcd.com/comics/mac_pc.png)](https://xkcd.com/934/)
+[![So It Has Come To This](https://imgs.xkcd.com/comics/so_it_has_come_to_this.png)](https://xkcd.com/1022/)
 
-*It's fun to watch browsers fumblingly recapitulate the history of window management. Someday we'll have xmonad as a Firefox extension.*
+*'Come to what?' 'You. Me. This moment.'*
 
 <!-- xkcd:end -->
 
