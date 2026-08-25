@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![So It Has Come To This](https://imgs.xkcd.com/comics/so_it_has_come_to_this.png)](https://xkcd.com/1022/)
+[![Security Holes](https://imgs.xkcd.com/comics/security_holes.png)](https://xkcd.com/424/)
 
-*'Come to what?' 'You. Me. This moment.'*
+*True story: I had to try several times to upload this comic because my ssh key was blacklisted.*
 
 <!-- xkcd:end -->
 
