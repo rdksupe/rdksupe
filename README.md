@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Security Holes](https://imgs.xkcd.com/comics/security_holes.png)](https://xkcd.com/424/)
+[![Repair Video](https://imgs.xkcd.com/comics/repair_video.png)](https://xkcd.com/3163/)
 
-*True story: I had to try several times to upload this comic because my ssh key was blacklisted.*
+*The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.*
 
 <!-- xkcd:end -->
 
