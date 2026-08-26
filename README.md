@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Right Click](https://imgs.xkcd.com/comics/right_click.png)](https://xkcd.com/1975/)
+[![Greenland Size](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/)
 
-*Right-click or long press (where supported) to save!*
+*The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.*
 
 <!-- xkcd:end -->
 
