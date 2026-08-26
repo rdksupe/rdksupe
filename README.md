@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Outlet Denier](https://imgs.xkcd.com/comics/outlet_denier.png)](https://xkcd.com/2589/)
+[![Right Click](https://imgs.xkcd.com/comics/right_click.png)](https://xkcd.com/1975/)
 
-*There are regularly placed bumps on the underside just the right size to press the rocker switch on the power strip.*
+*Right-click or long press (where supported) to save!*
 
 <!-- xkcd:end -->
 
