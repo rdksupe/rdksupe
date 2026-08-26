@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Greenland Size](https://imgs.xkcd.com/comics/greenland_size.png)](https://xkcd.com/2911/)
+[![Sky Spotters](https://imgs.xkcd.com/comics/sky_spotters.png)](https://xkcd.com/1910/)
 
-*The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles.*
+*Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.*
 
 <!-- xkcd:end -->
 
