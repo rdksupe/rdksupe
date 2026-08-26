@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sky Spotters](https://imgs.xkcd.com/comics/sky_spotters.png)](https://xkcd.com/1910/)
+[![Home Alone](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/)
 
-*Where I live, one of the most common categories of sky object without a weird obsessive spotting community is "lost birthday party balloons," so that might be a good choice—although you risk angering the marine wildlife people, and they have sharks.*
+*Starring Macaulay Culkin.*
 
 <!-- xkcd:end -->
 
