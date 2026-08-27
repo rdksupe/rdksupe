@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![t Distribution](https://imgs.xkcd.com/comics/t_distribution.png)](https://xkcd.com/1347/)
+[![Complex Vowels](https://imgs.xkcd.com/comics/complex_vowels.png)](https://xkcd.com/2657/)
 
-*If data fails the Teacher's t test, you can just force it to take the test again until it passes.*
+*Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.*
 
 <!-- xkcd:end -->
 
