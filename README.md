@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Home Alone](https://imgs.xkcd.com/comics/home_alone.png)](https://xkcd.com/1164/)
+[![t Distribution](https://imgs.xkcd.com/comics/t_distribution.png)](https://xkcd.com/1347/)
 
-*Starring Macaulay Culkin.*
+*If data fails the Teacher's t test, you can just force it to take the test again until it passes.*
 
 <!-- xkcd:end -->
 
