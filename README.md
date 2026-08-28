@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![MBMBaM](https://imgs.xkcd.com/comics/mbmbam.png)](https://xkcd.com/2312/)
+[![Health Stats](https://imgs.xkcd.com/comics/health_stats.png)](https://xkcd.com/2581/)
 
-*Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era.*
+*You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.*
 
 <!-- xkcd:end -->
 
