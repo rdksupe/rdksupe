@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Complex Vowels](https://imgs.xkcd.com/comics/complex_vowels.png)](https://xkcd.com/2657/)
+[![MBMBaM](https://imgs.xkcd.com/comics/mbmbam.png)](https://xkcd.com/2312/)
 
-*Pronouncing [ṡṡċċḣḣẇẇȧȧ] is easy; you just say it like the 'x' in 'fire'.*
+*Hello and welcome to Millibar Millibarn Attometer, an advice show for the Planck era.*
 
 <!-- xkcd:end -->
 
