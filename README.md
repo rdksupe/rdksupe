@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Taylor Series](https://imgs.xkcd.com/comics/taylor_series.png)](https://xkcd.com/2605/)
+[![Sex Dice](https://imgs.xkcd.com/comics/sex_dice.png)](https://xkcd.com/708/)
 
-*The Taylor series should have been canceled after the first term.*
+*You roll for initiative, and ... [roll] ... wow, do you ever take it.*
 
 <!-- xkcd:end -->
 
