@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Apple Jacks](https://imgs.xkcd.com/comics/apple_jacks.jpg)](https://xkcd.com/38/)
+[![Taylor Series](https://imgs.xkcd.com/comics/taylor_series.png)](https://xkcd.com/2605/)
 
-*There used to be these ads, see . . .*
+*The Taylor series should have been canceled after the first term.*
 
 <!-- xkcd:end -->
 
