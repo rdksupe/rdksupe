@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Health Stats](https://imgs.xkcd.com/comics/health_stats.png)](https://xkcd.com/2581/)
+[![Linguistics Club](https://imgs.xkcd.com/comics/linguistics_club.png)](https://xkcd.com/1602/)
 
-*You will live on forever in our hearts, pushing a little extra blood toward our left hands now and then to give them a squeeze.*
+*If that's too easy, you could try joining Tautology Club, which meets on the date of the Tautology Club meeting.*
 
 <!-- xkcd:end -->
 
