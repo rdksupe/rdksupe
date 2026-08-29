@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Linguistics Club](https://imgs.xkcd.com/comics/linguistics_club.png)](https://xkcd.com/1602/)
+[![Apple Jacks](https://imgs.xkcd.com/comics/apple_jacks.jpg)](https://xkcd.com/38/)
 
-*If that's too easy, you could try joining Tautology Club, which meets on the date of the Tautology Club meeting.*
+*There used to be these ads, see . . .*
 
 <!-- xkcd:end -->
 
