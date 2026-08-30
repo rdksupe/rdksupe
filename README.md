@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Privacy](https://imgs.xkcd.com/comics/privacy.png)](https://xkcd.com/983/)
+[![Temperature Preferences](https://imgs.xkcd.com/comics/temperature_preferences.png)](https://xkcd.com/1916/)
 
-*Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'*
+*There's a supposed Mark Twain quote, "The coldest winter I ever spent was a summer in San Francisco." It isn't really by Mark Twain, but I don't know who said it—I just know they've never been to McMurdo Station.*
 
 <!-- xkcd:end -->
 
