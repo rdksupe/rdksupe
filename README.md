@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sex Dice](https://imgs.xkcd.com/comics/sex_dice.png)](https://xkcd.com/708/)
+[![Privacy](https://imgs.xkcd.com/comics/privacy.png)](https://xkcd.com/983/)
 
-*You roll for initiative, and ... [roll] ... wow, do you ever take it.*
+*Eventual headline: 'University Researchers Create Life in Lab! Darkness, Faulty Condoms Blamed.'*
 
 <!-- xkcd:end -->
 
