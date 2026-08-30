@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Cloud](https://imgs.xkcd.com/comics/the_cloud.png)](https://xkcd.com/908/)
+[![Open Letter](https://imgs.xkcd.com/comics/open_letter.png)](https://xkcd.com/1274/)
 
-*There's planned downtime every night when we turn on the Roomba and it runs over the cord.*
+*Are you ok? Do you need help?*
 
 <!-- xkcd:end -->
 
