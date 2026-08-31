@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Open Letter](https://imgs.xkcd.com/comics/open_letter.png)](https://xkcd.com/1274/)
+[![Incoming Asteroid](https://imgs.xkcd.com/comics/incoming_asteroid.png)](https://xkcd.com/3049/)
 
-*Are you ok? Do you need help?*
+*The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.*
 
 <!-- xkcd:end -->
 
