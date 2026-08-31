@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reduce Your Payments](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/)
+[![Fortune Cookies](https://imgs.xkcd.com/comics/fortune_cookies.png)](https://xkcd.com/425/)
 
-*I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.*
+*'You will have hot, steamy, sweaty sex ... IN BED!'*
 
 <!-- xkcd:end -->
 
