@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Incoming Asteroid](https://imgs.xkcd.com/comics/incoming_asteroid.png)](https://xkcd.com/3049/)
+[![Reduce Your Payments](https://imgs.xkcd.com/comics/reduce_your_payments.png)](https://xkcd.com/1426/)
 
-*The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit.*
+*I tried oxidizing them, but your bank uses some really weird paper and it wouldn't light.*
 
 <!-- xkcd:end -->
 
