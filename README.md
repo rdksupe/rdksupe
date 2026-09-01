@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Flag](https://imgs.xkcd.com/comics/flag.png)](https://xkcd.com/1815/)
+[![Trebuchet](https://imgs.xkcd.com/comics/trebuchet.png)](https://xkcd.com/382/)
 
-*There's a compromise bill to keep the notification bar but at least charge the battery.*
+*It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.*
 
 <!-- xkcd:end -->
 
