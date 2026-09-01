@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![COVID Risk Chart](https://imgs.xkcd.com/comics/covid_risk_chart.png)](https://xkcd.com/2333/)
+[![Flag](https://imgs.xkcd.com/comics/flag.png)](https://xkcd.com/1815/)
 
-*First prize is a free ticket to the kissing booth.*
+*There's a compromise bill to keep the notification bar but at least charge the battery.*
 
 <!-- xkcd:end -->
 
