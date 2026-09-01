@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fortune Cookies](https://imgs.xkcd.com/comics/fortune_cookies.png)](https://xkcd.com/425/)
+[![COVID Risk Chart](https://imgs.xkcd.com/comics/covid_risk_chart.png)](https://xkcd.com/2333/)
 
-*'You will have hot, steamy, sweaty sex ... IN BED!'*
+*First prize is a free ticket to the kissing booth.*
 
 <!-- xkcd:end -->
 
