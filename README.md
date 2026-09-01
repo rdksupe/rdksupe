@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Trebuchet](https://imgs.xkcd.com/comics/trebuchet.png)](https://xkcd.com/382/)
+[![Visited](https://imgs.xkcd.com/comics/visited.png)](https://xkcd.com/1051/)
 
-*It was also fun when those teenagers tried to egg our house and it insta-cooked the eggs in mid-air.*
+*I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.*
 
 <!-- xkcd:end -->
 
