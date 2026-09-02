@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Enlightenment](https://imgs.xkcd.com/comics/enlightenment.png)](https://xkcd.com/1238/)
+[![Types](https://imgs.xkcd.com/comics/types.png)](https://xkcd.com/1537/)
 
-*But the rules of writing are like magic spells. If you never acquire them, then not using them says nothing.*
+*colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"*
 
 <!-- xkcd:end -->
 
