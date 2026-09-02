@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Myspace](https://imgs.xkcd.com/comics/myspace.png)](https://xkcd.com/134/)
+[![Sword Pull](https://imgs.xkcd.com/comics/sword_pull.png)](https://xkcd.com/2578/)
 
-*It's like they got together and said 'what do we miss most from the internet in 1998? that's right, embedded MIDI!'*
+*Merlin really shouldn't leave his dirt bike lying around.*
 
 <!-- xkcd:end -->
 
