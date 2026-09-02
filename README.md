@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Types](https://imgs.xkcd.com/comics/types.png)](https://xkcd.com/1537/)
+[![Myspace](https://imgs.xkcd.com/comics/myspace.png)](https://xkcd.com/134/)
 
-*colors.rgb("blue") yields "#0000FF". colors.rgb("yellowish blue") yields NaN. colors.sort() yields "rainbow"*
+*It's like they got together and said 'what do we miss most from the internet in 1998? that's right, embedded MIDI!'*
 
 <!-- xkcd:end -->
 
