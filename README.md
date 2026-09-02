@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Visited](https://imgs.xkcd.com/comics/visited.png)](https://xkcd.com/1051/)
+[![Enlightenment](https://imgs.xkcd.com/comics/enlightenment.png)](https://xkcd.com/1238/)
 
-*I hate when I read something like '... tension among the BASE jumpers nearly led to wingsuit combat ...', and I get excited because 'wingsuit combat' is underlined, only to find that it's just separate links to the 'wingsuit' and 'combat' articles.*
+*But the rules of writing are like magic spells. If you never acquire them, then not using them says nothing.*
 
 <!-- xkcd:end -->
 
