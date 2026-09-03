@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sword Pull](https://imgs.xkcd.com/comics/sword_pull.png)](https://xkcd.com/2578/)
+[![Linguists](https://imgs.xkcd.com/comics/linguists.png)](https://xkcd.com/2390/)
 
-*Merlin really shouldn't leave his dirt bike lying around.*
+*"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."*
 
 <!-- xkcd:end -->
 
