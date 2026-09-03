@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rotation](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671/)
+[![Scheduling Conflict](https://imgs.xkcd.com/comics/scheduling_conflict.png)](https://xkcd.com/1542/)
 
-*It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.*
+*Neither a spokesperson for the organization nor the current world champion could be reached for comment.*
 
 <!-- xkcd:end -->
 
