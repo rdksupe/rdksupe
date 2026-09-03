@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Scheduling Conflict](https://imgs.xkcd.com/comics/scheduling_conflict.png)](https://xkcd.com/1542/)
+[![65 Years](https://imgs.xkcd.com/comics/65_years.png)](https://xkcd.com/893/)
 
-*Neither a spokesperson for the organization nor the current world champion could be reached for comment.*
+*The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.*
 
 <!-- xkcd:end -->
 
