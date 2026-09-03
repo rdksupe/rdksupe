@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Linguists](https://imgs.xkcd.com/comics/linguists.png)](https://xkcd.com/2390/)
+[![Rotation](https://imgs.xkcd.com/comics/rotation.png)](https://xkcd.com/2671/)
 
-*"Do you feel like the answer depends on whether you're currently in the hole, versus when you refer to the events later after you get out? Assuming you get out."*
+*It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.*
 
 <!-- xkcd:end -->
 
