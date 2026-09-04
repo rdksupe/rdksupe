@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Circuit Diagram](https://imgs.xkcd.com/comics/circuit_diagram.png)](https://xkcd.com/730/)
+[![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)](https://xkcd.com/3127/)
 
-*I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.*
+*Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
 
 <!-- xkcd:end -->
 
