@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Escalators](https://imgs.xkcd.com/comics/escalators.png)](https://xkcd.com/252/)
+[![Easy or Hard](https://imgs.xkcd.com/comics/easy_or_hard.png)](https://xkcd.com/2682/)
 
-*The one time I tried, I got hit by a slinky going down at double speed.*
+*"Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon." --Eui-Cheol Shin et. al. (2022)*
 
 <!-- xkcd:end -->
 
