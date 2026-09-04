@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![65 Years](https://imgs.xkcd.com/comics/65_years.png)](https://xkcd.com/893/)
+[![Escalators](https://imgs.xkcd.com/comics/escalators.png)](https://xkcd.com/252/)
 
-*The universe is probably littered with the one-planet graves of cultures which made the sensible economic decision that there's no good reason to go into space--each discovered, studied, and remembered by the ones who made the irrational decision.*
+*The one time I tried, I got hit by a slinky going down at double speed.*
 
 <!-- xkcd:end -->
 
