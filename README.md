@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Open Mic Night](https://imgs.xkcd.com/comics/open_mic_night.png)](https://xkcd.com/785/)
+[![Climbing](https://imgs.xkcd.com/comics/climbing.png)](https://xkcd.com/655/)
 
-*Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?*
+*Where did you even get this wall? Return it there and stand it back up right now.*
 
 <!-- xkcd:end -->
 
