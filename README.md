@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)](https://xkcd.com/3127/)
+[![Prediction](https://imgs.xkcd.com/comics/prediction.png)](https://xkcd.com/2370/)
 
-*Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
+*You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up.*
 
 <!-- xkcd:end -->
 
