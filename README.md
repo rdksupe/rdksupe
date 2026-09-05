@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Prediction](https://imgs.xkcd.com/comics/prediction.png)](https://xkcd.com/2370/)
+[![Open Mic Night](https://imgs.xkcd.com/comics/open_mic_night.png)](https://xkcd.com/785/)
 
-*You'd think it'd be easy to just bet money against these people, but you have to consider the probability of them paying up.*
+*Ever notice how the more successful observational comics become, the more their jokes focus on flying and hotels?*
 
 <!-- xkcd:end -->
 
