@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Climbing](https://imgs.xkcd.com/comics/climbing.png)](https://xkcd.com/655/)
+[![Flowers](https://imgs.xkcd.com/comics/flowers.jpg)](https://xkcd.com/34/)
 
-*Where did you even get this wall? Return it there and stand it back up right now.*
+*This is actually pencil on paper, just inverted and colored*
 
 <!-- xkcd:end -->
 
