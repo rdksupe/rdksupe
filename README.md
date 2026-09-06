@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The History of Unicode](https://imgs.xkcd.com/comics/the_history_of_unicode.png)](https://xkcd.com/1953/)
+[![Never Do This](https://imgs.xkcd.com/comics/never_do_this.png)](https://xkcd.com/860/)
 
-*2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"*
+*I call Rule 34 on The Secret House.*
 
 <!-- xkcd:end -->
 
