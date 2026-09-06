@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![December 25th Launch](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559/)
+[![The History of Unicode](https://imgs.xkcd.com/comics/the_history_of_unicode.png)](https://xkcd.com/1953/)
 
-*Update: Santa has been destroyed by the range safety officer.*
+*2048: "Great news for Maine—we're once again an independent state!!! Thanks, @unicode, for ruling in our favor and sending troops to end New Hampshire's annexation. 🙏🚁🎖️"*
 
 <!-- xkcd:end -->
 
