@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Metaball](https://imgs.xkcd.com/comics/metaball.png)](https://xkcd.com/1507/)
+[![December 25th Launch](https://imgs.xkcd.com/comics/december_25th_launch.png)](https://xkcd.com/2559/)
 
-*Shoot, it landed in the golf course. Gonna be hard to get it down the--oh, never mind, it rolled onto the ice hazard. Face-off!*
+*Update: Santa has been destroyed by the range safety officer.*
 
 <!-- xkcd:end -->
 
