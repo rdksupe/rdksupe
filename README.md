@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Actual Progress](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797/)
+[![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)](https://xkcd.com/3193/)
 
-*Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'*
+*I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.*
 
 <!-- xkcd:end -->
 
