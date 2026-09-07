@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reviews](https://imgs.xkcd.com/comics/reviews.png)](https://xkcd.com/1036/)
+[![Actual Progress](https://imgs.xkcd.com/comics/actual_progress.png)](https://xkcd.com/2797/)
 
-*I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.*
+*Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'*
 
 <!-- xkcd:end -->
 
