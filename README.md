@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mount St. Helens](https://imgs.xkcd.com/comics/mount_st_helens.png)](https://xkcd.com/2308/)
+[![Reviews](https://imgs.xkcd.com/comics/reviews.png)](https://xkcd.com/1036/)
 
-*It's a good mountain but it really peaked in the 80s.*
+*I plugged in this lamp and my dog went rigid, spoke a sentence of perfect Akkadian, and then was hurled sideways through the picture window. Even worse, it's one of those lamps where the switch is on the cord.*
 
 <!-- xkcd:end -->
 
