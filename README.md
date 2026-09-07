@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Never Do This](https://imgs.xkcd.com/comics/never_do_this.png)](https://xkcd.com/860/)
+[![Mount St. Helens](https://imgs.xkcd.com/comics/mount_st_helens.png)](https://xkcd.com/2308/)
 
-*I call Rule 34 on The Secret House.*
+*It's a good mountain but it really peaked in the 80s.*
 
 <!-- xkcd:end -->
 
