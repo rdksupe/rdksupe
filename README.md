@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sailing Rigs](https://imgs.xkcd.com/comics/sailing_rigs.png)](https://xkcd.com/3193/)
+[![Begging the Question](https://imgs.xkcd.com/comics/begging_the_question.png)](https://xkcd.com/2039/)
 
-*I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22.*
+*At least we can all agree on the enormity of this usage.*
 
 <!-- xkcd:end -->
 
