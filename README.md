@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Midcontinent Rift System](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)](https://xkcd.com/2103/)
+[![Horse](https://imgs.xkcd.com/comics/horse.png)](https://xkcd.com/1418/)
 
-*The best wedge issue is an actual wedge.*
+*Officer suspended from horse.*
 
 <!-- xkcd:end -->
 
