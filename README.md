@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Begging the Question](https://imgs.xkcd.com/comics/begging_the_question.png)](https://xkcd.com/2039/)
+[![Midcontinent Rift System](https://imgs.xkcd.com/comics/midcontinent_rift_system.png)](https://xkcd.com/2103/)
 
-*At least we can all agree on the enormity of this usage.*
+*The best wedge issue is an actual wedge.*
 
 <!-- xkcd:end -->
 
