@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Horse](https://imgs.xkcd.com/comics/horse.png)](https://xkcd.com/1418/)
+[![Code Quality](https://imgs.xkcd.com/comics/code_quality.png)](https://xkcd.com/1513/)
 
-*Officer suspended from horse.*
+*I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.*
 
 <!-- xkcd:end -->
 
