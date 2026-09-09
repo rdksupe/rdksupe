@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Code Quality](https://imgs.xkcd.com/comics/code_quality.png)](https://xkcd.com/1513/)
+[![Particle Physics Equipment](https://imgs.xkcd.com/comics/particle_physics_equipment.png)](https://xkcd.com/3286/)
 
-*I honestly didn't think you could even USE emoji in variable names. Or that there were so many different crying ones.*
+*The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.*
 
 <!-- xkcd:end -->
 
