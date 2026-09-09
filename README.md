@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Stranded](https://imgs.xkcd.com/comics/stranded.png)](https://xkcd.com/2978/)
+[![Anxiety](https://imgs.xkcd.com/comics/anxiety.png)](https://xkcd.com/779/)
 
-*At least they're not alone down there.*
+*Don't need any, thanks. I have a backscattering fetish.*
 
 <!-- xkcd:end -->
 
