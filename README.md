@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Anxiety](https://imgs.xkcd.com/comics/anxiety.png)](https://xkcd.com/779/)
+[![Large Hadron Collider](https://imgs.xkcd.com/comics/large_hadron_collider.png)](https://xkcd.com/401/)
 
-*Don't need any, thanks. I have a backscattering fetish.*
+*When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.*
 
 <!-- xkcd:end -->
 
