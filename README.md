@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Large Hadron Collider](https://imgs.xkcd.com/comics/large_hadron_collider.png)](https://xkcd.com/401/)
+[![Wikileaks](https://imgs.xkcd.com/comics/wikileaks.png)](https://xkcd.com/834/)
 
-*When charged particles of more than 5 TeV pass through a bubble chamber, they leave a trail of candy.*
+*STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.*
 
 <!-- xkcd:end -->
 
