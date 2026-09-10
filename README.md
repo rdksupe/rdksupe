@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Customer Rewards](https://imgs.xkcd.com/comics/customer_rewards.png)](https://xkcd.com/2006/)
+[![Throw](https://imgs.xkcd.com/comics/throw.png)](https://xkcd.com/2198/)
 
-*We'll pay you $1.47 to post on social media about our products, $2.05 to mention it in any group chats you're in, and 11 cents per passenger each time you drive your office carpool past one of our billboards.*
+*this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to*
 
 <!-- xkcd:end -->
 
