@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Throw](https://imgs.xkcd.com/comics/throw.png)](https://xkcd.com/2198/)
+[![Internet Argument](https://imgs.xkcd.com/comics/internet_argument.png)](https://xkcd.com/438/)
 
-*this calculator implements the simple throwing distance estimation model from the how to throw things chapter of the book how to*
+*It's easier to be an asshole to words than to people.*
 
 <!-- xkcd:end -->
 
