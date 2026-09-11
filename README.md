@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Organic Fuel](https://imgs.xkcd.com/comics/organic_fuel.png)](https://xkcd.com/282/)
+[![Snakes](https://imgs.xkcd.com/comics/snakes.png)](https://xkcd.com/1604/)
 
-*I have nothing to apologize for.*
+*The last band of color indicates the snake's tolerance for being held before biting.*
 
 <!-- xkcd:end -->
 
