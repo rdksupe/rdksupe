@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Voice Commands](https://imgs.xkcd.com/comics/voice_commands.png)](https://xkcd.com/1787/)
+[![Predicament](https://imgs.xkcd.com/comics/predicament.png)](https://xkcd.com/3130/)
 
-*Dvorak words may sound hard to pronounce, but studies show they actually put less stress on the vocal cords.*
+*I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?*
 
 <!-- xkcd:end -->
 
