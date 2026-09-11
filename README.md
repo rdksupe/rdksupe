@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Internet Argument](https://imgs.xkcd.com/comics/internet_argument.png)](https://xkcd.com/438/)
+[![Voice Commands](https://imgs.xkcd.com/comics/voice_commands.png)](https://xkcd.com/1787/)
 
-*It's easier to be an asshole to words than to people.*
+*Dvorak words may sound hard to pronounce, but studies show they actually put less stress on the vocal cords.*
 
 <!-- xkcd:end -->
 
