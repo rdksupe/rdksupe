@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Predicament](https://imgs.xkcd.com/comics/predicament.png)](https://xkcd.com/3130/)
+[![Organic Fuel](https://imgs.xkcd.com/comics/organic_fuel.png)](https://xkcd.com/282/)
 
-*I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?*
+*I have nothing to apologize for.*
 
 <!-- xkcd:end -->
 
