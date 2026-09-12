@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Umwelt](https://imgs.xkcd.com/comics/reviews.png)](https://xkcd.com/1037/)
+[![Stargazing 4](https://imgs.xkcd.com/comics/stargazing_4.png)](https://xkcd.com/3072/)
 
-*Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.*
+*We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.*
 
 <!-- xkcd:end -->
 
