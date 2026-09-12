@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)](https://xkcd.com/3232/)
+[![Umwelt](https://imgs.xkcd.com/comics/reviews.png)](https://xkcd.com/1037/)
 
-*Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.*
+*Umwelt is the idea that because their senses pick up on different things, different animals in the same ecosystem actually live in very different worlds. Everything about you shapes the world you inhabit--from your ideology to your glasses prescription to your web browser.*
 
 <!-- xkcd:end -->
 
