@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Snakes](https://imgs.xkcd.com/comics/snakes.png)](https://xkcd.com/1604/)
+[![4th of July](https://imgs.xkcd.com/comics/4th_of_july.png)](https://xkcd.com/1858/)
 
-*The last band of color indicates the snake's tolerance for being held before biting.*
+*Strangely, they still celebrate by eating hot dogs. Since they don't have mouths, they just kinda toss them in the air and let them fall back down into their propeller blades. It's pretty messy.*
 
 <!-- xkcd:end -->
 
