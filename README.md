@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![4th of July](https://imgs.xkcd.com/comics/4th_of_july.png)](https://xkcd.com/1858/)
+[![Countdown Standard](https://imgs.xkcd.com/comics/countdown_standard.png)](https://xkcd.com/3232/)
 
-*Strangely, they still celebrate by eating hot dogs. Since they don't have mouths, they just kinda toss them in the air and let them fall back down into their propeller blades. It's pretty messy.*
+*Anyone who is caught counting 'three ... two ... one ... zero ... GO!' will be punished with a lifetime of eating only ISO standard food samples.*
 
 <!-- xkcd:end -->
 
