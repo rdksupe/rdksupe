@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Solar Panel Placement](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812/)
+[![Na](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/)
 
-*Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.*
+*I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.*
 
 <!-- xkcd:end -->
 
