@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Stargazing 4](https://imgs.xkcd.com/comics/stargazing_4.png)](https://xkcd.com/3072/)
+[![Solar Panel Placement](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812/)
 
-*We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next.*
+*Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.*
 
 <!-- xkcd:end -->
 
