@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Na](https://imgs.xkcd.com/comics/na.png)](https://xkcd.com/851/)
+[![Cursed Chair](https://imgs.xkcd.com/comics/cursed_chair.png)](https://xkcd.com/2332/)
 
-*I hear that there are actual lyrics later on in Land of 1,000 Dances, but other than the occasional 'I said,' I've never listened long enough to hear any of them.*
+*The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."*
 
 <!-- xkcd:end -->
 
