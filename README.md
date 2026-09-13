@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cursed Chair](https://imgs.xkcd.com/comics/cursed_chair.png)](https://xkcd.com/2332/)
+[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
 
-*The Wirecutter staff called the Herman Miller Siege Perilous "the most cursed product we've ever had to fight" and "nearly as immortal as it boasts."*
+*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
 
 <!-- xkcd:end -->
 
