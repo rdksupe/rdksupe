@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Salvage](https://imgs.xkcd.com/comics/salvage.png)](https://xkcd.com/1598/)
+[![Replication Crisis](https://imgs.xkcd.com/comics/replication_crisis.png)](https://xkcd.com/3117/)
 
-*My hobby: Taking advantage of the rice myth by posting articles on "how to save your wet phone" which are actually just elaborate recipes for rice pilaf.*
+*Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.*
 
 <!-- xkcd:end -->
 
