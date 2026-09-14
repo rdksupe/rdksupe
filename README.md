@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Replication Crisis](https://imgs.xkcd.com/comics/replication_crisis.png)](https://xkcd.com/3117/)
+[![Astrophotography](https://imgs.xkcd.com/comics/astrophotography.png)](https://xkcd.com/2463/)
 
-*Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying.*
+*[One hill over, a competing astrophotographer does a backflip over a commercial airliner while throwing a tray of plastic space stations into the air, through which a falcon swoops to 'grab' the real one.]*
 
 <!-- xkcd:end -->
 
