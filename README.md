@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Astrophotography](https://imgs.xkcd.com/comics/astrophotography.png)](https://xkcd.com/2463/)
+[![Journal 3](https://imgs.xkcd.com/comics/journal_3.png)](https://xkcd.com/405/)
 
-*[One hill over, a competing astrophotographer does a backflip over a commercial airliner while throwing a tray of plastic space stations into the air, through which a falcon swoops to 'grab' the real one.]*
+*Oh, and, uh, if the Russian government asks, that submarine was always there.*
 
 <!-- xkcd:end -->
 
