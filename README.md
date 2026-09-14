@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Journal 3](https://imgs.xkcd.com/comics/journal_3.png)](https://xkcd.com/405/)
+[![Malamanteau](https://imgs.xkcd.com/comics/malamanteau.png)](https://xkcd.com/739/)
 
-*Oh, and, uh, if the Russian government asks, that submarine was always there.*
+*The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.*
 
 <!-- xkcd:end -->
 
