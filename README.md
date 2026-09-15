@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Malamanteau](https://imgs.xkcd.com/comics/malamanteau.png)](https://xkcd.com/739/)
+[![Celestial Event](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971/)
 
-*The article has twenty-three citations, one of which is an obscure manuscript from the 1490's and the other twenty-two are arguments on LanguageLog.*
+*If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.*
 
 <!-- xkcd:end -->
 
