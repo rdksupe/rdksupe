@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reindeer](https://imgs.xkcd.com/comics/reindeer.png)](https://xkcd.com/1776/)
+[![Unpopular Opinions](https://imgs.xkcd.com/comics/unpopular_opinions.png)](https://xkcd.com/2184/)
 
-*And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.*
+*I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans and robots traveling through time to try to drive trucks into each other, apparently.*
 
 <!-- xkcd:end -->
 
