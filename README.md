@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Unpopular Opinions](https://imgs.xkcd.com/comics/unpopular_opinions.png)](https://xkcd.com/2184/)
+[![Adult](https://imgs.xkcd.com/comics/adult.png)](https://xkcd.com/1674/)
 
-*I wasn't a big fan of 3 or Salvation, so I'm trying to resist getting my hopes up too much for Dark Fate, but it's hard. I'm just a sucker for humans and robots traveling through time to try to drive trucks into each other, apparently.*
+*(1) That shopping cart is full of AirHeads, and (2) I died at 41 from what the AirHeads company spokesperson called 'probably natural causes.'*
 
 <!-- xkcd:end -->
 
