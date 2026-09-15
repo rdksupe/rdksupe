@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Celestial Event](https://imgs.xkcd.com/comics/celestial_event.png)](https://xkcd.com/2971/)
+[![Reindeer](https://imgs.xkcd.com/comics/reindeer.png)](https://xkcd.com/1776/)
 
-*If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun.*
+*And then in a twinkling, a sound gave me pause / From the roof came the scratching of eight tarsal claws.*
 
 <!-- xkcd:end -->
 
