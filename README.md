@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Adult](https://imgs.xkcd.com/comics/adult.png)](https://xkcd.com/1674/)
+[![Linear Sort](https://imgs.xkcd.com/comics/linear_sort.png)](https://xkcd.com/3026/)
 
-*(1) That shopping cart is full of AirHeads, and (2) I died at 41 from what the AirHeads company spokesperson called 'probably natural causes.'*
+*The best case is O(n), and the worst case is that someone checks why.*
 
 <!-- xkcd:end -->
 
