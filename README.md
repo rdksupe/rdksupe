@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
+[![Good Code](https://imgs.xkcd.com/comics/good_code.png)](https://xkcd.com/844/)
 
-*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
+*You can either hang out in the Android Loop or the HURD loop.*
 
 <!-- xkcd:end -->
 
