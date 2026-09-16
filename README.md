@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Notifications](https://imgs.xkcd.com/comics/notifications.png)](https://xkcd.com/2555/)
+[![Funny Numbers](https://imgs.xkcd.com/comics/funny_numbers.png)](https://xkcd.com/3184/)
 
-*It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?*
+*In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant.*
 
 <!-- xkcd:end -->
 
