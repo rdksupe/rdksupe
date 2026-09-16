@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Linear Sort](https://imgs.xkcd.com/comics/linear_sort.png)](https://xkcd.com/3026/)
+[![Notifications](https://imgs.xkcd.com/comics/notifications.png)](https://xkcd.com/2555/)
 
-*The best case is O(n), and the worst case is that someone checks why.*
+*It's 10:34 PM for this user. They really need to get going, they have a thing early tomorrow. Are you sure you want to notify?*
 
 <!-- xkcd:end -->
 
