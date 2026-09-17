@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Good Code](https://imgs.xkcd.com/comics/good_code.png)](https://xkcd.com/844/)
+[![Marsiforming](https://imgs.xkcd.com/comics/marsiforming.png)](https://xkcd.com/2095/)
 
-*You can either hang out in the Android Loop or the HURD loop.*
+*It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.*
 
 <!-- xkcd:end -->
 
