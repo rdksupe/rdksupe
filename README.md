@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![IATA Airport Abbreviations](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)](https://xkcd.com/1937/)
+[![Reading a Big Number](https://imgs.xkcd.com/comics/reading_a_big_number.png)](https://xkcd.com/3102/)
 
-*IATA stands for International AirporT Abbreviation.*
+*[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???*
 
 <!-- xkcd:end -->
 
