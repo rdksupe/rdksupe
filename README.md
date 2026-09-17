@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Marsiforming](https://imgs.xkcd.com/comics/marsiforming.png)](https://xkcd.com/2095/)
+[![Exa-Exabyte](https://imgs.xkcd.com/comics/exa_exabyte.png)](https://xkcd.com/2283/)
 
-*It has so many advantages--it preserves Martian life, requires fewer interplanetary launches, and makes it much easier to field-test Mars rovers.*
+*To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.*
 
 <!-- xkcd:end -->
 
