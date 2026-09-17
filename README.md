@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Exa-Exabyte](https://imgs.xkcd.com/comics/exa_exabyte.png)](https://xkcd.com/2283/)
+[![IATA Airport Abbreviations](https://imgs.xkcd.com/comics/iata_airport_abbreviations.png)](https://xkcd.com/1937/)
 
-*To picture 10^18, just picture 10^13, but then imagine you connect the left side of the 3 to close off the little bays.*
+*IATA stands for International AirporT Abbreviation.*
 
 <!-- xkcd:end -->
 
