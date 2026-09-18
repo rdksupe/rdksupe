@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reading a Big Number](https://imgs.xkcd.com/comics/reading_a_big_number.png)](https://xkcd.com/3102/)
+[![Worst Band Name Ever](https://imgs.xkcd.com/comics/hedgeclipper.jpg)](https://xkcd.com/119/)
 
-*[desperately] Maybe this is from some country where they use commas as decimal points, and also as digit separators after the decimal, and also use random other characters for decoration???*
+*You can just see his dejection as he realizes he's the lead guitar in 'Hedgeclipper'*
 
 <!-- xkcd:end -->
 
