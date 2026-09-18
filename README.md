@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Girl sleeping (Sketch -- 11th grade Spanish class)](https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg)](https://xkcd.com/7/)
+[![Limerick](https://imgs.xkcd.com/comics/limerick.png)](https://xkcd.com/301/)
 
-*I don't remember her name at all, but she fell asleep on the floor in front of me.*
+*Fun game: try to post a YouTube comment so stupid that people realize you must be joking. (Hint: this is impossible)*
 
 <!-- xkcd:end -->
 
