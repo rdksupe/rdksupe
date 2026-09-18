@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Worst Band Name Ever](https://imgs.xkcd.com/comics/hedgeclipper.jpg)](https://xkcd.com/119/)
+[![Laundry](https://imgs.xkcd.com/comics/laundry.png)](https://xkcd.com/1066/)
 
-*You can just see his dejection as he realizes he's the lead guitar in 'Hedgeclipper'*
+*During the second semester, the path is briefly routed through the dishwasher.*
 
 <!-- xkcd:end -->
 
