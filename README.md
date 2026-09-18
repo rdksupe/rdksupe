@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Laundry](https://imgs.xkcd.com/comics/laundry.png)](https://xkcd.com/1066/)
+[![Girl sleeping (Sketch -- 11th grade Spanish class)](https://imgs.xkcd.com/comics/girl_sleeping_noline_(1).jpg)](https://xkcd.com/7/)
 
-*During the second semester, the path is briefly routed through the dishwasher.*
+*I don't remember her name at all, but she fell asleep on the floor in front of me.*
 
 <!-- xkcd:end -->
 
