@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Barge](https://imgs.xkcd.com/comics/barge.png)](https://xkcd.com/1788/)
+[![Canon](https://imgs.xkcd.com/comics/canon.png)](https://xkcd.com/3123/)
 
-*My life goal is to launch a barge into the air and have it land on one of Elon Musk's rockets.*
+*Achilles was a mighty warrior, but his Achilles' heel was his heel.*
 
 <!-- xkcd:end -->
 
