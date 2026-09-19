@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Limerick](https://imgs.xkcd.com/comics/limerick.png)](https://xkcd.com/301/)
+[![Barge](https://imgs.xkcd.com/comics/barge.png)](https://xkcd.com/1788/)
 
-*Fun game: try to post a YouTube comment so stupid that people realize you must be joking. (Hint: this is impossible)*
+*My life goal is to launch a barge into the air and have it land on one of Elon Musk's rockets.*
 
 <!-- xkcd:end -->
 
