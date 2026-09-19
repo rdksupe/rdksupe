@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Canon](https://imgs.xkcd.com/comics/canon.png)](https://xkcd.com/3123/)
+[![Useless](https://imgs.xkcd.com/comics/useless.jpg)](https://xkcd.com/55/)
 
-*Achilles was a mighty warrior, but his Achilles' heel was his heel.*
+*Even the identity matrix doesn't work normally*
 
 <!-- xkcd:end -->
 
