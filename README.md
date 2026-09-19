@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Useless](https://imgs.xkcd.com/comics/useless.jpg)](https://xkcd.com/55/)
+[![Goldbach Conjectures](https://imgs.xkcd.com/comics/goldbach_conjectures.png)](https://xkcd.com/1310/)
 
-*Even the identity matrix doesn't work normally*
+*The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.*
 
 <!-- xkcd:end -->
 
