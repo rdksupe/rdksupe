@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Emotion](https://imgs.xkcd.com/comics/emotion.png)](https://xkcd.com/1048/)
+[![Curse Levels](https://imgs.xkcd.com/comics/curse_levels.jpg)](https://xkcd.com/75/)
 
-*Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]*
+*I find so much fun in language.*
 
 <!-- xkcd:end -->
 
