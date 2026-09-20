@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Curse Levels](https://imgs.xkcd.com/comics/curse_levels.jpg)](https://xkcd.com/75/)
+[![Cirith Ungol](https://imgs.xkcd.com/comics/cirith_ungol.png)](https://xkcd.com/1087/)
 
-*I find so much fun in language.*
+*My all-time favorite example of syntactic ambiguity comes from Wikipedia: 'Charlotte's Web is a children's novel by American author E. B. White, about a pig named Wilbur who is saved from being slaughtered by an intelligent spider named Charlotte.'*
 
 <!-- xkcd:end -->
 
