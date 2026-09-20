@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Goldbach Conjectures](https://imgs.xkcd.com/comics/goldbach_conjectures.png)](https://xkcd.com/1310/)
+[![Emotion](https://imgs.xkcd.com/comics/emotion.png)](https://xkcd.com/1048/)
 
-*The weak twin primes conjecture states that there are infinitely many pairs of primes. The strong twin primes conjecture states that every prime p has a twin prime (p+2), although (p+2) may not look prime at first. The tautological prime conjecture states that the tautological prime conjecture is true.*
+*Fortunately, the internet has a virtually inexhaustible supply of code that doesn't work and people who are wrong, which bodes well for a return to normalcy. [Note: Click to read context for the cancer comics. She's doing well.]*
 
 <!-- xkcd:end -->
 
