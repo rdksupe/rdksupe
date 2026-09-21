@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Solar Plexus](https://imgs.xkcd.com/comics/solar_plexus.jpg)](https://xkcd.com/64/)
+[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
 
-*It hurts to be hit there, you know*
+*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
 
 <!-- xkcd:end -->
 
