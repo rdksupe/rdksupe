@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Literary Opinions](https://imgs.xkcd.com/comics/literary_opinions.png)](https://xkcd.com/2162/)
+[![Ballooning](https://imgs.xkcd.com/comics/ballooning.png)](https://xkcd.com/1415/)
 
-*If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.*
+*Time to dance in front of Mary Jane! If I'm lucky, she'll turn out not to practice pre-copulatory sexual cannibalism!*
 
 <!-- xkcd:end -->
 
