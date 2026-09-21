@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Words for Small Sets](https://imgs.xkcd.com/comics/words_for_small_sets.png)](https://xkcd.com/1070/)
+[![Literary Opinions](https://imgs.xkcd.com/comics/literary_opinions.png)](https://xkcd.com/2162/)
 
-*If things are too quiet, try asking a couple of friends whether "a couple" should always mean "two". As with the question of how many spaces should go after a period, it can turn acrimonious surprisingly fast unless all three of them agree.*
+*If I really focus, I can distinguish between John Steinbeck and John Updike, or between Gore Vidal and Vidal Sassoon, but not both at once.*
 
 <!-- xkcd:end -->
 
