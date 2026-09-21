@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
+[![Words for Small Sets](https://imgs.xkcd.com/comics/words_for_small_sets.png)](https://xkcd.com/1070/)
 
-*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
+*If things are too quiet, try asking a couple of friends whether "a couple" should always mean "two". As with the question of how many spaces should go after a period, it can turn acrimonious surprisingly fast unless all three of them agree.*
 
 <!-- xkcd:end -->
 
