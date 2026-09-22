@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Battery Life](https://imgs.xkcd.com/comics/battery_life.png)](https://xkcd.com/2680/)
+[![Chessboard Alignment](https://imgs.xkcd.com/comics/chessboard_alignment.png)](https://xkcd.com/3177/)
 
-*It's okay, I'm at 10%, so I'm good for another month or two.*
+*Luckily, the range is limited by the fact that the square boundary lines follow great circles.*
 
 <!-- xkcd:end -->
 
