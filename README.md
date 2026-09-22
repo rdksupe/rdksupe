@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Mission to Culture](https://imgs.xkcd.com/comics/mission_to_culture.png)](https://xkcd.com/586/)
+[![Research Ethics](https://imgs.xkcd.com/comics/research_ethics.png)](https://xkcd.com/1390/)
 
-*It can't be very MUCH money ... they apparently can't even afford a sampler. I mean, with a little remixing, some of this could be kinda good!*
+*I mean, it's not like we could just demand to see the code that's governing our lives. What right do we have to poke around in Facebook's private affairs like that?*
 
 <!-- xkcd:end -->
 
