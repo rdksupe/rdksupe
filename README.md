@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ballooning](https://imgs.xkcd.com/comics/ballooning.png)](https://xkcd.com/1415/)
+[![Mission to Culture](https://imgs.xkcd.com/comics/mission_to_culture.png)](https://xkcd.com/586/)
 
-*Time to dance in front of Mary Jane! If I'm lucky, she'll turn out not to practice pre-copulatory sexual cannibalism!*
+*It can't be very MUCH money ... they apparently can't even afford a sampler. I mean, with a little remixing, some of this could be kinda good!*
 
 <!-- xkcd:end -->
 
