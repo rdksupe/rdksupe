@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Research Ethics](https://imgs.xkcd.com/comics/research_ethics.png)](https://xkcd.com/1390/)
+[![Battery Life](https://imgs.xkcd.com/comics/battery_life.png)](https://xkcd.com/2680/)
 
-*I mean, it's not like we could just demand to see the code that's governing our lives. What right do we have to poke around in Facebook's private affairs like that?*
+*It's okay, I'm at 10%, so I'm good for another month or two.*
 
 <!-- xkcd:end -->
 
