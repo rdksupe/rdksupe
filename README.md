@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Five-Minute Comics: Part 2](https://imgs.xkcd.com/comics/five_minute_comics_part_2.png)](https://xkcd.com/820/)
+[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
 
-*Dear Wiccan readers: I understand modern Wiccans are not usually all about the curses and hexes. But Darth Vader was recently converted from Episcopalianism and he's still figuring it all out.*
+*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
 
 <!-- xkcd:end -->
 
