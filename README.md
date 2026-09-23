@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Online Package Tracking](https://imgs.xkcd.com/comics/online_package_tracking.png)](https://xkcd.com/281/)
+[![Riemann-Zeta](https://imgs.xkcd.com/comics/riemann-zeta.jpg)](https://xkcd.com/113/)
 
-*I don't even *want* this package! Why did I join the stinging insect of the month club, anyway?*
+*The graph is of the magnitude of the function with the real value between 0 and 2 and the imaginary between about 35 and 40. I've misplaced the exact parameters I used.*
 
 <!-- xkcd:end -->
 
