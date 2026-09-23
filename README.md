@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Crowdsourcing](https://imgs.xkcd.com/comics/crowdsourcing.png)](https://xkcd.com/1060/)
+[![Online Package Tracking](https://imgs.xkcd.com/comics/online_package_tracking.png)](https://xkcd.com/281/)
 
-*We don't sell products; we sell the marketplace. And by 'sell the marketplace' we mean 'play shooters, sometimes for upwards of 20 hours straight.'*
+*I don't even *want* this package! Why did I join the stinging insect of the month club, anyway?*
 
 <!-- xkcd:end -->
 
