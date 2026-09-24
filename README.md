@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Supervillain Plan](https://imgs.xkcd.com/comics/supervillain_plan.png)](https://xkcd.com/1883/)
+[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
 
-*Someday, some big historical event will happen during the DST changeover, and all the tick-tock articles chronicling how it unfolded will have to include a really annoying explanation next to their timelines.*
+*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
 
 <!-- xkcd:end -->
 
