@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
+[![What If? 2](https://imgs.xkcd.com/comics/what_if_2.png)](https://xkcd.com/2575/)
 
-*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
+*CLARIFICATION: By 9/13, I mean September 13th, not the 9th day of Jancember, the cursed 13th month that exists between December and January in the transdimensional temporal plane.*
 
 <!-- xkcd:end -->
 
