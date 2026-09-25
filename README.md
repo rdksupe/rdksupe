@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thighs](https://imgs.xkcd.com/comics/thighs.png)](https://xkcd.com/321/)
+[![Starwatching](https://imgs.xkcd.com/comics/starwatching.png)](https://xkcd.com/428/)
 
-*My thighs have seen the glory of the coming of the Lord?*
+*I always figured the word 'blog' would sound *less* silly as the years went by.*
 
 <!-- xkcd:end -->
 
