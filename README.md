@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Fruit Collider](https://imgs.xkcd.com/comics/fruit_collider.png)](https://xkcd.com/1949/)
+[![Thighs](https://imgs.xkcd.com/comics/thighs.png)](https://xkcd.com/321/)
 
-*The most delicious exotic fruit discovered this way is the strawberry banana. Sadly, it's only stable in puree form, so it's currently limited to yogurt and smoothies, but they're building a massive collider in Europe to search for a strawberry banana that can be eaten whole.*
+*My thighs have seen the glory of the coming of the Lord?*
 
 <!-- xkcd:end -->
 
