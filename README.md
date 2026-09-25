@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Oort Cloud](https://imgs.xkcd.com/comics/oort_cloud.png)](https://xkcd.com/1297/)
+[![Fruit Collider](https://imgs.xkcd.com/comics/fruit_collider.png)](https://xkcd.com/1949/)
 
-*... I wanna try. Hang on, be right back.*
+*The most delicious exotic fruit discovered this way is the strawberry banana. Sadly, it's only stable in puree form, so it's currently limited to yogurt and smoothies, but they're building a massive collider in Europe to search for a strawberry banana that can be eaten whole.*
 
 <!-- xkcd:end -->
 
