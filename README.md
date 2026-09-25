@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Starwatching](https://imgs.xkcd.com/comics/starwatching.png)](https://xkcd.com/428/)
+[![Elementary Physics Paths](https://imgs.xkcd.com/comics/elementary_physics_paths.png)](https://xkcd.com/2933/)
 
-*I always figured the word 'blog' would sound *less* silly as the years went by.*
+*==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'*
 
 <!-- xkcd:end -->
 
