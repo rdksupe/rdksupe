@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Super Bowl](https://imgs.xkcd.com/comics/super_bowl.jpg)](https://xkcd.com/60/)
+[![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)](https://xkcd.com/3244/)
 
-*The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose. The 'watch it for the ads' addition was a master stroke.*
+*"How does the spring not run out almost immediately?" "We pull it back REALLY far."*
 
 <!-- xkcd:end -->
 
