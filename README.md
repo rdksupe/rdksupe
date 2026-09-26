@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pullback Drive](https://imgs.xkcd.com/comics/pullback_drive.png)](https://xkcd.com/3244/)
+[![4.5 Degrees](https://imgs.xkcd.com/comics/4_5_degrees.png)](https://xkcd.com/1379/)
 
-*"How does the spring not run out almost immediately?" "We pull it back REALLY far."*
+*The good news is that according to the latest IPCC report, if we enact aggressive emissions limits now, we could hold the warming to 2°C. That's only HALF an ice age unit, which is probably no big deal.*
 
 <!-- xkcd:end -->
 
