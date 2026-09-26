@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![tar](https://imgs.xkcd.com/comics/tar.png)](https://xkcd.com/1168/)
+[![Super Bowl](https://imgs.xkcd.com/comics/super_bowl.jpg)](https://xkcd.com/60/)
 
-*I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.*
+*The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose. The 'watch it for the ads' addition was a master stroke.*
 
 <!-- xkcd:end -->
 
