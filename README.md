@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Elementary Physics Paths](https://imgs.xkcd.com/comics/elementary_physics_paths.png)](https://xkcd.com/2933/)
+[![tar](https://imgs.xkcd.com/comics/tar.png)](https://xkcd.com/1168/)
 
-*==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'*
+*I don't know what's worse--the fact that after 15 years of using tar I still can't keep the flags straight, or that after 15 years of technological advancement I'm still mucking with tar flags that were 15 years old when I started.*
 
 <!-- xkcd:end -->
 
