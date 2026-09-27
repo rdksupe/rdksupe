@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Parker Solar Probe](https://imgs.xkcd.com/comics/parker_solar_probe.png)](https://xkcd.com/2262/)
+[![Local News](https://imgs.xkcd.com/comics/local_news.png)](https://xkcd.com/1699/)
 
-*It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.*
+*Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'*
 
 <!-- xkcd:end -->
 
