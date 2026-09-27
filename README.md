@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brookhaven RHIC](https://imgs.xkcd.com/comics/brookhaven_rhic.png)](https://xkcd.com/2007/)
+[![Parker Solar Probe](https://imgs.xkcd.com/comics/parker_solar_probe.png)](https://xkcd.com/2262/)
 
-*"Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"*
+*It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.*
 
 <!-- xkcd:end -->
 
