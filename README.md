@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Anyone Else Here](https://imgs.xkcd.com/comics/anyone_else_here.png)](https://xkcd.com/3188/)
+[![Brookhaven RHIC](https://imgs.xkcd.com/comics/brookhaven_rhic.png)](https://xkcd.com/2007/)
 
-*Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline.*
+*"Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"*
 
 <!-- xkcd:end -->
 
