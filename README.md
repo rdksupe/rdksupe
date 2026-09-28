@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Local News](https://imgs.xkcd.com/comics/local_news.png)](https://xkcd.com/1699/)
+[![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)](https://xkcd.com/3140/)
 
-*Will there ever be a physics term greater than 'tachyonic antitelephone?' According to this message from the future, the answer is 'no.'*
+*Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.*
 
 <!-- xkcd:end -->
 
