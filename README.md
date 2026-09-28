@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thumb War](https://imgs.xkcd.com/comics/thumb_war.png)](https://xkcd.com/1753/)
+[![Dental Nerve](https://imgs.xkcd.com/comics/dental_nerve.png)](https://xkcd.com/846/)
 
-*"Seventeen, eighteen, nineteen, twenty--" / "Can't we just read Pat the Bunny?"*
+*WAKE up in the MORning and my BREATH ain't PREtty / and noBODY'S gonna KISS me if my MOUTH smells SHItty / so I ALways brush my TEETH before I START on the JACK / sure, my DRINKing's out of HAND, but I'm conTROLLing my PLAQUE.*
 
 <!-- xkcd:end -->
 
