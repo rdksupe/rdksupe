@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Biology Department](https://imgs.xkcd.com/comics/biology_department.png)](https://xkcd.com/3140/)
+[![Thumb War](https://imgs.xkcd.com/comics/thumb_war.png)](https://xkcd.com/1753/)
 
-*Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets.*
+*"Seventeen, eighteen, nineteen, twenty--" / "Can't we just read Pat the Bunny?"*
 
 <!-- xkcd:end -->
 
