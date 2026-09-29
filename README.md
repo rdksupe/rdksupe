@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Red spiders](https://imgs.xkcd.com/comics/red_spiders_small.jpg)](https://xkcd.com/8/)
+[![Earthquake Early Warnings](https://imgs.xkcd.com/comics/earthquake_early_warnings.png)](https://xkcd.com/2219/)
 
-*They are six-legged spiders*
+*I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."*
 
 <!-- xkcd:end -->
 
