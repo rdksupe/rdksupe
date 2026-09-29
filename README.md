@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Missal of Silos](https://imgs.xkcd.com/comics/missal_of_silos.png)](https://xkcd.com/2099/)
+[![Red spiders](https://imgs.xkcd.com/comics/red_spiders_small.jpg)](https://xkcd.com/8/)
 
-*Welcome to Wyoming, motto "We'd like to clarify that Cheyenne Mountain is in Colorado."*
+*They are six-legged spiders*
 
 <!-- xkcd:end -->
 
