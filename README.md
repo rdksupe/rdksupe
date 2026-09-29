@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Earthquake Early Warnings](https://imgs.xkcd.com/comics/earthquake_early_warnings.png)](https://xkcd.com/2219/)
+[![Rejection](https://imgs.xkcd.com/comics/rejection.png)](https://xkcd.com/1325/)
 
-*I was fired by the National Weather Service five minutes after they hired me for going into their code base and renaming all the tornado warnings to "tornado spoiler alerts."*
+*Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.*
 
 <!-- xkcd:end -->
 
