@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sunspot Cycle](https://imgs.xkcd.com/comics/sunspot_cycle.png)](https://xkcd.com/2725/)
+[![Secretary: Part 4](https://imgs.xkcd.com/comics/secretary_part_4.png)](https://xkcd.com/497/)
 
-*Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'*
+*It's time to draw the line.*
 
 <!-- xkcd:end -->
 
