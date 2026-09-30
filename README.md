@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rejection](https://imgs.xkcd.com/comics/rejection.png)](https://xkcd.com/1325/)
+[![Cyber Cafe](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392/)
 
-*Perhaps you need a crash course in taking hints. Here's your first lesson: We're not actually walking somewhere together; I'm trying to leave this conversation and you're following me.*
+*Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'*
 
 <!-- xkcd:end -->
 
