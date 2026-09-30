@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cyber Cafe](https://imgs.xkcd.com/comics/cyber_cafe.png)](https://xkcd.com/2392/)
+[![Sunspot Cycle](https://imgs.xkcd.com/comics/sunspot_cycle.png)](https://xkcd.com/2725/)
 
-*Since we haven't really settled on a name for those online hangout/work spaces that try to recreate the experience of cafes, and I love confusion, I'm going to start calling them 'cyber cafes' or 'internet cafes.'*
+*Who can forget the early 2010s memes? 'You know you're a 90s kid if you remember the feeling of warm sunlight on your face.' 'Only 90s kids remember the dawn.'*
 
 <!-- xkcd:end -->
 

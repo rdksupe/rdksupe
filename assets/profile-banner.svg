@@ -11,12 +11,6 @@
       @keyframes wave-shadow { 0%, 100% { transform: scaleX(1); opacity: 0.5; } 50% { transform: scaleX(0.9); opacity: 0.4; } }
       @keyframes arm-wave { 0% { transform: rotate(-30deg); } 100% { transform: rotate(-70deg); } }
       @keyframes wave-blink { 0%, 43%, 57%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } }
-      .umb-body { transform-origin: 7.5px 15px; animation: umb-sway 3s infinite ease-in-out; }
-      .umb-shadow { animation: umb-s 3s infinite; }
-      .umb-eyes { transform-origin: 7.5px 9px; animation: umb-blink 4s infinite; }
-      @keyframes umb-sway { 0%, 100% { transform: rotate(0deg); } 50% { transform: rotate(-2deg); } }
-      @keyframes umb-s { 0%, 100% { opacity: 0.5; } }
-      @keyframes umb-blink { 0%, 46%, 54%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } }
       @keyframes rain-fall { 0% { transform: translateY(-15px); opacity: 0.6; } 100% { transform: translateY(20px); opacity: 0; } }
       .bubble { animation: bubble-pulse 2s infinite ease-in-out; }
       @keyframes bubble-pulse { 0%, 100% { opacity: 0.75; } 50% { opacity: 1; } }
@@ -36,13 +30,15 @@
     </style>
   </defs>
 
-  <rect x="0" y="0" width="560" height="160" rx="8" fill="#252d3a"/>
+  <rect x="0" y="0" width="560" height="160" rx="8" fill="#2a3548"/>
   <rect class="lightning" x="0" y="0" width="560" height="160" rx="8" fill="#fff" opacity="0"/>
 
   <ellipse cx="60" cy="26" rx="50" ry="14" fill="#3a3945" opacity="0.45"/>
   <ellipse cx="500" cy="28" rx="48" ry="13" fill="#3a3945" opacity="0.45"/>
   <ellipse cx="280" cy="20" rx="70" ry="16" fill="#3a3945" opacity="0.32"/>
 
+  <circle cx="480" cy="32" r="16" fill="#FFD166" opacity="0.9"/>
+  <circle cx="480" cy="32" r="22" fill="#FFD166" opacity="0.15"/>
 
   <ellipse cx="280" cy="148" rx="170" ry="7" fill="#6a9ec7" opacity="0.08"/>
 
@@ -66,8 +62,8 @@
   </g>
 
   <g class="bubble">
-    <rect x="350" y="36" width="86" height="34" rx="11" fill="#252d3a" stroke="#DE886D" stroke-width="1.5"/>
-    <polygon points="352,64 360,64 346,76" fill="#252d3a" stroke="#DE886D" stroke-width="1"/>
+    <rect x="350" y="36" width="86" height="34" rx="11" fill="#2a3548" stroke="#DE886D" stroke-width="1.5"/>
+    <polygon points="352,64 360,64 346,76" fill="#2a3548" stroke="#DE886D" stroke-width="1"/>
     <text x="393" y="59" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="14" font-weight="bold">meow~!</text>
   </g>
 </svg>
