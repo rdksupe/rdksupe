@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Apple Growers](https://imgs.xkcd.com/comics/apple_growers.png)](https://xkcd.com/2410/)
+[![Lane Change Highway](https://imgs.xkcd.com/comics/lane_change_highway.png)](https://xkcd.com/2728/)
 
-*Hopefully in a couple of weeks we'll be able to resume our apple-focused updates, because we have SO MUCH to say about Cosmic Crisp.*
+*I just think lane markers should follow the local magnetic declination.*
 
 <!-- xkcd:end -->
 
