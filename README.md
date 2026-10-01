@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Craigslist Apartments](https://imgs.xkcd.com/comics/craigslist_apartments.png)](https://xkcd.com/886/)
+[![Well 2](https://imgs.xkcd.com/comics/well_2.png)](https://xkcd.com/568/)
 
-*$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.*
+*But I've made $13.72 already today! Ow, stop throwing pennies.*
 
 <!-- xkcd:end -->
 
