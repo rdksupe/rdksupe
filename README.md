@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lane Change Highway](https://imgs.xkcd.com/comics/lane_change_highway.png)](https://xkcd.com/2728/)
+[![Craigslist Apartments](https://imgs.xkcd.com/comics/craigslist_apartments.png)](https://xkcd.com/886/)
 
-*I just think lane markers should follow the local magnetic declination.*
+*$1600 / 1386153BR 3BATH, MODERN SLIDING DOORS, GUEST ROOMS, GARBAGE DISPOSAL. FREE MANDATORY PARKING (ENFORCED). CONVENIENT TO ALDERAAN.*
 
 <!-- xkcd:end -->
 
