@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Compiling](https://imgs.xkcd.com/comics/compiling.png)](https://xkcd.com/303/)
+[![Best-Tasting Colors](https://imgs.xkcd.com/comics/best_tasting_colors.png)](https://xkcd.com/1811/)
 
-*'Are you stealing those LCDs?' 'Yeah, but I'm doing it while my code compiles.'*
+*I recognize that chocolate is its own thing on which reasonable people may differ. Everything else here is objective fact.*
 
 <!-- xkcd:end -->
 
