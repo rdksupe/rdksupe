@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Well 2](https://imgs.xkcd.com/comics/well_2.png)](https://xkcd.com/568/)
+[![Flash Gatsby](https://imgs.xkcd.com/comics/flash_gatsby.png)](https://xkcd.com/2405/)
 
-*But I've made $13.72 already today! Ow, stop throwing pennies.*
+*Protip: At midnight your excuse for not having read The Great Gatsby can switch from "I'm worried about violating copyright" to "I think my copy requires Flash."*
 
 <!-- xkcd:end -->
 
