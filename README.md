@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Best-Tasting Colors](https://imgs.xkcd.com/comics/best_tasting_colors.png)](https://xkcd.com/1811/)
+[![Never Seen Star Wars](https://imgs.xkcd.com/comics/never_seen_star_wars.png)](https://xkcd.com/1769/)
 
-*I recognize that chocolate is its own thing on which reasonable people may differ. Everything else here is objective fact.*
+*If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.*
 
 <!-- xkcd:end -->
 
