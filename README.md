@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Swine Flu](https://imgs.xkcd.com/comics/swine_flu.png)](https://xkcd.com/574/)
+[![Skateboard](https://imgs.xkcd.com/comics/skateboard.png)](https://xkcd.com/3152/)
 
-*Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.*
+*I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.*
 
 <!-- xkcd:end -->
 
