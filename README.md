@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Skateboard](https://imgs.xkcd.com/comics/skateboard.png)](https://xkcd.com/3152/)
+[![Watches](https://imgs.xkcd.com/comics/watches.png)](https://xkcd.com/1420/)
 
-*I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.*
+*Old people used to write obnoxious thinkpieces about how people these days always wear watches and are slaves to the clock, but now they've switched to writing thinkpieces about how kids these days don't appreciate the benefits of an old-fashioned watch. My position is: The word 'thinkpiece' sounds like a word made up by someone who didn't know about the word 'brain'.*
 
 <!-- xkcd:end -->
 
