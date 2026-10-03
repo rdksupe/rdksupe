@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Never Seen Star Wars](https://imgs.xkcd.com/comics/never_seen_star_wars.png)](https://xkcd.com/1769/)
+[![Swine Flu](https://imgs.xkcd.com/comics/swine_flu.png)](https://xkcd.com/574/)
 
-*If anyone calls you on any weird detail, just say it's from the Jedi Prince book series, which contains so much random incongruous stuff that even most Expanded Universe/Legends fans collectively agreed to forget about it decades ago.*
+*Bad flu epidemics can hit young adults hardest because they provoke their powerful immune systems into overreaction, so to stay healthy spend the next few weeks drunk and sleep-deprived to keep yours suppressed.*
 
 <!-- xkcd:end -->
 
