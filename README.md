@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thesis Defense](https://imgs.xkcd.com/comics/thesis_defense.png)](https://xkcd.com/1403/)
+[![Smart Home Security](https://imgs.xkcd.com/comics/smart_home_security.png)](https://xkcd.com/1966/)
 
-*MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART*
+*If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.*
 
 <!-- xkcd:end -->
 
