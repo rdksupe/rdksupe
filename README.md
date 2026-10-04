@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![You Hang Up First](https://imgs.xkcd.com/comics/you_hang_up_first.png)](https://xkcd.com/698/)
+[![Thesis Defense](https://imgs.xkcd.com/comics/thesis_defense.png)](https://xkcd.com/1403/)
 
-*No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.*
+*MY RESULTS ARE A SIGNIFICANT IMPROVEMENT ON THE STATE OF THE AAAAAAAAAAAART*
 
 <!-- xkcd:end -->
 
