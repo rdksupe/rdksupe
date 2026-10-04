@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Watches](https://imgs.xkcd.com/comics/watches.png)](https://xkcd.com/1420/)
+[![Converting to Metric](https://imgs.xkcd.com/comics/converting_to_metric.png)](https://xkcd.com/526/)
 
-*Old people used to write obnoxious thinkpieces about how people these days always wear watches and are slaves to the clock, but now they've switched to writing thinkpieces about how kids these days don't appreciate the benefits of an old-fashioned watch. My position is: The word 'thinkpiece' sounds like a word made up by someone who didn't know about the word 'brain'.*
+*According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.*
 
 <!-- xkcd:end -->
 
