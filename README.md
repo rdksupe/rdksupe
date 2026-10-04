@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Converting to Metric](https://imgs.xkcd.com/comics/converting_to_metric.png)](https://xkcd.com/526/)
+[![You Hang Up First](https://imgs.xkcd.com/comics/you_hang_up_first.png)](https://xkcd.com/698/)
 
-*According to River, 'adequate' vacuuming systems drain the human body at about half a liter per second.*
+*No, YOU stumble past a series of post-breakup hookups in a daze as you slowly realize what you've lost and how unlikely you are ever to get it back first.*
 
 <!-- xkcd:end -->
 
