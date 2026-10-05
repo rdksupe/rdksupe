@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
+[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
 
-*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
+*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
 
 <!-- xkcd:end -->
 
