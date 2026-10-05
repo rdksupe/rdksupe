@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Raptor Fences](https://imgs.xkcd.com/comics/raptor_fences.png)](https://xkcd.com/758/)
+[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
 
-*If at least one person has a nightmare about being swarmed by hundreds of mouse-sized dromaeosaurids, my work will have been done.*
+*Okay, everyone, cross yourselves, then cross the streams.*
 
 <!-- xkcd:end -->
 
