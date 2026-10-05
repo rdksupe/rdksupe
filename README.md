@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Smart Home Security](https://imgs.xkcd.com/comics/smart_home_security.png)](https://xkcd.com/1966/)
+[![Hardware Reductionism](https://imgs.xkcd.com/comics/hardware_reductionism.png)](https://xkcd.com/1588/)
 
-*If they're getting valuable enough stuff from you, at least the organized crime folks have an incentive to issue regular updates to keep the appliance working after the manufacturer discontinues support.*
+*My MRI research shows a clear correlation between the size of the parietal lobe--the part of the brain that handles spatial reasoning--and enjoyment of 3D Doritos®.*
 
 <!-- xkcd:end -->
 
