@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Glass-Topped Table](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795/)
+[![Tap That Ass](https://imgs.xkcd.com/comics/tap_that_ass.png)](https://xkcd.com/398/)
 
-*You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.*
+*Hey, when you're done draining the syrup, just leave the hole, okay?*
 
 <!-- xkcd:end -->
 
