@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tap That Ass](https://imgs.xkcd.com/comics/tap_that_ass.png)](https://xkcd.com/398/)
+[![Alien Theories](https://imgs.xkcd.com/comics/alien_theories.png)](https://xkcd.com/2953/)
 
-*Hey, when you're done draining the syrup, just leave the hole, okay?*
+*They originally came here to try to investigate our chemtrail technology, and got increasingly frustrated when all their samples turned out to just be water ice with trace amounts of jet exhaust.*
 
 <!-- xkcd:end -->
 
