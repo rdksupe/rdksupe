@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Holy Ghost](https://imgs.xkcd.com/comics/holy_ghost.png)](https://xkcd.com/459/)
+[![Glass-Topped Table](https://imgs.xkcd.com/comics/glass_topped_table.png)](https://xkcd.com/2795/)
 
-*Okay, everyone, cross yourselves, then cross the streams.*
+*You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward.*
 
 <!-- xkcd:end -->
 
