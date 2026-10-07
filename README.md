@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Gravitational Mass](https://imgs.xkcd.com/comics/gravitational_mass.jpg)](https://xkcd.com/89/)
+[![Space Typography](https://imgs.xkcd.com/comics/space_typography.png)](https://xkcd.com/2863/)
 
-*She's so fat the attraction goes up as the CUBE of the distance instead of the square*
+*And over heeee[...]eeeere (i)s Saturn.*
 
 <!-- xkcd:end -->
 
