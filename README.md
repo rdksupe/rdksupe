@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Space Typography](https://imgs.xkcd.com/comics/space_typography.png)](https://xkcd.com/2863/)
+[![The Maritime Approximation](https://imgs.xkcd.com/comics/the_maritime_approximation.png)](https://xkcd.com/3023/)
 
-*And over heeee[...]eeeere (i)s Saturn.*
+*It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.*
 
 <!-- xkcd:end -->
 
