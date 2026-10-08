@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Maritime Approximation](https://imgs.xkcd.com/comics/the_maritime_approximation.png)](https://xkcd.com/3023/)
+[![Strunk and White](https://imgs.xkcd.com/comics/strunk_and_white.png)](https://xkcd.com/923/)
 
-*It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle.*
+*The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.*
 
 <!-- xkcd:end -->
 
