@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Birthday](https://imgs.xkcd.com/comics/birthday.png)](https://xkcd.com/1581/)
+[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
 
-*I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.*
+*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
 
 <!-- xkcd:end -->
 
