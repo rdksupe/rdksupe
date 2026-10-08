@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Strunk and White](https://imgs.xkcd.com/comics/strunk_and_white.png)](https://xkcd.com/923/)
+[![Birthday](https://imgs.xkcd.com/comics/birthday.png)](https://xkcd.com/1581/)
 
-*The best thing about Strunk/White fanfiction is that it's virtually guaranteed to be well written.*
+*I guess I need to apologize to my parents, friends, and the staff at Chuck E. Cheese's for all the times I called the cops on them.*
 
 <!-- xkcd:end -->
 
