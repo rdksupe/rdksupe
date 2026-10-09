@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Lamp](https://imgs.xkcd.com/comics/lamp.png)](https://xkcd.com/879/)
+[![Speed and Danger](https://imgs.xkcd.com/comics/speed_and_danger.png)](https://xkcd.com/1701/)
 
-*'That was definitely not in my top three wishes.' 'Who said anything about YOUR wishes?'*
+*NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."*
 
 <!-- xkcd:end -->
 
