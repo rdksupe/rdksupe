@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Speed and Danger](https://imgs.xkcd.com/comics/speed_and_danger.png)](https://xkcd.com/1701/)
+[![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)](https://xkcd.com/3294/)
 
-*NASCAR removed the passenger seats because drivers hated how astronauts kept riding along with them and loudly announcing "Ahh, what a nice and relaxing drive."*
+*Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.*
 
 <!-- xkcd:end -->
 
