@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Asteroid Mission](https://imgs.xkcd.com/comics/asteroid_mission.png)](https://xkcd.com/3294/)
+[![Peer Review](https://imgs.xkcd.com/comics/peer_review.png)](https://xkcd.com/2025/)
 
-*Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.*
+*Your manuscript "Don't Pay $25 to Access Any of the Articles in this Journal: A Review of Preprint Repositories and Author Willingness to Email PDF Copies for Free" has also been rejected, but nice try.*
 
 <!-- xkcd:end -->
 
