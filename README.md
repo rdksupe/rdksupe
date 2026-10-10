@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![How to Coil a Cable](https://imgs.xkcd.com/comics/how_to_coil_a_cable.png)](https://xkcd.com/2810/)
+[![Ringer Volume/Media Volume](https://imgs.xkcd.com/comics/ringer_volume_media_volume.png)](https://xkcd.com/1884/)
 
-*The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.*
+*Our new video ad campaign has our product's name shouted in the first 500 milliseconds, so we can reach the people in adjacent rooms while the viewer is still turning down the volume.*
 
 <!-- xkcd:end -->
 
