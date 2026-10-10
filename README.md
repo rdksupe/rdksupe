@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Parker Solar Probe](https://imgs.xkcd.com/comics/parker_solar_probe.png)](https://xkcd.com/2262/)
+[![Qua](https://imgs.xkcd.com/comics/qua.png)](https://xkcd.com/2591/)
 
-*It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.*
+*Qua qua qua is the sine qua non of sine qua non qua sine qua non.*
 
 <!-- xkcd:end -->
 
