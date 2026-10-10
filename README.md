@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Qua](https://imgs.xkcd.com/comics/qua.png)](https://xkcd.com/2591/)
+[![How to Coil a Cable](https://imgs.xkcd.com/comics/how_to_coil_a_cable.png)](https://xkcd.com/2810/)
 
-*Qua qua qua is the sine qua non of sine qua non qua sine qua non.*
+*The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist.*
 
 <!-- xkcd:end -->
 
