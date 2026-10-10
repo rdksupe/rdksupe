@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Peer Review](https://imgs.xkcd.com/comics/peer_review.png)](https://xkcd.com/2025/)
+[![Parker Solar Probe](https://imgs.xkcd.com/comics/parker_solar_probe.png)](https://xkcd.com/2262/)
 
-*Your manuscript "Don't Pay $25 to Access Any of the Articles in this Journal: A Review of Preprint Repositories and Author Willingness to Email PDF Copies for Free" has also been rejected, but nice try.*
+*It will get within 9 or 10 Sun-diameters of the "bottom" (the Sun's surface) which seems pretty far when you put it that way, but from up here on Earth it's practically all the way down.*
 
 <!-- xkcd:end -->
 
