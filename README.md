@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Alice and Bob](https://imgs.xkcd.com/comics/alice_and_bob.png)](https://xkcd.com/177/)
+[![Permanence](https://imgs.xkcd.com/comics/permanence.png)](https://xkcd.com/910/)
 
-*Yet one more reason I'm barred from speaking at crypto conferences.*
+*This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!*
 
 <!-- xkcd:end -->
 
