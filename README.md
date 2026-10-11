@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sagan-Man](https://imgs.xkcd.com/comics/sagan-man.png)](https://xkcd.com/663/)
+[![Alice and Bob](https://imgs.xkcd.com/comics/alice_and_bob.png)](https://xkcd.com/177/)
 
-*They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.*
+*Yet one more reason I'm barred from speaking at crypto conferences.*
 
 <!-- xkcd:end -->
 
