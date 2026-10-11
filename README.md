@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Permanence](https://imgs.xkcd.com/comics/permanence.png)](https://xkcd.com/910/)
+[![The Perfect Sound](https://imgs.xkcd.com/comics/the_perfect_sound.png)](https://xkcd.com/193/)
 
-*This hostname is going in dozens of remote config files. Changing a kid's name is comparatively easy!*
+*Oh, what a pity, can't you understand . . .*
 
 <!-- xkcd:end -->
 
