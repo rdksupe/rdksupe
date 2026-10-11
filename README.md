@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ringer Volume/Media Volume](https://imgs.xkcd.com/comics/ringer_volume_media_volume.png)](https://xkcd.com/1884/)
+[![Sagan-Man](https://imgs.xkcd.com/comics/sagan-man.png)](https://xkcd.com/663/)
 
-*Our new video ad campaign has our product's name shouted in the first 500 milliseconds, so we can reach the people in adjacent rooms while the viewer is still turning down the volume.*
+*They laugh now, but within 10 years the city's entire criminal class will have quit to work on space research.*
 
 <!-- xkcd:end -->
 
