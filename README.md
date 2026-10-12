@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Perfect Sound](https://imgs.xkcd.com/comics/the_perfect_sound.png)](https://xkcd.com/193/)
+[![Warning](https://imgs.xkcd.com/comics/warning.png)](https://xkcd.com/1075/)
 
-*Oh, what a pity, can't you understand . . .*
+*Also possibly several miles beyond that.*
 
 <!-- xkcd:end -->
 
