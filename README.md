@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Warning](https://imgs.xkcd.com/comics/warning.png)](https://xkcd.com/1075/)
+[![Road Rage](https://imgs.xkcd.com/comics/road_rage.png)](https://xkcd.com/440/)
 
-*Also possibly several miles beyond that.*
+*Okay, now just as the loss hits him, slam on the brakes.*
 
 <!-- xkcd:end -->
 
