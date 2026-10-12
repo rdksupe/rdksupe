@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Road Rage](https://imgs.xkcd.com/comics/road_rage.png)](https://xkcd.com/440/)
+[![Ferret](https://imgs.xkcd.com/comics/ferret.jpg)](https://xkcd.com/20/)
 
-*Okay, now just as the loss hits him, slam on the brakes.*
+*My brother had a ferret he loved which died since I drew this strip. RIP.*
 
 <!-- xkcd:end -->
 
