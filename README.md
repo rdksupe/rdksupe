@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Family Circus](https://imgs.xkcd.com/comics/family_circus.jpg)](https://xkcd.com/100/)
+[![Unsolved Physics Problems](https://imgs.xkcd.com/comics/unsolved_physics_problems.png)](https://xkcd.com/3115/)
 
-*This was my friend David's idea*
+*'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??*
 
 <!-- xkcd:end -->
 
