@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ferret](https://imgs.xkcd.com/comics/ferret.jpg)](https://xkcd.com/20/)
+[![Family Circus](https://imgs.xkcd.com/comics/family_circus.jpg)](https://xkcd.com/100/)
 
-*My brother had a ferret he loved which died since I drew this strip. RIP.*
+*This was my friend David's idea*
 
 <!-- xkcd:end -->
 
