@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Edge Cake](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549/)
+[![Timeghost](https://imgs.xkcd.com/comics/timeghost.png)](https://xkcd.com/1393/)
 
-*Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.*
+*'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'*
 
 <!-- xkcd:end -->
 
