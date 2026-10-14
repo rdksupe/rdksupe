@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Presidential Middle Names](https://imgs.xkcd.com/comics/presidential_middle_names.png)](https://xkcd.com/2393/)
+[![Edge Cake](https://imgs.xkcd.com/comics/edge_cake.png)](https://xkcd.com/2549/)
 
-*The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.*
+*Every time IERS adds or removes a leap second, they send me a birthday cake out of superstition.*
 
 <!-- xkcd:end -->
 
