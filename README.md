@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Petit Trees (sketch)](https://imgs.xkcd.com/comics/tree_cropped_(1).jpg)](https://xkcd.com/2/)
+[![Presidential Middle Names](https://imgs.xkcd.com/comics/presidential_middle_names.png)](https://xkcd.com/2393/)
 
-*'Petit' being a reference to Le Petit Prince, which I only thought about halfway through the sketch*
+*The bottom of the list remains unchanged. Poor Rutherford Birchard Hayes.*
 
 <!-- xkcd:end -->
 
