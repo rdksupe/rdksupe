@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Timeghost](https://imgs.xkcd.com/comics/timeghost.png)](https://xkcd.com/1393/)
+[![Number Line Branch](https://imgs.xkcd.com/comics/number_line_branch.png)](https://xkcd.com/2956/)
 
-*'Hello, Ghostbusters?' 'ooOOoooo people born years after that movie came out are having a second chiiiild right now ooOoooOoo'*
+*Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now.*
 
 <!-- xkcd:end -->
 
