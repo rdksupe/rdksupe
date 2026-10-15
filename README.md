@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Use or Discard By](https://imgs.xkcd.com/comics/use_or_discard_by.png)](https://xkcd.com/2297/)
+[![SMFW](https://imgs.xkcd.com/comics/smfw.png)](https://xkcd.com/1460/)
 
-*One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!*
+*wtfw it's like smho tbfh, imdb.*
 
 <!-- xkcd:end -->
 
