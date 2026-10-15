@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![SMFW](https://imgs.xkcd.com/comics/smfw.png)](https://xkcd.com/1460/)
+[![How to Make Friends](https://imgs.xkcd.com/comics/how_to_make_friends.png)](https://xkcd.com/1917/)
 
-*wtfw it's like smho tbfh, imdb.*
+*No, wait, come back! I want to be friends at you!*
 
 <!-- xkcd:end -->
 
