@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Circuit Diagram](https://imgs.xkcd.com/comics/circuit_diagram.png)](https://xkcd.com/730/)
+[![Use or Discard By](https://imgs.xkcd.com/comics/use_or_discard_by.png)](https://xkcd.com/2297/)
 
-*I just caught myself idly trying to work out what that resistor mass would actually be, and realized I had self-nerd-sniped.*
+*One of the things of bear spray says that, and I'm not one to disobey safety instructions, but there are no bears around here. Guess it's time for a camping trip where we leave lots of food out!*
 
 <!-- xkcd:end -->
 
