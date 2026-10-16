@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Definition of e](https://imgs.xkcd.com/comics/definition_of_e.png)](https://xkcd.com/2768/)
+[![Data Trap](https://imgs.xkcd.com/comics/data_trap.png)](https://xkcd.com/2582/)
 
-*Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.*
+*It's important to make sure your analysis destroys as much information as it produces.*
 
 <!-- xkcd:end -->
 
