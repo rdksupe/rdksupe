@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Data Trap](https://imgs.xkcd.com/comics/data_trap.png)](https://xkcd.com/2582/)
+[![Acceptable Risk](https://imgs.xkcd.com/comics/acceptable_risk.png)](https://xkcd.com/2330/)
 
-*It's important to make sure your analysis destroys as much information as it produces.*
+*Good thing I'm not already prone to overthinking everyday decisions!*
 
 <!-- xkcd:end -->
 
