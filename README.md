@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Acceptable Risk](https://imgs.xkcd.com/comics/acceptable_risk.png)](https://xkcd.com/2330/)
+[![Bad Opinions](https://imgs.xkcd.com/comics/bad_opinions.png)](https://xkcd.com/2051/)
 
-*Good thing I'm not already prone to overthinking everyday decisions!*
+*I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!*
 
 <!-- xkcd:end -->
 
