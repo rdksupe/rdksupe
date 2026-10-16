@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![How to Make Friends](https://imgs.xkcd.com/comics/how_to_make_friends.png)](https://xkcd.com/1917/)
+[![Definition of e](https://imgs.xkcd.com/comics/definition_of_e.png)](https://xkcd.com/2768/)
 
-*No, wait, come back! I want to be friends at you!*
+*Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side.*
 
 <!-- xkcd:end -->
 
