@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Bad Opinions](https://imgs.xkcd.com/comics/bad_opinions.png)](https://xkcd.com/2051/)
+[![Storage Tanks](https://imgs.xkcd.com/comics/storage_tanks.png)](https://xkcd.com/2974/)
 
-*I thought of another bad opinion! I couldn't find anyone who expressed it specifically, but still, the fact that I can so easily imagine it is infuriating! I'm gonna tell everyone about it!*
+*We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.*
 
 <!-- xkcd:end -->
 
