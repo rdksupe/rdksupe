@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Carcinization](https://imgs.xkcd.com/comics/carcinization.png)](https://xkcd.com/2314/)
+[![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)](https://xkcd.com/3139/)
 
-*Nature abhors a vacuum and also anything that's not a crab.*
+*The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.*
 
 <!-- xkcd:end -->
 
