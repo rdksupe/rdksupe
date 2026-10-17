@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Chess Variant](https://imgs.xkcd.com/comics/chess_variant.png)](https://xkcd.com/3139/)
+[![Twitter Verification](https://imgs.xkcd.com/comics/twitter_verification.png)](https://xkcd.com/1914/)
 
-*The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases.*
+*When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.*
 
 <!-- xkcd:end -->
 
