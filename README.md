@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Storage Tanks](https://imgs.xkcd.com/comics/storage_tanks.png)](https://xkcd.com/2974/)
+[![Carcinization](https://imgs.xkcd.com/comics/carcinization.png)](https://xkcd.com/2314/)
 
-*We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them.*
+*Nature abhors a vacuum and also anything that's not a crab.*
 
 <!-- xkcd:end -->
 
