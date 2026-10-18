@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Twitter Verification](https://imgs.xkcd.com/comics/twitter_verification.png)](https://xkcd.com/1914/)
+[![Game AIs](https://imgs.xkcd.com/comics/game_ais.png)](https://xkcd.com/1002/)
 
-*When we started distributing special status tokens that signify which people are important enough to join an elite group, we never could have imagined we might be creating some problems down the line.*
+*The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.*
 
 <!-- xkcd:end -->
 
