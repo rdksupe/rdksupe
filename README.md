@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Alternate Histories](https://imgs.xkcd.com/comics/alternate_histories.png)](https://xkcd.com/2149/)
+[![Surgery](https://imgs.xkcd.com/comics/surgery.png)](https://xkcd.com/644/)
 
-*"So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."*
+*Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.*
 
 <!-- xkcd:end -->
 
