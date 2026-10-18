@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Game AIs](https://imgs.xkcd.com/comics/game_ais.png)](https://xkcd.com/1002/)
+[![Alternate Histories](https://imgs.xkcd.com/comics/alternate_histories.png)](https://xkcd.com/2149/)
 
-*The top computer champion at Seven Minutes in Heaven is a Honda-built Realdoll, but to date it has been unable to outperform the human Seven Minutes in Heaven champion, Ken Jennings.*
+*"So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."*
 
 <!-- xkcd:end -->
 
