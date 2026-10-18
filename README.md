@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Surgery](https://imgs.xkcd.com/comics/surgery.png)](https://xkcd.com/644/)
+[![Morning News](https://imgs.xkcd.com/comics/morning_news.png)](https://xkcd.com/1996/)
 
-*Damn. Not only did he not install it, he sutured a 'Vista-Ready' sticker onto my arm.*
+*Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.*
 
 <!-- xkcd:end -->
 
