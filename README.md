@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Morning News](https://imgs.xkcd.com/comics/morning_news.png)](https://xkcd.com/1996/)
+[![Marshmallow Gun](https://imgs.xkcd.com/comics/marshmallow_gun.png)](https://xkcd.com/517/)
 
-*Support your local paper, unless it's just been bought by some sinister hedge fund or something, which it probably has.*
+*Except in reality crossing a stream of marshmallows would create a giant Bill Murray.*
 
 <!-- xkcd:end -->
 
