@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Reports](https://imgs.xkcd.com/comics/reports.png)](https://xkcd.com/1219/)
+[![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)](https://xkcd.com/3285/)
 
-*If that fails, just multiply every number by a thousand. 'The 2nd St speed limit should be set at 25,000 mph, which would likely have prevented 1,000 of the intersection's 3,000 serious accidents last month.'*
+*The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.*
 
 <!-- xkcd:end -->
 
