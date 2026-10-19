@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Marshmallow Gun](https://imgs.xkcd.com/comics/marshmallow_gun.png)](https://xkcd.com/517/)
+[![Asteroid News](https://imgs.xkcd.com/comics/asteroid_news.png)](https://xkcd.com/2984/)
 
-*Except in reality crossing a stream of marshmallows would create a giant Bill Murray.*
+*Their calculations show it will 'pass within the distance of the moon' but that it 'will not hit the moon, so what's the point?'*
 
 <!-- xkcd:end -->
 
