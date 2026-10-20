@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)](https://xkcd.com/3251/)
+[![Rebuttals](https://imgs.xkcd.com/comics/rebuttals.png)](https://xkcd.com/2857/)
 
-*It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.*
+*The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream.*
 
 <!-- xkcd:end -->
 
