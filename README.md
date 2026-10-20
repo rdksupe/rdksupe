@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Star Wars](https://imgs.xkcd.com/comics/star_wars.png)](https://xkcd.com/1477/)
+[![Time Machine Conversation](https://imgs.xkcd.com/comics/time_machine_conversation.png)](https://xkcd.com/3251/)
 
-*A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...*
+*It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians.*
 
 <!-- xkcd:end -->
 
