@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Presidential Succession](https://imgs.xkcd.com/comics/presidential_succession.png)](https://xkcd.com/2003/)
+[![Star Wars](https://imgs.xkcd.com/comics/star_wars.png)](https://xkcd.com/1477/)
 
-*Ties are broken by whoever was closest to the surface of Europa when they were born.*
+*A long, long time (plus 40 years) ago, in a galaxy far, far away (plus a corrective factor involving the Hubble constant) ...*
 
 <!-- xkcd:end -->
 
