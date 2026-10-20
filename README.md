@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Accretionary Arc](https://imgs.xkcd.com/comics/accretionary_arc.png)](https://xkcd.com/3285/)
+[![Presidential Succession](https://imgs.xkcd.com/comics/presidential_succession.png)](https://xkcd.com/2003/)
 
-*The late Triassic rifting was caused by a dinosaur trying to use the control panel to escape a predator, but it was eaten before the continent could fully separate.*
+*Ties are broken by whoever was closest to the surface of Europa when they were born.*
 
 <!-- xkcd:end -->
 
