@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Party](https://imgs.xkcd.com/comics/party.png)](https://xkcd.com/524/)
+[![Coordinate Plane Closure](https://imgs.xkcd.com/comics/coordinate_plane_closure.png)](https://xkcd.com/2735/)
 
-*I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008. I Accidentally <noun>? Yo dawg? Place your bets now!*
+*3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.*
 
 <!-- xkcd:end -->
 
