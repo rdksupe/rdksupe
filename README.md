@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Venting](https://imgs.xkcd.com/comics/venting.png)](https://xkcd.com/406/)
+[![Party](https://imgs.xkcd.com/comics/party.png)](https://xkcd.com/524/)
 
-*P.P.S. I can kill you with my brain.*
+*I wonder what 2008 meme will go bizarrely mainstream in 2009 like Rickrolling did 2007-2008. I Accidentally <noun>? Yo dawg? Place your bets now!*
 
 <!-- xkcd:end -->
 
