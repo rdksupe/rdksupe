@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rebuttals](https://imgs.xkcd.com/comics/rebuttals.png)](https://xkcd.com/2857/)
+[![Venting](https://imgs.xkcd.com/comics/venting.png)](https://xkcd.com/406/)
 
-*The mainstream dogma sparked a wave of dogmatic revisionism, and this revisionist mainstream dogmatism has now given way to a more rematic mainvisionist dogstream.*
+*P.P.S. I can kill you with my brain.*
 
 <!-- xkcd:end -->
 
