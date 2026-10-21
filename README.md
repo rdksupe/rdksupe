@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Coordinate Plane Closure](https://imgs.xkcd.com/comics/coordinate_plane_closure.png)](https://xkcd.com/2735/)
+[![SkiFree](https://imgs.xkcd.com/comics/skifree.png)](https://xkcd.com/667/)
 
-*3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space.*
+*And from that day on, I wore this little 'F' key pendant everywhere I went.*
 
 <!-- xkcd:end -->
 
