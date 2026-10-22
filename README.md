@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tag Combination](https://imgs.xkcd.com/comics/tag_combination.png)](https://xkcd.com/575/)
+[![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)](https://xkcd.com/3309/)
 
-*I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her / (Too ra loo ra too ra loo rye ayy)*
+*People out here catching strays out here catching strays*
 
 <!-- xkcd:end -->
 
