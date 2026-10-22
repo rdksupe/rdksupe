@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dogcatcher](https://imgs.xkcd.com/comics/dogcatcher.png)](https://xkcd.com/3309/)
+[![Juno](https://imgs.xkcd.com/comics/juno.png)](https://xkcd.com/1703/)
 
-*People out here catching strays out here catching strays*
+*"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."*
 
 <!-- xkcd:end -->
 
