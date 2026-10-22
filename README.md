@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)](https://xkcd.com/3310/)
+[![Tag Combination](https://imgs.xkcd.com/comics/tag_combination.png)](https://xkcd.com/575/)
 
-*Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.*
+*I love Eileen / and want you to love her / When you're around / I'm one floor above her / If you could see / just how much I adore her / Oh, that pretty red dress / I'd do anything for her / (Too ra loo ra too ra loo rye ayy)*
 
 <!-- xkcd:end -->
 
