@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![SkiFree](https://imgs.xkcd.com/comics/skifree.png)](https://xkcd.com/667/)
+[![Rejected Space Mission Profiles](https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png)](https://xkcd.com/3310/)
 
-*And from that day on, I wore this little 'F' key pendant everywhere I went.*
+*Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet.*
 
 <!-- xkcd:end -->
 
