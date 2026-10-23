@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![No One Must Know](https://imgs.xkcd.com/comics/no_one_must_know.png)](https://xkcd.com/515/)
+[![Brain Worms](https://imgs.xkcd.com/comics/brain_worms.png)](https://xkcd.com/719/)
 
-*Or perhaps they knew he was there, and were just trying to torment him first.*
+*Hey, it says here that if you dream about your teeth falling out, it means they're spreading.*
 
 <!-- xkcd:end -->
 
