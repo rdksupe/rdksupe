@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brain Worms](https://imgs.xkcd.com/comics/brain_worms.png)](https://xkcd.com/719/)
+[![Tones](https://imgs.xkcd.com/comics/tones.png)](https://xkcd.com/479/)
 
-*Hey, it says here that if you dream about your teeth falling out, it means they're spreading.*
+*I need a lawn, so I can yell at kids to stay off it.*
 
 <!-- xkcd:end -->
 
