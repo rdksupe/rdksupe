@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Juno](https://imgs.xkcd.com/comics/juno.png)](https://xkcd.com/1703/)
+[![No One Must Know](https://imgs.xkcd.com/comics/no_one_must_know.png)](https://xkcd.com/515/)
 
-*"The name wasn't a tip-off?" "Honestly, at first I thought you were saying 'Juneau'. A gravity assist seemed like a weird way to get to Alaska, but I figured it must be more efficient or something."*
+*Or perhaps they knew he was there, and were just trying to torment him first.*
 
 <!-- xkcd:end -->
 
