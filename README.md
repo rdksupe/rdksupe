@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Tones](https://imgs.xkcd.com/comics/tones.png)](https://xkcd.com/479/)
+[![Error Types](https://imgs.xkcd.com/comics/error_types.png)](https://xkcd.com/2303/)
 
-*I need a lawn, so I can yell at kids to stay off it.*
+*Type IIII error: Mistaking tally marks for Roman numerals*
 
 <!-- xkcd:end -->
 
