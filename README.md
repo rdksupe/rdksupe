@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Error Types](https://imgs.xkcd.com/comics/error_types.png)](https://xkcd.com/2303/)
+[![Voyager Wires](https://imgs.xkcd.com/comics/voyager_wires.png)](https://xkcd.com/2624/)
 
-*Type IIII error: Mistaking tally marks for Roman numerals*
+*Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.*
 
 <!-- xkcd:end -->
 
