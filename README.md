@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![About 20 Pounds](https://imgs.xkcd.com/comics/about_20_pounds.png)](https://xkcd.com/3085/)
+[![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)](https://xkcd.com/3298/)
 
-*In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.*
+*Someday, we will find the problem that goes with this solution.*
 
 <!-- xkcd:end -->
 
