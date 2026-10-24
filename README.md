@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Voyager Wires](https://imgs.xkcd.com/comics/voyager_wires.png)](https://xkcd.com/2624/)
+[![Like I'm Five](https://imgs.xkcd.com/comics/like_im_five.png)](https://xkcd.com/1364/)
 
-*Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.*
+*'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'*
 
 <!-- xkcd:end -->
 
