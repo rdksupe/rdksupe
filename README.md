@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Like I'm Five](https://imgs.xkcd.com/comics/like_im_five.png)](https://xkcd.com/1364/)
+[![About 20 Pounds](https://imgs.xkcd.com/comics/about_20_pounds.png)](https://xkcd.com/3085/)
 
-*'Am I taking care of you? I have a thesis to write!' 'My parents are at their house; you visited last--' 'No, no, explain like you're five.'*
+*In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity.*
 
 <!-- xkcd:end -->
 

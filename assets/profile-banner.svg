@@ -3,14 +3,6 @@
   <defs>
     <style>
 
-      .wave-body { transform-origin: 7.5px 15px; animation: wave-idle 2s infinite ease-in-out; }
-      .wave-shadow { transform-origin: 7.5px 15.5px; animation: wave-shadow 2s infinite ease-in-out; }
-      .wave-arm { transform-origin: 13px 9px; animation: arm-wave 0.4s infinite alternate ease-in-out; }
-      .wave-eyes { transform-origin: 7.5px 8px; animation: wave-blink 3s infinite; }
-      @keyframes wave-idle { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-1px); } }
-      @keyframes wave-shadow { 0%, 100% { transform: scaleX(1); opacity: 0.5; } 50% { transform: scaleX(0.9); opacity: 0.4; } }
-      @keyframes arm-wave { 0% { transform: rotate(-30deg); } 100% { transform: rotate(-70deg); } }
-      @keyframes wave-blink { 0%, 43%, 57%, 100% { transform: scaleY(1); } 50% { transform: scaleY(0.1); } }
       @keyframes rain-fall { 0% { transform: translateY(-15px); opacity: 0.6; } 100% { transform: translateY(20px); opacity: 0; } }
       .bubble { animation: bubble-pulse 2s infinite ease-in-out; }
       @keyframes bubble-pulse { 0%, 100% { opacity: 0.75; } 50% { opacity: 1; } }
@@ -30,40 +22,43 @@
     </style>
   </defs>
 
-  <rect x="0" y="0" width="560" height="160" rx="8" fill="#2a3548"/>
+  <rect x="0" y="0" width="560" height="160" rx="8" fill="#12121f"/>
   <rect class="lightning" x="0" y="0" width="560" height="160" rx="8" fill="#fff" opacity="0"/>
 
   <ellipse cx="60" cy="26" rx="50" ry="14" fill="#3a3945" opacity="0.45"/>
   <ellipse cx="500" cy="28" rx="48" ry="13" fill="#3a3945" opacity="0.45"/>
   <ellipse cx="280" cy="20" rx="70" ry="16" fill="#3a3945" opacity="0.32"/>
 
-  <circle cx="480" cy="32" r="16" fill="#FFD166" opacity="0.9"/>
-  <circle cx="480" cy="32" r="22" fill="#FFD166" opacity="0.15"/>
+  <circle cx="470" cy="30" r="12" fill="#E8E8F0" opacity="0.85"/>
+  <circle cx="476" cy="27" r="10" fill="#12121f" opacity="1"/>  <circle cx="40" cy="22" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="120" cy="14" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="200" cy="28" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="320" cy="18" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="420" cy="24" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="500" cy="12" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="80" cy="36" r="1" fill="#fff" opacity="0.55"/>
+  <circle cx="460" cy="34" r="1" fill="#fff" opacity="0.55"/>
 
-  <ellipse cx="280" cy="148" rx="170" ry="7" fill="#6a9ec7" opacity="0.08"/>
+  <ellipse cx="280" cy="148" rx="170" ry="7" fill="#5a7a97" opacity="0.08"/>
 
   <g transform="translate(242, 68) scale(5)">
 
-    <rect class="wave-shadow" x="3" y="15" width="9" height="1" fill="#000" opacity="0.5"/>
-    <g class="wave-body">
-      <g fill="#DE886D">
-        <rect x="3" y="13" width="1" height="2"/><rect x="5" y="13" width="1" height="2"/>
-        <rect x="9" y="13" width="1" height="2"/><rect x="11" y="13" width="1" height="2"/>
-        <rect x="2" y="6" width="11" height="7"/>
-        <rect x="0" y="9" width="2" height="2"/>
-        <g class="wave-arm">
-          <rect x="13" y="7" width="2" height="2"/>
-        </g>
-      </g>
-      <g class="wave-eyes" fill="#000">
-        <rect x="4" y="8" width="1" height="2"/><rect x="10" y="8" width="1" height="2"/>
-      </g>
+    <rect x="3" y="15" width="9" height="1" fill="#000" opacity="0.35"/>
+    <g fill="#DE886D">
+      <rect x="3" y="13" width="1" height="2"/><rect x="5" y="13" width="1" height="2"/>
+      <rect x="9" y="13" width="1" height="2"/><rect x="11" y="13" width="1" height="2"/>
+      <rect x="2" y="8" width="11" height="5"/>
+      <rect x="0" y="10" width="2" height="2"/><rect x="13" y="10" width="2" height="2"/>
     </g>
+    <g fill="#000" opacity="0.7">
+      <rect x="4" y="10" width="2" height="1"/><rect x="9" y="10" width="2" height="1"/>
+    </g>
+    <text x="7.5" y="6" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="3">z</text>
   </g>
 
   <g class="bubble">
-    <rect x="350" y="36" width="86" height="34" rx="11" fill="#2a3548" stroke="#DE886D" stroke-width="1.5"/>
-    <polygon points="352,64 360,64 346,76" fill="#2a3548" stroke="#DE886D" stroke-width="1"/>
+    <rect x="350" y="36" width="86" height="34" rx="11" fill="#12121f" stroke="#DE886D" stroke-width="1.5"/>
+    <polygon points="352,64 360,64 346,76" fill="#12121f" stroke="#DE886D" stroke-width="1"/>
     <text x="393" y="59" text-anchor="middle" fill="#DE886D" font-family="monospace" font-size="14" font-weight="bold">meow~!</text>
   </g>
 </svg>
