@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![FPS Mod](https://imgs.xkcd.com/comics/fps_mod.png)](https://xkcd.com/873/)
+[![Y-Axis](https://imgs.xkcd.com/comics/y_axis.png)](https://xkcd.com/2023/)
 
-*Wait, that second one is a woman? ... wait, if that bothers me, then why doesn't ... man, this game is no fun anymore.*
+*We've also developed the semi-semi-log scale, where the Y-axis for the left half of the graph is a log scale but on the right half it isn't.*
 
 <!-- xkcd:end -->
 
