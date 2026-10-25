@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Aerospace Flowchart](https://imgs.xkcd.com/comics/aerospace_flowchart.png)](https://xkcd.com/3298/)
+[![Digital Data](https://imgs.xkcd.com/comics/digital_data.png)](https://xkcd.com/1683/)
 
-*Someday, we will find the problem that goes with this solution.*
+*â€œIf you can read this, congratulationsâ€”the archive youâ€™re using still knows about the mouseover textâ€!*
 
 <!-- xkcd:end -->
 
