@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Y-Axis](https://imgs.xkcd.com/comics/y_axis.png)](https://xkcd.com/2023/)
+[![Alignment Chart Alignment Chart](https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png)](https://xkcd.com/2251/)
 
-*We've also developed the semi-semi-log scale, where the Y-axis for the left half of the graph is a log scale but on the right half it isn't.*
+*I would describe my personal alignment as "lawful heterozygous silty liquid."*
 
 <!-- xkcd:end -->
 
