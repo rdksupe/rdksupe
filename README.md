@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Inflection](https://imgs.xkcd.com/comics/inflection.png)](https://xkcd.com/1709/)
+[![Thread](https://imgs.xkcd.com/comics/thread.png)](https://xkcd.com/1893/)
 
-*"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."*
+*Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.*
 
 <!-- xkcd:end -->
 
