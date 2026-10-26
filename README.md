@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Flying Cars](https://imgs.xkcd.com/comics/flying_cars.png)](https://xkcd.com/864/)
+[![The Flake Equation](https://imgs.xkcd.com/comics/the_flake_equation.png)](https://xkcd.com/718/)
 
-*It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.*
+*Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.*
 
 <!-- xkcd:end -->
 
