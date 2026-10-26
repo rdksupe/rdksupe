@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Alignment Chart Alignment Chart](https://imgs.xkcd.com/comics/alignment_chart_alignment_chart.png)](https://xkcd.com/2251/)
+[![Flying Cars](https://imgs.xkcd.com/comics/flying_cars.png)](https://xkcd.com/864/)
 
-*I would describe my personal alignment as "lawful heterozygous silty liquid."*
+*It's hard to fit in the backseat of my flying car with my android Realdoll when we're both wearing jetpacks.*
 
 <!-- xkcd:end -->
 
