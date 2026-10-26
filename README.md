@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![The Flake Equation](https://imgs.xkcd.com/comics/the_flake_equation.png)](https://xkcd.com/718/)
+[![Inflection](https://imgs.xkcd.com/comics/inflection.png)](https://xkcd.com/1709/)
 
-*Statistics suggest that there should be tons of alien encounter stories, and in practice there are tons of alien encounter stories. This is known as Fermi's Lack-of-a-Paradox.*
+*"Or maybe, because we're suddenly having so many conversations through written text, we'll start relying MORE on altered spelling to indicate meaning!" "Wat."*
 
 <!-- xkcd:end -->
 
