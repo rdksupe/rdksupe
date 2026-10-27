@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thread](https://imgs.xkcd.com/comics/thread.png)](https://xkcd.com/1893/)
+[![Wake Up Sheeple](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/)
 
-*Since the current Twitter threadfall kicked off in early 2016, we can expect it to continue until the mid 2060s when the next Interval begins.*
+*You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.*
 
 <!-- xkcd:end -->
 
