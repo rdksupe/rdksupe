@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Wake Up Sheeple](https://imgs.xkcd.com/comics/wake_up_sheeple.png)](https://xkcd.com/1013/)
+[![Percentage Points](https://imgs.xkcd.com/comics/percentage_points.png)](https://xkcd.com/985/)
 
-*You will be led to judgement like lambs to the slaughter--a simile whose existence, I might add, will not do your species any favors.*
+*Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.*
 
 <!-- xkcd:end -->
 
