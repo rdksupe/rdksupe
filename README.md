@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Percentage Points](https://imgs.xkcd.com/comics/percentage_points.png)](https://xkcd.com/985/)
+[![Election Night](https://imgs.xkcd.com/comics/election_night.png)](https://xkcd.com/2068/)
 
-*Grayton also proposed making college scholarships available exclusively to sexually active teens, amnesty for illegal immigrants who create room for themselves by killing a citizen, and a graduated income tax based on penis size. He has been endorsed by Tracy Morgan, John Wilkes Booth's ghost, and the Time Cube guy.*
+*"Even the blind—those who are anxious to hear, but are not able to see—will be taken care of. Immense megaphones have been constructed and will be in use at The Tribune office and in the Coliseum. The one at the Coliseum will be operated by a gentleman who draws $60 a week from Barnum & Bailey's circus for the use of his voice."*
 
 <!-- xkcd:end -->
 
