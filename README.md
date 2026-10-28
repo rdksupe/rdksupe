@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Keyed](https://imgs.xkcd.com/comics/keyed.png)](https://xkcd.com/1030/)
+[![Debunking](https://imgs.xkcd.com/comics/debunking.png)](https://xkcd.com/2551/)
 
-*I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.*
+*Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.*
 
 <!-- xkcd:end -->
 
