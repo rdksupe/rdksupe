@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Debunking](https://imgs.xkcd.com/comics/debunking.png)](https://xkcd.com/2551/)
+[![Windows 7](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/)
 
-*Mark Zuckerberg has only neutral feelings toward Peppa Pig, who he understands is a fictional character, and he blames the coronavirus pandemic on other factors.*
+*Disclaimer: I have not actually tried the beta yet. I hear it's quite pleasant and hardly Hitler-y at all.*
 
 <!-- xkcd:end -->
 
