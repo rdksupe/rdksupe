@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Windows 7](https://imgs.xkcd.com/comics/windows_7.png)](https://xkcd.com/528/)
+[![Chess Enlightenment](https://imgs.xkcd.com/comics/chess_enlightenment.png)](https://xkcd.com/232/)
 
-*Disclaimer: I have not actually tried the beta yet. I hear it's quite pleasant and hardly Hitler-y at all.*
+*You know that 'sweep the pieces off the board and see it in your mind' thing? Doesn't work.*
 
 <!-- xkcd:end -->
 
