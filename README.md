@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Sunshield](https://imgs.xkcd.com/comics/sunshield.png)](https://xkcd.com/2564/)
+[![Keyed](https://imgs.xkcd.com/comics/keyed.png)](https://xkcd.com/1030/)
 
-*RIP the surface of Mars*
+*I was sure he was just getting revenge, but then he did the same thing to Carrie Underwood. Then he mailed me a scone. I think I'm giving up dating.*
 
 <!-- xkcd:end -->
 
