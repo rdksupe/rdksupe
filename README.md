@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Super Bowl](https://imgs.xkcd.com/comics/super_bowl.jpg)](https://xkcd.com/60/)
+[![Red Spiders Cometh](https://imgs.xkcd.com/comics/red_spiders_cometh.jpg)](https://xkcd.com/126/)
 
-*The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose. The 'watch it for the ads' addition was a master stroke.*
+*Uh-oh.*
 
 <!-- xkcd:end -->
 
