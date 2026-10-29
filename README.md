@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Journal 4](https://imgs.xkcd.com/comics/journal_4.png)](https://xkcd.com/432/)
+[![Super Bowl](https://imgs.xkcd.com/comics/super_bowl.jpg)](https://xkcd.com/60/)
 
-*Man, this emo shit was supposed to be for people who didn't have hats.*
+*The Super Bowl is actually an elaborate ruse, concocted by a shadowy group in the mid sixties for this purpose. The 'watch it for the ads' addition was a master stroke.*
 
 <!-- xkcd:end -->
 
