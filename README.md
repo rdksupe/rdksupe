@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Chess Enlightenment](https://imgs.xkcd.com/comics/chess_enlightenment.png)](https://xkcd.com/232/)
+[![Journal 4](https://imgs.xkcd.com/comics/journal_4.png)](https://xkcd.com/432/)
 
-*You know that 'sweep the pieces off the board and see it in your mind' thing? Doesn't work.*
+*Man, this emo shit was supposed to be for people who didn't have hats.*
 
 <!-- xkcd:end -->
 
