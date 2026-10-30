@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Delivery](https://imgs.xkcd.com/comics/delivery.png)](https://xkcd.com/431/)
+[![Childhood Toys](https://imgs.xkcd.com/comics/childhood_toys.png)](https://xkcd.com/2603/)
 
-*Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery! Ha ha, get it? Oh God, don't throw those syringes! Your baby's fine!*
+*The rope keeps breaking, I'm covered in bruises and scrapes, and I've barely reached the end of my driveway, but I don't care--I'm determined to become the first person to commute to work by tetherball.*
 
 <!-- xkcd:end -->
 
