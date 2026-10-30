@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Red Spiders Cometh](https://imgs.xkcd.com/comics/red_spiders_cometh.jpg)](https://xkcd.com/126/)
+[![Water Delivery](https://imgs.xkcd.com/comics/water_delivery.png)](https://xkcd.com/1599/)
 
-*Uh-oh.*
+*When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.*
 
 <!-- xkcd:end -->
 
