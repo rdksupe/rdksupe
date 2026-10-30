@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Water Delivery](https://imgs.xkcd.com/comics/water_delivery.png)](https://xkcd.com/1599/)
+[![Delivery](https://imgs.xkcd.com/comics/delivery.png)](https://xkcd.com/431/)
 
-*When I was a kid, I asked my parents why our houses didn't have toothpaste pipes in addition to water ones. I'm strangely pleased to see Amazon thinking the same way.*
+*Ma'am, I admit that wasn't in the best taste, but you have to admire my delivery! Ha ha, get it? Oh God, don't throw those syringes! Your baby's fine!*
 
 <!-- xkcd:end -->
 
