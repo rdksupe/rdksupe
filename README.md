@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Heartbleed Explanation](https://imgs.xkcd.com/comics/heartbleed_explanation.png)](https://xkcd.com/1354/)
+[![JPEG2000](https://imgs.xkcd.com/comics/jpeg2000.png)](https://xkcd.com/2254/)
 
-*Are you still there, server? It's me, Margaret.*
+*I was actually a little relieved when I learned that JPEG2000 was used in the DCI digital cinema standard. I was feeling so bad for it!*
 
 <!-- xkcd:end -->
 
