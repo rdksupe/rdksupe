@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Walking Into Things](https://imgs.xkcd.com/comics/walking_into_things.png)](https://xkcd.com/1710/)
+[![Heartbleed Explanation](https://imgs.xkcd.com/comics/heartbleed_explanation.png)](https://xkcd.com/1354/)
 
-*A childhood spent walking while reading books has prepared me unexpectedly well for today's world.*
+*Are you still there, server? It's me, Margaret.*
 
 <!-- xkcd:end -->
 
