@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Vows](https://imgs.xkcd.com/comics/vows.png)](https://xkcd.com/1100/)
+[![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)](https://xkcd.com/3252/)
 
-*So, um. Do you want to get a drink after the game?*
+*SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.*
 
 <!-- xkcd:end -->
 
