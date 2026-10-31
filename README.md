@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Ancestral Genomes](https://imgs.xkcd.com/comics/ancestral_genomes.png)](https://xkcd.com/3252/)
+[![Walking Into Things](https://imgs.xkcd.com/comics/walking_into_things.png)](https://xkcd.com/1710/)
 
-*SUGGESTIONS FOR FUTURE RESEARCH: No further research is needed as it is frankly none of our business.*
+*A childhood spent walking while reading books has prepared me unexpectedly well for today's world.*
 
 <!-- xkcd:end -->
 
