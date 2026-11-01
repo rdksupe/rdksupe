@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![JPEG2000](https://imgs.xkcd.com/comics/jpeg2000.png)](https://xkcd.com/2254/)
+[![I'm With Her](https://imgs.xkcd.com/comics/im_with_her.png)](https://xkcd.com/1756/)
 
-*I was actually a little relieved when I learned that JPEG2000 was used in the DCI digital cinema standard. I was feeling so bad for it!*
+*We can do this.*
 
 <!-- xkcd:end -->
 
