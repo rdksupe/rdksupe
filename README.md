@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brookhaven RHIC](https://imgs.xkcd.com/comics/brookhaven_rhic.png)](https://xkcd.com/2007/)
+[![Balloon Internet](https://imgs.xkcd.com/comics/balloon_internet.png)](https://xkcd.com/1226/)
 
-*"Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"*
+*I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.*
 
 <!-- xkcd:end -->
 
