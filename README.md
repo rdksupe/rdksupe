@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![I'm With Her](https://imgs.xkcd.com/comics/im_with_her.png)](https://xkcd.com/1756/)
+[![Brookhaven RHIC](https://imgs.xkcd.com/comics/brookhaven_rhic.png)](https://xkcd.com/2007/)
 
-*We can do this.*
+*"Buddy, you trying to pull something? I can't buy this gold--all the electrons are missing. I could face serious charges!"*
 
 <!-- xkcd:end -->
 
