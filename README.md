@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Balloon Internet](https://imgs.xkcd.com/comics/balloon_internet.png)](https://xkcd.com/1226/)
+[![MC Hammer Age](https://imgs.xkcd.com/comics/mc_hammer_age.png)](https://xkcd.com/1995/)
 
-*I run a business selling rural internet access. My infrastructure consists of a bunch of Verizon wifi hotspots that I sign up for and then cancel at the end of the 14-day return period.*
+*Wait, sorry, I got mixed up--he's actually almost 50. It's the kid from The Karate Kid who just turned 40.*
 
 <!-- xkcd:end -->
 
