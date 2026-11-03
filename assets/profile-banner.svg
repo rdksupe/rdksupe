@@ -31,12 +31,10 @@
   <rect x="0" y="0" width="560" height="160" rx="8" fill="#181825"/>
   <rect class="lightning" x="0" y="0" width="560" height="160" rx="8" fill="#fff" opacity="0"/>
 
-  <ellipse cx="60" cy="26" rx="50" ry="14" fill="#3a3945" opacity="0.45"/>
-  <ellipse cx="500" cy="28" rx="48" ry="13" fill="#3a3945" opacity="0.45"/>
-  <ellipse cx="280" cy="20" rx="70" ry="16" fill="#3a3945" opacity="0.32"/>
-
-  <circle cx="470" cy="30" r="12" fill="#E8E8F0" opacity="0.85"/>
-  <circle cx="476" cy="27" r="10" fill="#181825" opacity="1"/>  <circle cx="40" cy="22" r="1" fill="#fff" opacity="0.55"/>
+  <ellipse cx="60" cy="26" rx="50" ry="14" fill="#3a3945" opacity="0.65"/>
+  <ellipse cx="500" cy="28" rx="48" ry="13" fill="#3a3945" opacity="0.65"/>
+  <ellipse cx="280" cy="20" rx="70" ry="16" fill="#3a3945" opacity="0.45"/>
+  <circle cx="40" cy="22" r="1" fill="#fff" opacity="0.55"/>
   <circle cx="120" cy="14" r="1" fill="#fff" opacity="0.55"/>
   <circle cx="200" cy="28" r="1" fill="#fff" opacity="0.55"/>
   <circle cx="320" cy="18" r="1" fill="#fff" opacity="0.55"/>
@@ -46,6 +44,10 @@
   <circle cx="460" cy="34" r="1" fill="#fff" opacity="0.55"/>
   <rect class="rain1" x="20" y="14" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
   <rect class="rain2" x="51" y="21" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
+  <rect class="rain3" x="82" y="28" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
+  <rect class="rain4" x="113" y="17" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
+  <rect class="rain5" x="144" y="24" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
+  <rect class="rain6" x="175" y="31" width="1.5" height="4" fill="#5a7a97" opacity="0.45"/>
   <ellipse cx="280" cy="148" rx="170" ry="7" fill="#5a7a97" opacity="0.08"/>
 
   <g transform="translate(242, 68) scale(5)">

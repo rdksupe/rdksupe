@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cubesat Launch](https://imgs.xkcd.com/comics/cubesat_launch.png)](https://xkcd.com/2148/)
+[![Incognito Mode](https://imgs.xkcd.com/comics/incognito_mode.png)](https://xkcd.com/1817/)
 
-*Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.*
+*They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"*
 
 <!-- xkcd:end -->
 
