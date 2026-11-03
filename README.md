@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Starwatching](https://imgs.xkcd.com/comics/starwatching.png)](https://xkcd.com/428/)
+[![Cubesat Launch](https://imgs.xkcd.com/comics/cubesat_launch.png)](https://xkcd.com/2148/)
 
-*I always figured the word 'blog' would sound *less* silly as the years went by.*
+*Luckily, the damages were partly offset by the prize money we got from accidentally winning the nearby water skiing championship tournament.*
 
 <!-- xkcd:end -->
 
