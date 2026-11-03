@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Future](https://imgs.xkcd.com/comics/future.png)](https://xkcd.com/338/)
+[![Starwatching](https://imgs.xkcd.com/comics/starwatching.png)](https://xkcd.com/428/)
 
-*But the past was much too cramped!*
+*I always figured the word 'blog' would sound *less* silly as the years went by.*
 
 <!-- xkcd:end -->
 
