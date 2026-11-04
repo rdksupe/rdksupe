@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)](https://xkcd.com/3192/)
+[![Robotic Garage](https://imgs.xkcd.com/comics/robotic_garage.png)](https://xkcd.com/1651/)
 
-*We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?*
+*But listen, if getting your car out from under the pile is REALLY important to you, we do have an axe you can borrow.*
 
 <!-- xkcd:end -->
 
