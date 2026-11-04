@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Incognito Mode](https://imgs.xkcd.com/comics/incognito_mode.png)](https://xkcd.com/1817/)
+[![Planetary Alignment](https://imgs.xkcd.com/comics/planetary_alignment.png)](https://xkcd.com/3192/)
 
-*They're really the worst tech support team. And their solutions are always the same. "This OS X update broke something." "LET'S INFILTRATE APPLE BY MORPHING APPLES!"*
+*We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?*
 
 <!-- xkcd:end -->
 
