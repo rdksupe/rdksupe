@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![President Venn Diagram](https://imgs.xkcd.com/comics/president_venn_diagram.png)](https://xkcd.com/2962/)
+[![First Thing](https://imgs.xkcd.com/comics/first_thing.png)](https://xkcd.com/2404/)
 
-*Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'*
+*Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.*
 
 <!-- xkcd:end -->
 
