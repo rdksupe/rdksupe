@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Rock](https://imgs.xkcd.com/comics/rock.png)](https://xkcd.com/2013/)
+[![President Venn Diagram](https://imgs.xkcd.com/comics/president_venn_diagram.png)](https://xkcd.com/2962/)
 
-*It traveled so far to reach me. I owed it my best.*
+*Hard to imagine political rhetoric more microtargeted at me than 'I love Venn diagrams. I really do, I love Venn diagrams. It's just something about those three circles.'*
 
 <!-- xkcd:end -->
 
