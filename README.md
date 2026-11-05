@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![First Thing](https://imgs.xkcd.com/comics/first_thing.png)](https://xkcd.com/2404/)
+[![Walkthrough](https://imgs.xkcd.com/comics/walkthrough.png)](https://xkcd.com/744/)
 
-*Then I'm going to go on a weeks-long somatic hypermutation bender, producing ever-more targeted antibodies, while I continue to remain distanced and follow guidance from public health authorities.*
+*There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."*
 
 <!-- xkcd:end -->
 
