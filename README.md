@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Europa Clipper](https://imgs.xkcd.com/comics/europa_clipper.png)](https://xkcd.com/3011/)
+[![Beamsplitters](https://imgs.xkcd.com/comics/beamsplitters.png)](https://xkcd.com/2991/)
 
-*They had BETTER make this a sample return mission.*
+*Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.*
 
 <!-- xkcd:end -->
 
