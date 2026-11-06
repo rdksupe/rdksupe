@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Walkthrough](https://imgs.xkcd.com/comics/walkthrough.png)](https://xkcd.com/744/)
+[![Laptop Hell](https://imgs.xkcd.com/comics/laptop_hell.png)](https://xkcd.com/533/)
 
-*There's nothing hotter than porn dubbed over with a poorly-mic'd teenager's voice explaining each step in a droning monotone. 'okay, we're almost at the spawn point ... separate the labia, but watch out, there are more inside them ..."*
+*The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps. Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS*
 
 <!-- xkcd:end -->
 
