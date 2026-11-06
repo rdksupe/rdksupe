@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Laptop Hell](https://imgs.xkcd.com/comics/laptop_hell.png)](https://xkcd.com/533/)
+[![Europa Clipper](https://imgs.xkcd.com/comics/europa_clipper.png)](https://xkcd.com/3011/)
 
-*The xkcd.com sysadmin has a Q2010, and I can attest that it can handle a fall down several flight of concrete steps. Relatedly, he's upset with me -- I hope he doesn't take revenge by messing with my site's contenDISREGARD THAT I SUCK COCKS*
+*They had BETTER make this a sample return mission.*
 
 <!-- xkcd:end -->
 
