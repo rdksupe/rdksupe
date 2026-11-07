@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![I Don't Own a TV](https://imgs.xkcd.com/comics/i_dont_own_a_tv.png)](https://xkcd.com/1299/)
+[![Amperage](https://imgs.xkcd.com/comics/amperage.png)](https://xkcd.com/3211/)
 
-*Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.*
+*Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?*
 
 <!-- xkcd:end -->
 
