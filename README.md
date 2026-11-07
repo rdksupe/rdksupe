@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Beamsplitters](https://imgs.xkcd.com/comics/beamsplitters.png)](https://xkcd.com/2991/)
+[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
 
-*Under quantum tax law, photons sent through a beamsplitter don't actually choose which path they took, or incur a tax burden, until their wavefunction collapses when the power is sold.*
+*If nothing else, that reasoning definitely overturns syllogisms.*
 
 <!-- xkcd:end -->
 
