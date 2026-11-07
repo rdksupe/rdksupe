@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Physics Paths](https://imgs.xkcd.com/comics/physics_paths.png)](https://xkcd.com/3155/)
+[![I Don't Own a TV](https://imgs.xkcd.com/comics/i_dont_own_a_tv.png)](https://xkcd.com/1299/)
 
-*If nothing else, that reasoning definitely overturns syllogisms.*
+*Theory: Smugness is proportional to the negative second derivative of TV ownership rate with respect to time.*
 
 <!-- xkcd:end -->
 
