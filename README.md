@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Boathouses and Houseboats](https://imgs.xkcd.com/comics/boathouses_and_houseboats.png)](https://xkcd.com/2043/)
+[![Brick Archway](https://imgs.xkcd.com/comics/brick_archway.png)](https://xkcd.com/347/)
 
-*The <x> that is held by <y> is also a <y><x>, so if you go to a food truck, the stuff you buy is truck food. A phone that's in your car is a carphone, and a car equipped with a phone is a phonecar. When you play a mobile racing game, you're in your phonecar using your carphone to drive a different phonecar. I'm still not sure about bananaphones.*
+*The TI-86 was bad enough. I don't know how I'd have gotten through high school if I'd had a laptop+wifi.*
 
 <!-- xkcd:end -->
 
