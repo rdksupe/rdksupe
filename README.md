@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Amperage](https://imgs.xkcd.com/comics/amperage.png)](https://xkcd.com/3211/)
+[![Physics Suppression](https://imgs.xkcd.com/comics/physics_suppression.png)](https://xkcd.com/2113/)
 
-*Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?*
+*If physics had a mafia, I'm pretty sure the BICEP2 mess would have ended in bloodshed.*
 
 <!-- xkcd:end -->
 
