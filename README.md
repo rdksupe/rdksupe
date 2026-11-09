@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png)](https://xkcd.com/3317/)
+[![Appliances](https://imgs.xkcd.com/comics/appliances.png)](https://xkcd.com/2420/)
 
-*Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.*
+*If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.*
 
 <!-- xkcd:end -->
 
