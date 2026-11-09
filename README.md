@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Brick Archway](https://imgs.xkcd.com/comics/brick_archway.png)](https://xkcd.com/347/)
+[![Gravitational Square Wave](https://imgs.xkcd.com/comics/gravitational_square_wave.png)](https://xkcd.com/3317/)
 
-*The TI-86 was bad enough. I don't know how I'd have gotten through high school if I'd had a laptop+wifi.*
+*Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth.*
 
 <!-- xkcd:end -->
 
