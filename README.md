@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Appliances](https://imgs.xkcd.com/comics/appliances.png)](https://xkcd.com/2420/)
+[![Solar Panel Placement](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812/)
 
-*If you had an oven bag and a dryer that runs unusually hot, I guess you could in theory make tumbled eggs.*
+*Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.*
 
 <!-- xkcd:end -->
 
