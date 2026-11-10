@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Solar Panel Placement](https://imgs.xkcd.com/comics/solar_panel_placement.png)](https://xkcd.com/2812/)
+[![Modeling Study](https://imgs.xkcd.com/comics/modeling_study.png)](https://xkcd.com/2323/)
 
-*Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time.*
+*You've got questions, we've got assumptions.*
 
 <!-- xkcd:end -->
 
