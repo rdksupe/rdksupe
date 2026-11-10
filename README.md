@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Modeling Study](https://imgs.xkcd.com/comics/modeling_study.png)](https://xkcd.com/2323/)
+[![Periodic Table Changes](https://imgs.xkcd.com/comics/periodic_table_changes.png)](https://xkcd.com/2639/)
 
-*You've got questions, we've got assumptions.*
+*It's nice how the end of the periodic table is flush with the edge these days, so I think we should agree no one should find any new elements after #118 unless they discover a whole row at once.*
 
 <!-- xkcd:end -->
 
