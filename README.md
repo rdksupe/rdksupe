@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Europa Missions](https://imgs.xkcd.com/comics/europa_missions.png)](https://xkcd.com/3234/)
+[![Welcome Back](https://imgs.xkcd.com/comics/welcome_back.png)](https://xkcd.com/2615/)
 
-*Before resurfacing, they promise to inspect the ice for any evidence of hockey-playing life.*
+*'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]*
 
 <!-- xkcd:end -->
 
