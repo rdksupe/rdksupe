@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Welcome Back](https://imgs.xkcd.com/comics/welcome_back.png)](https://xkcd.com/2615/)
+[![Things Fall Apart](https://imgs.xkcd.com/comics/things_fall_apart.png)](https://xkcd.com/449/)
 
-*'We're shocked by the Notre Dame fire. Click for our tribute to--' [okay] 'Now that we're all staying at home these past few weeks thanks to this new coronavirus, we--' [okay]*
+*'I'm nothing without you' is a fucked-up sentiment.*
 
 <!-- xkcd:end -->
 
