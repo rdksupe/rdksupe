@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Cautionary](https://imgs.xkcd.com/comics/cautionary.png)](https://xkcd.com/456/)
+[![Prometheus](https://imgs.xkcd.com/comics/prometheus.png)](https://xkcd.com/1228/)
 
-*This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.*
+*'I'm here to return what Prometheus stole.' would be a good thing to say if you were a fighter pilot in a Michael Bay movie where for some reason the world's militaries had to team up to defeat every god from human mythology, and you'd just broken through the perimeter and gotten a missile lock on Mount Olympus.*
 
 <!-- xkcd:end -->
 
