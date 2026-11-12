@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Traffic Lights](https://imgs.xkcd.com/comics/traffic_lights.gif)](https://xkcd.com/1116/)
+[![Cautionary](https://imgs.xkcd.com/comics/cautionary.png)](https://xkcd.com/456/)
 
-*There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.*
+*This really is a true story, and she doesn't know I put it in my comic because her wifi hasn't worked for weeks.*
 
 <!-- xkcd:end -->
 
