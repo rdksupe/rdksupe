@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Things Fall Apart](https://imgs.xkcd.com/comics/things_fall_apart.png)](https://xkcd.com/449/)
+[![Traffic Lights](https://imgs.xkcd.com/comics/traffic_lights.gif)](https://xkcd.com/1116/)
 
-*'I'm nothing without you' is a fucked-up sentiment.*
+*There's an intersection I drive through sometimes that has a forward green arrow, a red light, and a 'no turns' sign all on one pole. I honestly have no idea what it's telling me to do.*
 
 <!-- xkcd:end -->
 
