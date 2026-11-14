@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)](https://xkcd.com/3284/)
+[![Doctor's Office](https://imgs.xkcd.com/comics/doctors_office.png)](https://xkcd.com/2850/)
 
-*The administration thinks it's weird, but the geologists say it looks normal.*
+*"The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."*
 
 <!-- xkcd:end -->
 
