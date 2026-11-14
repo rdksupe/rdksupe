@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Comic Fragment](https://imgs.xkcd.com/comics/comic_fragment.jpg)](https://xkcd.com/254/)
+[![Geology Building](https://imgs.xkcd.com/comics/geology_building.png)](https://xkcd.com/3284/)
 
-*No one wants an explanation more than us. Except Ms. Garofalo.*
+*The administration thinks it's weird, but the geologists say it looks normal.*
 
 <!-- xkcd:end -->
 
