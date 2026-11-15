@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Doctor's Office](https://imgs.xkcd.com/comics/doctors_office.png)](https://xkcd.com/2850/)
+[![Compass and Straightedge](https://imgs.xkcd.com/comics/compass_and_straightedge.png)](https://xkcd.com/866/)
 
-*"The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."*
+*The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.*
 
 <!-- xkcd:end -->
 
