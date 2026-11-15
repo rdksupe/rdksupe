@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Analogies](https://imgs.xkcd.com/comics/analogies.png)](https://xkcd.com/762/)
+[![Thermometer](https://imgs.xkcd.com/comics/thermometer.png)](https://xkcd.com/2292/)
 
-*I just call all of them 'synecdoche'.*
+*I hate how many times you have to press it to get to the system normal people use, degrees Rømer.*
 
 <!-- xkcd:end -->
 
