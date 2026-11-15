@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Compass and Straightedge](https://imgs.xkcd.com/comics/compass_and_straightedge.png)](https://xkcd.com/866/)
+[![Analogies](https://imgs.xkcd.com/comics/analogies.png)](https://xkcd.com/762/)
 
-*The Greeks long suspected this, but it wasn't until April 12th of 1882 that Ferdinand von Lindemann conclusively proved it when he constructed himself the most awesome birthday party possible and nobody showed up.*
+*I just call all of them 'synecdoche'.*
 
 <!-- xkcd:end -->
 
