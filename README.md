@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Thermometer](https://imgs.xkcd.com/comics/thermometer.png)](https://xkcd.com/2292/)
+[![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)](https://xkcd.com/3242/)
 
-*I hate how many times you have to press it to get to the system normal people use, degrees Rømer.*
+*Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.*
 
 <!-- xkcd:end -->
 
