@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Aperiodic Table](https://imgs.xkcd.com/comics/aperiodic_table.png)](https://xkcd.com/3242/)
+[![Not Really Into Pokemon](https://imgs.xkcd.com/comics/not_really_into_pokemon.png)](https://xkcd.com/178/)
 
-*Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures.*
+*As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.*
 
 <!-- xkcd:end -->
 
