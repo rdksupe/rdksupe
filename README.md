@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Not Really Into Pokemon](https://imgs.xkcd.com/comics/not_really_into_pokemon.png)](https://xkcd.com/178/)
+[![Scary Names](https://imgs.xkcd.com/comics/scary_names.png)](https://xkcd.com/1242/)
 
-*As of this writing, Ubuntu 6.10 and Firefox 2.0 have left my computer a complete mess.*
+*Far off to the right of the chart is the Helvetica Scenario.*
 
 <!-- xkcd:end -->
 
