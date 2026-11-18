@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Containers](https://imgs.xkcd.com/comics/containers.png)](https://xkcd.com/1988/)
+[![Knights](https://imgs.xkcd.com/comics/knights.png)](https://xkcd.com/1078/)
 
-*All services are microservices if you ignore most of their features.*
+*1. Nf3 ... ↘↘↘ 2. Nc3 ... ↘↘↘ 0-1*
 
 <!-- xkcd:end -->
 
