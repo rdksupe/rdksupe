@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Scary Names](https://imgs.xkcd.com/comics/scary_names.png)](https://xkcd.com/1242/)
+[![Star Wars Spoiler Generator](https://imgs.xkcd.com/comics/star_wars_spoiler_generator.png)](https://xkcd.com/2243/)
 
-*Far off to the right of the chart is the Helvetica Scenario.*
+*The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'*
 
 <!-- xkcd:end -->
 
