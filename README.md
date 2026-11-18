@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Star Wars Spoiler Generator](https://imgs.xkcd.com/comics/star_wars_spoiler_generator.png)](https://xkcd.com/2243/)
+[![Containers](https://imgs.xkcd.com/comics/containers.png)](https://xkcd.com/1988/)
 
-*The heroes seem to be gaining the upper hand until Darth Juul manages to flip the switch on the car wash control panel from 'REGULAR' to 'PREMIUM.'*
+*All services are microservices if you ignore most of their features.*
 
 <!-- xkcd:end -->
 
