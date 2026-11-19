@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Knights](https://imgs.xkcd.com/comics/knights.png)](https://xkcd.com/1078/)
+[![Common Cold](https://imgs.xkcd.com/comics/common_cold.png)](https://xkcd.com/2306/)
 
-*1. Nf3 ... ↘↘↘ 2. Nc3 ... ↘↘↘ 0-1*
+*Not even metapneumovirus, easily the common cold virus with the coolest name, warrants our sympathy. Colds suck. No mercy.*
 
 <!-- xkcd:end -->
 
