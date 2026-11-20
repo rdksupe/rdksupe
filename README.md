@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Dialect Quiz](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372/)
+[![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)](https://xkcd.com/3127/)
 
-*Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?*
+*Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
 
 <!-- xkcd:end -->
 
