@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Where Babies Come From](https://imgs.xkcd.com/comics/where_babies_come_from.png)](https://xkcd.com/3127/)
+[![Pole Vault](https://imgs.xkcd.com/comics/pole_vault.png)](https://xkcd.com/2955/)
 
-*Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.*
+*Ugh, and we JUST went through this yesterday with javelin.*
 
 <!-- xkcd:end -->
 
