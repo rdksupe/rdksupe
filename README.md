@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Common Cold](https://imgs.xkcd.com/comics/common_cold.png)](https://xkcd.com/2306/)
+[![Dialect Quiz](https://imgs.xkcd.com/comics/dialect_quiz.png)](https://xkcd.com/2372/)
 
-*Not even metapneumovirus, easily the common cold virus with the coolest name, warrants our sympathy. Colds suck. No mercy.*
+*Do you make a distinction between shallots, scallops, and scallions? If you use all three words, do they all have different meanings, all the same, or are two the same and one different?*
 
 <!-- xkcd:end -->
 
