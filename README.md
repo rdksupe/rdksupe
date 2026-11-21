@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![I Am Not Good with Boomerangs](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/)
+[![Wikileaks](https://imgs.xkcd.com/comics/wikileaks.png)](https://xkcd.com/834/)
 
-*Bonus strip: just read the rightmost panels straight down.*
+*STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.*
 
 <!-- xkcd:end -->
 
