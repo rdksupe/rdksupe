@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Pole Vault](https://imgs.xkcd.com/comics/pole_vault.png)](https://xkcd.com/2955/)
+[![I Am Not Good with Boomerangs](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/)
 
-*Ugh, and we JUST went through this yesterday with javelin.*
+*Bonus strip: just read the rightmost panels straight down.*
 
 <!-- xkcd:end -->
 
