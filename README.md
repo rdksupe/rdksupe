@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Wikileaks](https://imgs.xkcd.com/comics/wikileaks.png)](https://xkcd.com/834/)
+[![Impostor Syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)](https://xkcd.com/1954/)
 
-*STUDENTS ARE CALLING PRESIDENT JOHNSON EN MASSE TO PROTEST THE BOMBING AND IT'S JAMMED THE WHITE HOUSE SWITCHBOARD. COULD THEY COLLAPSE OUR CRITICAL PHONE SYSTEMS? HAS THE FIRST TELEPHONE WAR BEGUN? STAY TUNED FOR MORE ON THIS DANGEROUS NEW TECHNOLOGY.*
+*It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.*
 
 <!-- xkcd:end -->
 
