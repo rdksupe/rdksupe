@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Trapped](https://imgs.xkcd.com/comics/trapped.png)](https://xkcd.com/876/)
+[![Alternate Histories](https://imgs.xkcd.com/comics/alternate_histories.png)](https://xkcd.com/2149/)
 
-*Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.*
+*"So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."*
 
 <!-- xkcd:end -->
 
