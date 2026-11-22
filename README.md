@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Impostor Syndrome](https://imgs.xkcd.com/comics/impostor_syndrome.png)](https://xkcd.com/1954/)
+[![SUV](https://imgs.xkcd.com/comics/suv.png)](https://xkcd.com/437/)
 
-*It's actually worst in people who study the Dunning–Kruger effect. We tried to organize a conference on it, but the only people who would agree to give the keynote were random undergrads.*
+*Electric skateboards, by cost, get the equivalent of about 300 miles per gallon. Lithium batteries just need to get cheaper.*
 
 <!-- xkcd:end -->
 
