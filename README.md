@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![SUV](https://imgs.xkcd.com/comics/suv.png)](https://xkcd.com/437/)
+[![Trapped](https://imgs.xkcd.com/comics/trapped.png)](https://xkcd.com/876/)
 
-*Electric skateboards, by cost, get the equivalent of about 300 miles per gallon. Lithium batteries just need to get cheaper.*
+*Socrates could've saved himself a lot of trouble if he'd just brought a flashlight, tranquilizer gun, and a bunch of rescue harnesses.*
 
 <!-- xkcd:end -->
 
