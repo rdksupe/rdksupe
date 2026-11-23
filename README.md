@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Alternate Histories](https://imgs.xkcd.com/comics/alternate_histories.png)](https://xkcd.com/2149/)
+[![I Am Not Good with Boomerangs](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/)
 
-*"So their universe wouldn't have the iconic photo of a screaming Truman being hoisted aloft by the newspaper-printing machinery..."*
+*Bonus strip: just read the rightmost panels straight down.*
 
 <!-- xkcd:end -->
 
