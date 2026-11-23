@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![I Am Not Good with Boomerangs](https://imgs.xkcd.com/comics/i_am_not_good_with_boomerangs.png)](https://xkcd.com/445/)
+[![News Story Reaction](https://imgs.xkcd.com/comics/news_story_reaction.png)](https://xkcd.com/2505/)
 
-*Bonus strip: just read the rightmost panels straight down.*
+*Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."*
 
 <!-- xkcd:end -->
 
