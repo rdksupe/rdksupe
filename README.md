@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![News Story Reaction](https://imgs.xkcd.com/comics/news_story_reaction.png)](https://xkcd.com/2505/)
+[![Farads](https://imgs.xkcd.com/comics/farads.png)](https://xkcd.com/3106/)
 
-*Unless the next line is, "After we broke up, she blamed the painting and spent years planning her revenge, so my sorrow is mixed with relief that the dogs at least denied her that triumph."*
+*'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'*
 
 <!-- xkcd:end -->
 
