@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Farads](https://imgs.xkcd.com/comics/farads.png)](https://xkcd.com/3106/)
+[![Polls vs the Street](https://imgs.xkcd.com/comics/polls_vs_the_street.png)](https://xkcd.com/2357/)
 
-*'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'*
+*Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.*
 
 <!-- xkcd:end -->
 
