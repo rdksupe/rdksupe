@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Net Rotations](https://imgs.xkcd.com/comics/net_rotations.png)](https://xkcd.com/2882/)
+[![Oily House Index](https://imgs.xkcd.com/comics/oily_house_index.png)](https://xkcd.com/2327/)
 
-*For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.*
+*We're underwater on our mortgage thanks to the low price of water.*
 
 <!-- xkcd:end -->
 
