@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Polls vs the Street](https://imgs.xkcd.com/comics/polls_vs_the_street.png)](https://xkcd.com/2357/)
+[![Net Rotations](https://imgs.xkcd.com/comics/net_rotations.png)](https://xkcd.com/2882/)
 
-*Other pollsters complain about declining response rates, but our poll showed that 96% of respondents would be 'somewhat likely' or 'very likely' to agree to answer a series of questions for a survey.*
+*For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight.*
 
 <!-- xkcd:end -->
 
