@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Oily House Index](https://imgs.xkcd.com/comics/oily_house_index.png)](https://xkcd.com/2327/)
+[![Stephen and Me](https://imgs.xkcd.com/comics/stephen_and_me.png)](https://xkcd.com/671/)
 
-*We're underwater on our mortgage thanks to the low price of water.*
+*Hey, let go! We were all thinking it! Someone had to speak truth to power!*
 
 <!-- xkcd:end -->
 
