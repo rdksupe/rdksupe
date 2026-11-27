@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Stephen and Me](https://imgs.xkcd.com/comics/stephen_and_me.png)](https://xkcd.com/671/)
+[![Voyager Wires](https://imgs.xkcd.com/comics/voyager_wires.png)](https://xkcd.com/2624/)
 
-*Hey, let go! We were all thinking it! Someone had to speak truth to power!*
+*Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.*
 
 <!-- xkcd:end -->
 
