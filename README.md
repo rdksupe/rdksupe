@@ -16,9 +16,9 @@ Since you're here anyway, might as well enjoy an xkcd, eh?
 
 <!-- xkcd:start -->
 
-[![Voyager Wires](https://imgs.xkcd.com/comics/voyager_wires.png)](https://xkcd.com/2624/)
+[![Dating Pools](https://imgs.xkcd.com/comics/dating_pools.png)](https://xkcd.com/314/)
 
-*Also, they're getting increasingly worried that someone will accidentally hit the 'retract' button, and that the end of the cable thrashing around as it winds up could devastate the Earth's surface.*
+*The full analysis is of course much more complicated, but I can't stay to talk about it because I have a date.*
 
 <!-- xkcd:end -->
 
